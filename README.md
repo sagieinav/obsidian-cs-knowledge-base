@@ -5,21 +5,22 @@ A public repository containing my personal Obsidian vault, focused on Computer S
 
 This repository serves as a public archive and knowledge base of my Computer Science education notes. It's shared to potentially benefit other students or individuals interested in these topics.
 ## 2 Contents
+**DISCLAIMER:** Most of the contents within the vault are written in Hebrew.
 
 This repository contains the structure and content of my Obsidian vault, specifically related to Computer Science studies:
 
 -   📄 **Obsidian Notes:** Comprehensive notes, summaries, concepts, and materials compiled during my Computer Science education. The notes are organized by `Semester > Course Name > ...`. Courses currently included are:
-    -   **23 Semester 1:**
-        -   23.01 Computer Science Int
-        -   23.02 Calculus 1
-        -   23.03 Linear Algebra 1
-        -   23.04 Discrete Math
-    -   **24 Semester 2:**
-        -   24.01 Java OOP
-        -   24.02 Comp Architecture
-        -   24.03 Calculus 2
-        -   24.04 Probability Intro
-        -   24.05 Development Tools
+    -   **Semester 1:**
+        -   Computer Science Intro (Python)
+        -   Calculus 1
+        -   Linear Algebra 1
+        -   Discrete Math
+    -   **Semester 2:**
+        -   Java OOP
+        -   Comp Architecture
+        -   Calculus 2
+        -   Probability Intro
+        -   Development Tools
     *(This list will be updated as new courses are added).*
 
 -   📚 **Raw Materials/Documents:** Includes some original documents and materials provided by the college or lecturers.
@@ -29,7 +30,7 @@ This repository contains the structure and content of my Obsidian vault, specifi
 
 -   ⚙️ **Obsidian Settings:** My personalized application settings stored in the `.obsidian` folder, including editor preferences, hotkeys, and appearance settings.
 
--   🔌 **Obsidian Plugins:** All installed community plugins located within the `.obsidian/plugins` directory. These plugins enhance the functionality of the vault (e.g., Dataview, Calendar, etc.). Note that users cloning this repo will need to install and enable these plugins themselves within their own Obsidian instance for full functionality.
+-   🔌 **Obsidian Plugins:** All installed community plugins located within the `.obsidian/plugins` directory. These plugins enhance the functionality of the vault.
 
 -   🎨 **Obsidian CSS:** Custom CSS snippets used for styling the vault, located in the `.obsidian/snippets` directory or within the theme folder.
 
@@ -49,8 +50,8 @@ Make sure you have the following software installed:
 ### 3.2 Cloning the Repository
 
 Open your terminal or command prompt and run the following command to clone the vault to your local machine:
-`cd <destination-folder`
-`git clone https://github.com/sagieinav/obsidian-cs-knowledge-base.git`
+
+`git clone https://github.com/sagieinav/obsidian-cs-knowledge-base.git <destination-folder>`
 
 Replace `<destination-folder>` with the desired path where you want to save the vault on your computer.
 
@@ -91,7 +92,7 @@ This project, specifically the notes and configuration files created by the repo
 
 You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the content covered by this license, provided you include the original copyright and permission notice.
 
-See the [LICENSE](LICENSE.md) file for the full text.
+See the [LICENSE](LICENSE) file for the full text.
 
 **Note on External Materials:** As mentioned in the Contents section, some materials included are from external sources (e.g., college lecturers). These materials are included for personal educational context only and are not covered by the MIT License for redistribution. Please respect the original copyrights of these external materials.
 
