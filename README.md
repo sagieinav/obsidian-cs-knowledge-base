@@ -26,10 +26,6 @@ This repository contains the structure and content of my Obsidian vault, specifi
  > **Note on External Materials**
    These materials are included solely for personal reference and study purposes as part of my educational notes within this knowledge base. Their inclusion here does not grant any rights to reproduce, distribute, or publicly display them. Redistribution or public sharing of these specific external materials beyond cloning this repository for personal use may be subject to copyright restrictions from the original creators.
 
-<details>
-  <summary> **Note on External Materials** </summary>
-   These materials are included solely for personal reference and study purposes as part of my educational notes within this knowledge base. Their inclusion here does not grant any rights to reproduce, distribute, or publicly display them. Redistribution or public sharing of these specific external materials beyond cloning this repository for personal use may be subject to copyright restrictions from the original creators.
-</details>
 
 -   ⚙️ **Obsidian Settings:** My personalized application settings stored in the `.obsidian` folder, including editor preferences, hotkeys, and appearance settings.
 
