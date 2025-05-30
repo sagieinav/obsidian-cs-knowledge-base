@@ -3,7 +3,7 @@
 A public repository containing my personal Obsidian vault, focused on Computer Science education notes and materials.
 ## 1 Purpose
 
-This repository serves as a public archive and knowledge base of my Computer Science education notes. It's shared to potentially benefit other students or individuals interested in these topics.
+This repository serves as a public archive and knowledge base of my Computer Science education notes. It's shared to potentially benefit friends, other students or individuals interested in these topics.
 ## 2 Contents
 **DISCLAIMER:** Most of the contents within the vault are written in Hebrew.
 
