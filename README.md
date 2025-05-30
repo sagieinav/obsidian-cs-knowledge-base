@@ -6,7 +6,7 @@ This repository serves as a private backup and version-controlled archive of my 
 **Note:** This is a **private** repository and is not intended for public consumption or collaboration.
 ## 2 Contents
 
-This repository contains the complete structure and content of my Obsidian vault:
+This repository contains the complete structure and content of my Obsidian vault::
 
 -   📄 **Obsidian Notes:** Comprehensive notes, summaries, concepts, and materials compiled during my Computer Science education. The notes are organized by `Semester > Course Name > ...`. Courses currently included are:
     -   **23 Semester 1:**
