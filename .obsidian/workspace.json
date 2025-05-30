@@ -158,7 +158,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
+                    "file": "20 Education/21 Administration/01 GitHub Student Developer Pack.md",
                     "mode": "preview",
                     "source": false,
                     "backlinks": true,
@@ -173,7 +173,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "README"
+                  "title": "01 GitHub Student Developer Pack"
                 }
               }
             ],
@@ -254,7 +254,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mcl/list-column",
+                "query": "22 projects",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -306,7 +306,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "20 Education/21 Administration/01 GitHub Student Developer Pack.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -334,7 +334,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of 01 GitHub Student Developer Pack"
             }
           },
           {
@@ -489,9 +489,14 @@
   },
   "active": "f732b3c3d336cc05",
   "lastOpenFiles": [
+    "20 Education/21 Administration/01 GitHub Student Developer Pack 2.md",
+    "20 Education/21 Administration/01 GitHub Student Developer Pack.md",
+    "20 Education/_attachments/938273e9-05d0-4149-8109-566e0b57bce3.jpeg",
+    "20 Education/22 Projects/22 Projects.md",
+    "20 Education/22 Projects/22 Projects 2.md",
+    "README.md",
     "LICENSE",
     "LICENSE.md",
-    "README.md",
     "Main Hub.md",
     "40 Research/42 Data & Settings/04 Obsidian.md",
     "20 Education/22 Projects/edu-bash-basics/README.md",
@@ -508,12 +513,8 @@
     "20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools 2.md",
     "20 Education/24 Semester 2/24.01 Java OOP/24.01 Java OOP 2.md",
     "20 Education/24 Semester 2/24.05 Development Tools/5 Assets 2",
-    "20 Education/21 Administration/21.02 קשב וריכוז 2",
-    "20 Education/22 Projects/22 Projects 2.md",
     "20 Education/21 Administration/21 Administration 2.md",
     "20 Education/21 Administration/02 טיפים ללימודים באפקה 2.md",
-    "20 Education/21 Administration/01 GitHub Student Developer Pack 2.md",
-    "20 Education/22 Projects/22 Projects.md",
     "20 Education/22 Projects/edu-gradle-unit-testing/README.md",
     "20 Education/21 Administration/21.03 Exams/ערעור מבחן בחדו״א 1.md",
     "20 Education/21 Administration/21.03 Exams/23.05 Exams.md",
@@ -534,7 +535,6 @@
     "10 Personal/_attachments/SS 30052025 at 17.38.46.png",
     "20 Education/_attachments/SS 30042025 at 11.58.43.png",
     "20 Education/_attachments/SS 30042025 at 11.58.31.png",
-    "20 Education/_attachments/SS 30042025 at 11.58.11.png",
     "Untitled.canvas"
   ]
 }
