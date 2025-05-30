@@ -5,7 +5,7 @@ A public repository containing my personal Obsidian vault, focused on Computer S
 
 This repository serves as a public archive and knowledge base of my Computer Science education notes. It's shared to potentially benefit friends, other students or individuals interested in these topics.
 ## 2 Contents
-**DISCLAIMER:** Most of the contents within the vault are written in Hebrew.
+**DISCLAIMER:** Most of the contents in this vault are written in Hebrew.
 
 This repository contains the structure and content of my Obsidian vault, specifically related to Computer Science studies:
 
