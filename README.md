@@ -1,10 +1,10 @@
 # obsidian-cs-knowledge-base
 A private repository containing my personal Obsidian vault, focused on Computer Science education notes and materials.
-## Purpose
+## 1 Purpose
 This repository serves as a private backup and version-controlled archive of my Obsidian vault, specifically for my Computer Science knowledge base. It allows me to track changes, revert to previous states, and sync across devices.
 
 **Note:** This is a **private** repository and is not intended for public consumption or collaboration.
-## Contents
+## 2 Contents
 
 This repository contains the complete structure and content of my Obsidian vault:
 
@@ -27,10 +27,10 @@ This repository contains the complete structure and content of my Obsidian vault
 -   🔌 **Obsidian Plugins:** All installed community plugins located within the `.obsidian/plugins` directory. These plugins enhance the functionality of the vault.
 -   🎨 **Obsidian CSS:** Custom CSS snippets used for styling the vault, located in the `.obsidian/snippets` directory or within the theme folder.
 
-## How to Use?
+## 3 How to Use?
 To use this vault:
 1.  **Clone the repository** to your local machine:
-    `git clone <repository_url>`
+    `git clone https://github.com/sagieinav/obsidian-cs-knowledge-base.git`
 
 2.  **Open in Obsidian:**
 	-   Launch Obsidian.
@@ -38,10 +38,10 @@ To use this vault:
 	-   Navigate to and select the folder where you cloned the repository.
 
 Obsidian should load with all your notes, settings, plugins, and CSS intact.
-## Getting Latest Updates
+## 4 Getting Latest Updates
 To pull the latest changes from the repository to your local clone:
 
 1. **Navigate** to the vault directory in your terminal:
-   `cd <your_vault_dir_path`
+   `cd <your_vault_dir_path>`
 2. **Pull** the latest version:
    `git pull origin main`

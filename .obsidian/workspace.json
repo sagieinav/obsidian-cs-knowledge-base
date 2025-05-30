@@ -36,33 +36,8 @@
                   "icon": "lucide-file",
                   "title": "Personal Hub"
                 }
-              },
-              {
-                "id": "9042bb70a01694d8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10 Personal/12 Travel/12 Travel.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "12 Travel"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "aed4587927b174bb",
