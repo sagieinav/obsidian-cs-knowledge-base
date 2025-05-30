@@ -1,6 +1,3 @@
----
-number headings: off
----
 # obsidian-cs-knowledge-base
 A private repository containing my personal Obsidian vault, focused on Computer Science education notes and materials.
 ## Purpose
