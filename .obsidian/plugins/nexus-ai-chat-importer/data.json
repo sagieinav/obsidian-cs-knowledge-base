@@ -1,0 +1,515 @@
+{
+  "settings": {
+    "archiveFolder": "ChatGPT Imports",
+    "addDatePrefix": false,
+    "dateFormat": "YYYY-MM-DD",
+    "hasShownUpgradeNotice": false,
+    "hasCompletedUpgrade": false
+  },
+  "importedArchives": {
+    "8339b07cd652316e8d264236c3e76a17330a1f2c19e5b5c2a06d46df98c1c444": {
+      "fileName": "2f1fc67c0fad436192385315e67974f24f15c027742fb7126103c205f16fa0d7-2025-04-15-08-25-16-fe279483d91a44d480e4f9b67a57c04a.zip",
+      "date": "2025-04-15T08:28:06.175Z"
+    }
+  },
+  "conversationCatalog": {
+    "67fe1000-c200-8005-b902-effd64077021": {
+      "conversationId": "67fe1000-c200-8005-b902-effd64077021",
+      "path": "ChatGPT Imports/2025/04/סיכום קורס ארגון מחשבים.md",
+      "updateTime": 1744703721.951898,
+      "provider": "chatgpt"
+    },
+    "67fb8f62-84e0-8005-a179-668fd09d5919": {
+      "conversationId": "67fb8f62-84e0-8005-a179-668fd09d5919",
+      "path": "ChatGPT Imports/2025/04/Python to Java conversion.md",
+      "updateTime": 1744548346.184306,
+      "provider": "chatgpt"
+    },
+    "67fa8976-1088-8005-a87c-9377e4fbf60b": {
+      "conversationId": "67fa8976-1088-8005-a87c-9377e4fbf60b",
+      "path": "ChatGPT Imports/2025/04/Java Generic Deep Copy.md",
+      "updateTime": 1744475931.686716,
+      "provider": "chatgpt"
+    },
+    "67f6d4ed-c1e4-8005-9d4e-0fb6b64f34e8": {
+      "conversationId": "67f6d4ed-c1e4-8005-9d4e-0fb6b64f34e8",
+      "path": "ChatGPT Imports/2025/04/השפעת מובילאיי על דלק.md",
+      "updateTime": 1744229621.321811,
+      "provider": "chatgpt"
+    },
+    "67f3c2ef-4e98-8005-9601-e60419c2b4ef": {
+      "conversationId": "67f3c2ef-4e98-8005-9601-e60419c2b4ef",
+      "path": "ChatGPT Imports/2025/04/Fuel consumption at low speeds.md",
+      "updateTime": 1744036764.296077,
+      "provider": "chatgpt"
+    },
+    "67f123d7-2240-8005-a3c4-5c5e8618edcc": {
+      "conversationId": "67f123d7-2240-8005-a3c4-5c5e8618edcc",
+      "path": "ChatGPT Imports/2025/04/Int Initialization Requirements.md",
+      "updateTime": 1743856612.771852,
+      "provider": "chatgpt"
+    },
+    "67f0f125-2df0-8005-b3ed-f7c80ec8c6dd": {
+      "conversationId": "67f0f125-2df0-8005-b3ed-f7c80ec8c6dd",
+      "path": "ChatGPT Imports/2025/04/Nano-coating Spray Amount.md",
+      "updateTime": 1743843626.132642,
+      "provider": "chatgpt"
+    },
+    "67e663fe-8ef0-8005-8655-455682186a82": {
+      "conversationId": "67e663fe-8ef0-8005-8655-455682186a82",
+      "path": "ChatGPT Imports/2025/03/Integrating IntelliJ with GitHub.md",
+      "updateTime": 1743527180.960108,
+      "provider": "chatgpt"
+    },
+    "67eaa670-b26c-8005-a3b6-07a66d2d5e36": {
+      "conversationId": "67eaa670-b26c-8005-a3b6-07a66d2d5e36",
+      "path": "ChatGPT Imports/2025/03/Honda Civic Fuel Efficiency.md",
+      "updateTime": 1743431893.474043,
+      "provider": "chatgpt"
+    },
+    "67e85c0a-38d0-8005-849c-67239b4b4548": {
+      "conversationId": "67e85c0a-38d0-8005-849c-67239b4b4548",
+      "path": "ChatGPT Imports/2025/03/Naruto Style Request.md",
+      "updateTime": 1743281731.591902,
+      "provider": "chatgpt"
+    },
+    "67e58a36-5b4c-8005-9b67-f7c74e043908": {
+      "conversationId": "67e58a36-5b4c-8005-9b67-f7c74e043908",
+      "path": "ChatGPT Imports/2025/03/שתיקת הצופרים ומחדלים.md",
+      "updateTime": 1743102042.291436,
+      "provider": "chatgpt"
+    },
+    "67e483f9-d94c-8005-a0d5-9f9fa0089c19": {
+      "conversationId": "67e483f9-d94c-8005-a0d5-9f9fa0089c19",
+      "path": "ChatGPT Imports/2025/03/Best Small Cars 2015-2018.md",
+      "updateTime": 1743029617.33745,
+      "provider": "chatgpt"
+    },
+    "67c5756f-339c-8005-a682-8fa38f958df2": {
+      "conversationId": "67c5756f-339c-8005-a682-8fa38f958df2",
+      "path": "ChatGPT Imports/2025/03/חישוב גבול מתמטי.md",
+      "updateTime": 1740993951.192675,
+      "provider": "chatgpt"
+    },
+    "67bf4741-11cc-8005-9371-15513bf9b7d3": {
+      "conversationId": "67bf4741-11cc-8005-9371-15513bf9b7d3",
+      "path": "ChatGPT Imports/2025/02/הודעת התנגדות למילואים.md",
+      "updateTime": 1740588977.284286,
+      "provider": "chatgpt"
+    },
+    "67b999a3-e7d4-8005-8016-a9e5953259b1": {
+      "conversationId": "67b999a3-e7d4-8005-8016-a9e5953259b1",
+      "path": "ChatGPT Imports/2025/02/תוכנית עבודה בחודש ינואר.md",
+      "updateTime": 1740324990.447454,
+      "provider": "chatgpt"
+    },
+    "67b87455-2a60-8005-a4a6-c3fb9ab95c58": {
+      "conversationId": "67b87455-2a60-8005-a4a6-c3fb9ab95c58",
+      "path": "ChatGPT Imports/2025/02/חישוב תוצאה.md",
+      "updateTime": 1740141662.280819,
+      "provider": "chatgpt"
+    },
+    "67a4aa59-6ac8-8005-b664-bb2426354e37": {
+      "conversationId": "67a4aa59-6ac8-8005-b664-bb2426354e37",
+      "path": "ChatGPT Imports/2025/02/Enclosed Area Calculation.md",
+      "updateTime": 1739286303.939933,
+      "provider": "chatgpt"
+    },
+    "67aa1e85-aca4-8005-b8d0-6f995fb2164b": {
+      "conversationId": "67aa1e85-aca4-8005-b8d0-6f995fb2164b",
+      "path": "ChatGPT Imports/2025/02/Recursive String Efficiency.md",
+      "updateTime": 1739202260.314444,
+      "provider": "chatgpt"
+    },
+    "679cfddb-f7d4-8005-bd77-ce60594e7bf4": {
+      "conversationId": "679cfddb-f7d4-8005-bd77-ce60594e7bf4",
+      "path": "ChatGPT Imports/2025/01/גזירות ורציפות.md",
+      "updateTime": 1738341908.173854,
+      "provider": "chatgpt"
+    },
+    "679b480f-1a6c-8005-b9d8-4912d5d5d5b4": {
+      "conversationId": "679b480f-1a6c-8005-b9d8-4912d5d5d5b4",
+      "path": "ChatGPT Imports/2025/01/העלאה בריבוע במשוואות.md",
+      "updateTime": 1738244396.272197,
+      "provider": "chatgpt"
+    },
+    "67940b00-d5c8-8005-9e49-1510fb4ffdfb": {
+      "conversationId": "67940b00-d5c8-8005-9e49-1510fb4ffdfb",
+      "path": "ChatGPT Imports/2025/01/קבוצה פורשת וממד מרחב.md",
+      "updateTime": 1737755405.667009,
+      "provider": "chatgpt"
+    },
+    "67936c8f-11bc-8005-bf11-4f245a08f4e3": {
+      "conversationId": "67936c8f-11bc-8005-bf11-4f245a08f4e3",
+      "path": "ChatGPT Imports/2025/01/קבוצות פורשות במרחב.md",
+      "updateTime": 1737717322.64658,
+      "provider": "chatgpt"
+    },
+    "67927870-ab04-8005-9e71-22145be8a2b5": {
+      "conversationId": "67927870-ab04-8005-9e71-22145be8a2b5",
+      "path": "ChatGPT Imports/2025/01/גזירת e בחזקת x².md",
+      "updateTime": 1737661091.643755,
+      "provider": "chatgpt"
+    },
+    "6790b52b-3558-8005-b695-a32455c37b27": {
+      "conversationId": "6790b52b-3558-8005-b695-a32455c37b27",
+      "path": "ChatGPT Imports/2025/01/Derivative of e^-x.md",
+      "updateTime": 1737557111.732881,
+      "provider": "chatgpt"
+    },
+    "678b7e48-e204-8005-9480-e68b0be30b76": {
+      "conversationId": "678b7e48-e204-8005-9480-e68b0be30b76",
+      "path": "ChatGPT Imports/2025/01/חישוב נגזרת חד-צדדית.md",
+      "updateTime": 1737289583.911812,
+      "provider": "chatgpt"
+    },
+    "678a8899-3718-8005-8877-05ab411afac9": {
+      "conversationId": "678a8899-3718-8005-8877-05ab411afac9",
+      "path": "ChatGPT Imports/2025/01/המרת ביטויים מתמטיים.md",
+      "updateTime": 1737138527.286941,
+      "provider": "chatgpt"
+    },
+    "6787cafc-6120-8005-9f1d-e9bee8a6b13c": {
+      "conversationId": "6787cafc-6120-8005-9f1d-e9bee8a6b13c",
+      "path": "ChatGPT Imports/2025/01/שיפור תמונה בכתב.md",
+      "updateTime": 1736952595.180682,
+      "provider": "chatgpt"
+    },
+    "67855784-f9e0-8005-bf2a-eff88ef4a949": {
+      "conversationId": "67855784-f9e0-8005-bf2a-eff88ef4a949",
+      "path": "ChatGPT Imports/2025/01/MacBook Overheating Analysis.md",
+      "updateTime": 1736792379.612782,
+      "provider": "chatgpt"
+    },
+    "67854279-e56c-8005-927b-757acad7837d": {
+      "conversationId": "67854279-e56c-8005-927b-757acad7837d",
+      "path": "ChatGPT Imports/2025/01/האם סכום וקטורים שייך ל-U.md",
+      "updateTime": 1736787467.871548,
+      "provider": "chatgpt"
+    },
+    "678529ab-6774-8005-bcc9-2cb1998908a0": {
+      "conversationId": "678529ab-6774-8005-bcc9-2cb1998908a0",
+      "path": "ChatGPT Imports/2025/01/כפל בסקלר ואפס.md",
+      "updateTime": 1736780207.319705,
+      "provider": "chatgpt"
+    },
+    "67851cea-2eec-8005-8057-90299eb686b6": {
+      "conversationId": "67851cea-2eec-8005-8057-90299eb686b6",
+      "path": "ChatGPT Imports/2025/01/בדיקת טענות מתמטיות.md",
+      "updateTime": 1736779871.825595,
+      "provider": "chatgpt"
+    },
+    "67850f5d-1c5c-8005-b3bc-2b5868b2c4c9": {
+      "conversationId": "67850f5d-1c5c-8005-b3bc-2b5868b2c4c9",
+      "path": "ChatGPT Imports/2025/01/חיבור וקטורים שונים.md",
+      "updateTime": 1736773478.952444,
+      "provider": "chatgpt"
+    },
+    "678192fb-9cd0-8005-b942-6400e07c774f": {
+      "conversationId": "678192fb-9cd0-8005-b942-6400e07c774f",
+      "path": "ChatGPT Imports/2025/01/Stylish Salad Playlist Cover.md",
+      "updateTime": 1736714862.847035,
+      "provider": "chatgpt"
+    },
+    "678025b1-e888-8005-b094-1cf6cc8e5828": {
+      "conversationId": "678025b1-e888-8005-b094-1cf6cc8e5828",
+      "path": "ChatGPT Imports/2025/01/גזירת פונקציה עם השרשרת.md",
+      "updateTime": 1736451516.064022,
+      "provider": "chatgpt"
+    },
+    "677ecf4a-1924-8005-99f9-e8289e95cb5e": {
+      "conversationId": "677ecf4a-1924-8005-99f9-e8289e95cb5e",
+      "path": "ChatGPT Imports/2025/01/Update Script for macOS.md",
+      "updateTime": 1736371879.509059,
+      "provider": "chatgpt"
+    },
+    "677d7b11-9220-8005-9ea1-e421fae430c7": {
+      "conversationId": "677d7b11-9220-8005-9ea1-e421fae430c7",
+      "path": "ChatGPT Imports/2025/01/נגזרת של פונקציה אקספוננציאלית.md",
+      "updateTime": 1736277815.91572,
+      "provider": "chatgpt"
+    },
+    "677d4f9e-56b0-8005-b9f1-25e25766beba": {
+      "conversationId": "677d4f9e-56b0-8005-b9f1-25e25766beba",
+      "path": "ChatGPT Imports/2025/01/רציפות פונקציה.md",
+      "updateTime": 1736265651.315262,
+      "provider": "chatgpt"
+    },
+    "677bec39-53a4-8005-8a61-fe07715ae70e": {
+      "conversationId": "677bec39-53a4-8005-8a61-fe07715ae70e",
+      "path": "ChatGPT Imports/2025/01/מטריצה הפיכה עם מינור 0.md",
+      "updateTime": 1736179518.941098,
+      "provider": "chatgpt"
+    },
+    "67793174-426c-8005-8cb2-64a7f4ce8aa9": {
+      "conversationId": "67793174-426c-8005-8cb2-64a7f4ce8aa9",
+      "path": "ChatGPT Imports/2025/01/איחוד קבוצות בנות מנייה.md",
+      "updateTime": 1736090044.937341,
+      "provider": "chatgpt"
+    },
+    "67782a8f-3204-8005-bd84-a88dceda59bd": {
+      "conversationId": "67782a8f-3204-8005-bd84-a88dceda59bd",
+      "path": "ChatGPT Imports/2025/01/מציאת תמונה לפי גבולות.md",
+      "updateTime": 1735928483.474379,
+      "provider": "chatgpt"
+    },
+    "6771064e-dfbc-8005-9d11-85984d9108ff": {
+      "conversationId": "6771064e-dfbc-8005-9d11-85984d9108ff",
+      "path": "ChatGPT Imports/2024/12/כמות איברי יחס שקילות.md",
+      "updateTime": 1735909224.57583,
+      "provider": "chatgpt"
+    },
+    "677294e0-37ec-8005-bb9c-608d8d899e41": {
+      "conversationId": "677294e0-37ec-8005-bb9c-608d8d899e41",
+      "path": "ChatGPT Imports/2024/12/חזקות של 2 ו-5.md",
+      "updateTime": 1735626926.296837,
+      "provider": "chatgpt"
+    },
+    "676ebf1c-5ba8-8005-ae9f-fc4583b384f8": {
+      "conversationId": "676ebf1c-5ba8-8005-ae9f-fc4583b384f8",
+      "path": "ChatGPT Imports/2024/12/סדרה מתכנסת או לא.md",
+      "updateTime": 1735326670.013888,
+      "provider": "chatgpt"
+    },
+    "676d8ea1-bd78-8005-898e-71d80c1bb5b9": {
+      "conversationId": "676d8ea1-bd78-8005-898e-71d80c1bb5b9",
+      "path": "ChatGPT Imports/2024/12/Linear Algebra Quiz Help.md",
+      "updateTime": 1735235742.420599,
+      "provider": "chatgpt"
+    },
+    "676aa320-421c-8005-9f9c-403ece1370e7": {
+      "conversationId": "676aa320-421c-8005-9f9c-403ece1370e7",
+      "path": "ChatGPT Imports/2024/12/איחוד וחיתוך מרחבים וקטוריים.md",
+      "updateTime": 1735043729.634521,
+      "provider": "chatgpt"
+    },
+    "67698669-19d0-8005-9c56-35b2e0ee33c5": {
+      "conversationId": "67698669-19d0-8005-9c56-35b2e0ee33c5",
+      "path": "ChatGPT Imports/2024/12/בסיס טבעי במרחב מטריצות.md",
+      "updateTime": 1734971978.070919,
+      "provider": "chatgpt"
+    },
+    "6767eaa0-f5f4-8005-86f7-62bfd73bf9b2": {
+      "conversationId": "6767eaa0-f5f4-8005-86f7-62bfd73bf9b2",
+      "path": "ChatGPT Imports/2024/12/פונקציה חחע מ-[0,1]^2.md",
+      "updateTime": 1734967990.716696,
+      "provider": "chatgpt"
+    },
+    "67627cbe-47b8-8005-997d-02b9dd882a85": {
+      "conversationId": "67627cbe-47b8-8005-997d-02b9dd882a85",
+      "path": "ChatGPT Imports/2024/12/0.9999 and Infinity.md",
+      "updateTime": 1734507723.46275,
+      "provider": "chatgpt"
+    },
+    "6761a893-1ae8-8005-8515-29e5a92b666c": {
+      "conversationId": "6761a893-1ae8-8005-8515-29e5a92b666c",
+      "path": "ChatGPT Imports/2024/12/יחס לא סימטרי ואנטי-סימטרי.md",
+      "updateTime": 1734453410.066427,
+      "provider": "chatgpt"
+    },
+    "676068a4-dc58-8005-8a29-3400eea2a158": {
+      "conversationId": "676068a4-dc58-8005-8a29-3400eea2a158",
+      "path": "ChatGPT Imports/2024/12/Eating Before Bed Tips.md",
+      "updateTime": 1734371601.332253,
+      "provider": "chatgpt"
+    },
+    "67604fa9-253c-8005-a0c5-2202e214a367": {
+      "conversationId": "67604fa9-253c-8005-a0c5-2202e214a367",
+      "path": "ChatGPT Imports/2024/12/Linear Dependence Visualization.md",
+      "updateTime": 1734365364.340332,
+      "provider": "chatgpt"
+    },
+    "675ea09e-c19c-8005-bf65-170287ece184": {
+      "conversationId": "675ea09e-c19c-8005-bf65-170287ece184",
+      "path": "ChatGPT Imports/2024/12/המלון של הילברט.md",
+      "updateTime": 1734254771.638181,
+      "provider": "chatgpt"
+    },
+    "675c68e6-c550-8005-a957-5580d7ce545d": {
+      "conversationId": "675c68e6-c550-8005-a957-5580d7ce545d",
+      "path": "ChatGPT Imports/2024/12/סדרה מחזורית מתכנסת.md",
+      "updateTime": 1734109435.393194,
+      "provider": "chatgpt"
+    },
+    "675b4206-d5d4-8005-9939-ef121b82dde1": {
+      "conversationId": "675b4206-d5d4-8005-9939-ef121b82dde1",
+      "path": "ChatGPT Imports/2024/12/AnyDesk Mac Permissions.md",
+      "updateTime": 1734033952.40687,
+      "provider": "chatgpt"
+    },
+    "675b1699-5fb0-8005-8fc6-f8965789f544": {
+      "conversationId": "675b1699-5fb0-8005-8fc6-f8965789f544",
+      "path": "ChatGPT Imports/2024/12/Graph transformations f(x).md",
+      "updateTime": 1734022922.808608,
+      "provider": "chatgpt"
+    },
+    "675ac4fd-17e4-8005-b30f-993efe784f46": {
+      "conversationId": "675ac4fd-17e4-8005-b30f-993efe784f46",
+      "path": "ChatGPT Imports/2024/12/Image Upload Issue.md",
+      "updateTime": 1734002038.469005,
+      "provider": "chatgpt"
+    },
+    "6759bbb1-436c-8005-b3c5-6a26a9eeda51": {
+      "conversationId": "6759bbb1-436c-8005-b3c5-6a26a9eeda51",
+      "path": "ChatGPT Imports/2024/12/קשר בין אנטי-סימטריה להפיכות.md",
+      "updateTime": 1733934039.53071,
+      "provider": "chatgpt"
+    },
+    "67583e32-9fe0-8005-9f40-c106142a6cde": {
+      "conversationId": "67583e32-9fe0-8005-9f40-c106142a6cde",
+      "path": "ChatGPT Imports/2024/12/דוגמה למרחב וקטורי.md",
+      "updateTime": 1733836737.589267,
+      "provider": "chatgpt"
+    },
+    "66da2b80-1f8c-8005-81aa-ad6addd87b14": {
+      "conversationId": "66da2b80-1f8c-8005-81aa-ad6addd87b14",
+      "path": "ChatGPT Imports/2024/09/Artist for Relaxation.md",
+      "updateTime": 1725574017.367628,
+      "provider": "chatgpt"
+    },
+    "66da2b62-6b70-8005-a1ff-577f2948517b": {
+      "conversationId": "66da2b62-6b70-8005-a1ff-577f2948517b",
+      "path": "ChatGPT Imports/2024/09/Night Relaxation Music Recommendation.md",
+      "updateTime": 1725573988.215601,
+      "provider": "chatgpt"
+    },
+    "1b89fd65-3004-4288-827c-b4f12c39aae0": {
+      "conversationId": "1b89fd65-3004-4288-827c-b4f12c39aae0",
+      "path": "ChatGPT Imports/2024/07/User Request Summarize.md",
+      "updateTime": 1721254626.835547,
+      "provider": "chatgpt"
+    },
+    "a17adb4f-576c-4c75-8db2-cdb42f9db107": {
+      "conversationId": "a17adb4f-576c-4c75-8db2-cdb42f9db107",
+      "path": "ChatGPT Imports/2024/07/User request Assistance summarizing.md",
+      "updateTime": 1721253462.340091,
+      "provider": "chatgpt"
+    },
+    "95790ed3-5fe2-4f87-906e-001ee03b557d": {
+      "conversationId": "95790ed3-5fe2-4f87-906e-001ee03b557d",
+      "path": "ChatGPT Imports/2024/07/User request, model response.md",
+      "updateTime": 1721252949.766734,
+      "provider": "chatgpt"
+    },
+    "f515cef3-f7b3-405f-a8f2-5afb999b52e4": {
+      "conversationId": "f515cef3-f7b3-405f-a8f2-5afb999b52e4",
+      "path": "ChatGPT Imports/2024/07/Hi How R U.md",
+      "updateTime": 1720461535.733689,
+      "provider": "chatgpt"
+    },
+    "ec5dea54-b2aa-483b-8189-0087d9dae45b": {
+      "conversationId": "ec5dea54-b2aa-483b-8189-0087d9dae45b",
+      "path": "ChatGPT Imports/2024/02/Northward March, South Sunshine.md",
+      "updateTime": 1708718130.116212,
+      "provider": "chatgpt"
+    },
+    "23b5a7cb-5edd-4d24-9303-83edbc950043": {
+      "conversationId": "23b5a7cb-5edd-4d24-9303-83edbc950043",
+      "path": "ChatGPT Imports/2024/02/Vietnam Trip Itinerary.md",
+      "updateTime": 1708241442.93651,
+      "provider": "chatgpt"
+    },
+    "96249412-b185-4d46-9603-0d27b99a8c51": {
+      "conversationId": "96249412-b185-4d46-9603-0d27b99a8c51",
+      "path": "ChatGPT Imports/2023/04/Best Time for North Korea.md",
+      "updateTime": 1682843736,
+      "provider": "chatgpt"
+    },
+    "2e2bb936-7aad-4e26-8297-13a83b88daed": {
+      "conversationId": "2e2bb936-7aad-4e26-8297-13a83b88daed",
+      "path": "ChatGPT Imports/2023/04/Best Season to Travel..md",
+      "updateTime": 1682842116,
+      "provider": "chatgpt"
+    },
+    "a84aff24-8c8b-4b7d-9ca6-85c0456ef3c9": {
+      "conversationId": "a84aff24-8c8b-4b7d-9ca6-85c0456ef3c9",
+      "path": "ChatGPT Imports/2023/04/Far East Vacation Plan.md",
+      "updateTime": 1681333964,
+      "provider": "chatgpt"
+    },
+    "4f76afac-2282-4600-b73b-adb08b2fbf00": {
+      "conversationId": "4f76afac-2282-4600-b73b-adb08b2fbf00",
+      "path": "ChatGPT Imports/2022/12/Greeting and Help Offer.md",
+      "updateTime": 1671745426.37103,
+      "provider": "chatgpt"
+    },
+    "ecb3c08f-c6a3-4356-bf12-06d135322fe1": {
+      "conversationId": "ecb3c08f-c6a3-4356-bf12-06d135322fe1",
+      "path": "ChatGPT Imports/2022/12/Migrate AD Forest to New.md",
+      "updateTime": 1671746052.034144,
+      "provider": "chatgpt"
+    },
+    "2d0790ec-a778-4731-b9a1-4bdf95075221": {
+      "conversationId": "2d0790ec-a778-4731-b9a1-4bdf95075221",
+      "path": "ChatGPT Imports/2022/12/New chat.md",
+      "updateTime": 1671746420.643966,
+      "provider": "chatgpt"
+    },
+    "4f18d1d1-4645-4f51-b75f-fc68ceb85e39": {
+      "conversationId": "4f18d1d1-4645-4f51-b75f-fc68ceb85e39",
+      "path": "ChatGPT Imports/2022/12/2022 FIFA World Cup.md",
+      "updateTime": 1671746474.404876,
+      "provider": "chatgpt"
+    },
+    "a64c9920-124d-4a06-a77e-eb4fe89b0066": {
+      "conversationId": "a64c9920-124d-4a06-a77e-eb4fe89b0066",
+      "path": "ChatGPT Imports/2022/12/New chat (1).md",
+      "updateTime": 1671746505.848099,
+      "provider": "chatgpt"
+    },
+    "6641e54b-c5d2-43aa-a45a-1d570f2e6de3": {
+      "conversationId": "6641e54b-c5d2-43aa-a45a-1d570f2e6de3",
+      "path": "ChatGPT Imports/2022/12/Remove Users From Domain Local Groups.md",
+      "updateTime": 1671746609.577415,
+      "provider": "chatgpt"
+    },
+    "166d24ed-ea8e-4e46-9553-a91c1a1ef84c": {
+      "conversationId": "166d24ed-ea8e-4e46-9553-a91c1a1ef84c",
+      "path": "ChatGPT Imports/2022/12/Complete Sudoku Quickly.md",
+      "updateTime": 1671746786.283628,
+      "provider": "chatgpt"
+    },
+    "1badd902-dc2b-416b-b539-f3eb9b2d99b2": {
+      "conversationId": "1badd902-dc2b-416b-b539-f3eb9b2d99b2",
+      "path": "ChatGPT Imports/2022/12/Context Needed.md",
+      "updateTime": 1671746971.689063,
+      "provider": "chatgpt"
+    },
+    "37e59844-9609-4eee-af78-a75a12bf8d86": {
+      "conversationId": "37e59844-9609-4eee-af78-a75a12bf8d86",
+      "path": "ChatGPT Imports/2022/12/Most Populous MMORPGs.md",
+      "updateTime": 1671747127.394629,
+      "provider": "chatgpt"
+    },
+    "6635e686-9914-4c8e-b83b-f358477f117b": {
+      "conversationId": "6635e686-9914-4c8e-b83b-f358477f117b",
+      "path": "ChatGPT Imports/2022/12/New chat (2).md",
+      "updateTime": 1671970429.021508,
+      "provider": "chatgpt"
+    },
+    "747b662c-f893-4093-b83e-4d720ca181c4": {
+      "conversationId": "747b662c-f893-4093-b83e-4d720ca181c4",
+      "path": "ChatGPT Imports/2022/12/New chat (3).md",
+      "updateTime": 1671971804.862586,
+      "provider": "chatgpt"
+    },
+    "3ca59c9a-f2d6-42af-baa6-d2f6864979b1": {
+      "conversationId": "3ca59c9a-f2d6-42af-baa6-d2f6864979b1",
+      "path": "ChatGPT Imports/2022/12/New chat (4).md",
+      "updateTime": 1672253139.7081,
+      "provider": "chatgpt"
+    },
+    "199907a1-37d0-460d-a2dd-48ff31adaca7": {
+      "conversationId": "199907a1-37d0-460d-a2dd-48ff31adaca7",
+      "path": "ChatGPT Imports/2023/01/Most Overtimes In Basketball.md",
+      "updateTime": 1673216195.740051,
+      "provider": "chatgpt"
+    },
+    "99f5933b-aad1-4021-9f14-700aeb4b5033": {
+      "conversationId": "99f5933b-aad1-4021-9f14-700aeb4b5033",
+      "path": "ChatGPT Imports/2023/01/Headache in back left.md",
+      "updateTime": 1673268169.091114,
+      "provider": "chatgpt"
+    }
+  }
+}

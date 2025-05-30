@@ -1,0 +1,23 @@
+{
+  "fileDirections": {
+    "Templates/Template - Callout 01 - Example.md": "rtl",
+    "Templates/Template - Folder Note.md": "auto",
+    "Templates/Template - Callout 06 - Tldr.md": "rtl",
+    "Templates/Template - Callout 05 - Exam.md": "rtl",
+    "Templates/Template - Callout 04 - Attention.md": "rtl",
+    "Templates/Template - Callout 03 - Important.md": "rtl",
+    "Templates/Template - Callout 02 - Note.md": "rtl",
+    "40 Research/40 Apps & Tools/List of Apps & Tools Installed.md": "auto",
+    "10 Personal/14 Workout/14 Workout.md": "auto",
+    "10 Personal/11 Documents/11.02 Finance/11.02 Finance.md": "auto",
+    "10 Personal/15 Shopping/15 Shopping.md": "ltr",
+    "Templates/FolderNote copy.md": "auto",
+    "Templates/FolderNotePersonal.md": "auto"
+  },
+  "defaultDirection": "auto",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "preventRTLFrontmatter": true,
+  "statusBar": true
+}

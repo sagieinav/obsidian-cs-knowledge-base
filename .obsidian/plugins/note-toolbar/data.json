@@ -1,0 +1,116 @@
+{
+  "debugEnabled": false,
+  "emptyViewToolbar": null,
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [],
+  "icon": "circle-ellipsis",
+  "keepPropsState": false,
+  "onboarding": {},
+  "recentFiles": [
+    "40 Research/44 Playground/04 Tasks.md",
+    "HUB Playground.md",
+    "Main Hub.md",
+    "10 Personal/_attachments/SS 30052025 at 17.38.46.png",
+    "10 Personal/12 Travel/12.01 Far East/01 Japan/01 Japan attractions.md",
+    "20 Education/23 Semester 1/23.02 Calculus 1/1 Lecture/2 Functions - Basis/1.4.0 פונקציות - תכונות והגדרות.md",
+    "40 Research/46 AI/01 AI Prompts.md",
+    "40 Research/45 Private Project/03 Links - Private Server.md",
+    "40 Research/45 Private Project/02 Ideas.md",
+    "40 Research/45 Private Project/01 Changelog.md"
+  ],
+  "ribbonAction": "toolbar",
+  "scriptingEnabled": false,
+  "showEditInFabMenu": false,
+  "showToolbarIn": {
+    "audio": false,
+    "canvas": false,
+    "image": false,
+    "kanban": false,
+    "pdf": false,
+    "video": false
+  },
+  "showToolbarInFileMenu": false,
+  "toolbarProp": "notetoolbar",
+  "toolbars": [
+    {
+      "uuid": "0944b29a-6d7e-4119-b5d9-6a3db83a43ce",
+      "customClasses": "",
+      "defaultItem": null,
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "hasCommand": false,
+      "items": [
+        {
+          "uuid": "34e44ff9-b83e-4887-9847-4dae38ba5348",
+          "hasCommand": false,
+          "icon": "lucide-airplay",
+          "inGallery": false,
+          "label": "Pin",
+          "link": "Toggle pin",
+          "linkAttr": {
+            "commandId": "workspace:toggle-pin",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "TestToolbar",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "top"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "top"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "top"
+          }
+        }
+      },
+      "updated": "2025-05-28T12:15:49.868Z"
+    }
+  ],
+  "version": 20250313.1,
+  "whatsnew_version": "1.23"
+}

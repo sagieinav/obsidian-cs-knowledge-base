@@ -1,0 +1,264 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 20,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": "short",
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "obsidian-advanced-uri": {
+        "startupType": "disabled"
+      },
+      "obsidian-auto-link-title": {
+        "startupType": "long"
+      },
+      "obsidian42-brat": {
+        "startupType": "long"
+      },
+      "calendar": {
+        "startupType": "disabled"
+      },
+      "checkbox-reorder": {
+        "startupType": "long"
+      },
+      "dataview": {
+        "startupType": "short"
+      },
+      "editing-toolbar": {
+        "startupType": "short"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "instant"
+      },
+      "obsidian-minimal-settings": {
+        "startupType": "disabled"
+      },
+      "obsidian-outliner": {
+        "startupType": "long"
+      },
+      "obsidian-quiet-outline": {
+        "startupType": "short"
+      },
+      "recent-files-obsidian": {
+        "startupType": "short"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "templater-obsidian": {
+        "startupType": "short"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "disabled"
+      },
+      "folder-note-plugin": {
+        "startupType": "long"
+      },
+      "folder-notes": {
+        "startupType": "long"
+      },
+      "homepage": {
+        "startupType": "instant"
+      },
+      "ink": {
+        "startupType": "disabled"
+      },
+      "obsidian-media-db-plugin": {
+        "startupType": "long"
+      },
+      "quickadd": {
+        "startupType": "short"
+      },
+      "obsidian-latex-suite": {
+        "startupType": "short"
+      },
+      "obsidian-rtl": {
+        "startupType": "instant"
+      },
+      "obsidian-plugin-toc": {
+        "startupType": "long"
+      },
+      "automatic-table-of-contents": {
+        "startupType": "short"
+      },
+      "open-in-new-tab": {
+        "startupType": "instant"
+      },
+      "new-tab-default-page": {
+        "startupType": "short"
+      },
+      "home-tab": {
+        "startupType": "short"
+      },
+      "project-browser": {
+        "startupType": "disabled"
+      },
+      "darlal-switcher-plus": {
+        "startupType": "short"
+      },
+      "open-with": {
+        "startupType": "disabled"
+      },
+      "waypoint": {
+        "startupType": "long"
+      },
+      "mononote": {
+        "startupType": "long"
+      },
+      "alx-folder-note": {
+        "startupType": "long"
+      },
+      "alx-folder-note-folderv": {
+        "startupType": "long"
+      },
+      "folder-note-core": {
+        "startupType": "long"
+      },
+      "obsidian-opener": {
+        "startupType": "short"
+      },
+      "obsidian-view-mode-by-frontmatter": {
+        "startupType": "instant"
+      },
+      "influx": {
+        "startupType": "short"
+      },
+      "better-search-views": {
+        "startupType": "short"
+      },
+      "nuke-orphans": {
+        "startupType": "long"
+      },
+      "callout-integrator": {
+        "startupType": "long"
+      },
+      "callout-manager": {
+        "startupType": "instant"
+      },
+      "code-styler": {
+        "startupType": "short"
+      },
+      "obsidian-list-callouts": {
+        "startupType": "short"
+      },
+      "iconic": {
+        "startupType": "instant"
+      },
+      "obsidian-banners": {
+        "startupType": "instant"
+      },
+      "obsidian-apple-reminders-plugin": {
+        "startupType": "short"
+      },
+      "nexus-ai-chat-importer": {
+        "startupType": "disabled"
+      },
+      "obsidian-charts": {
+        "startupType": "long"
+      },
+      "convert-katex-to-mathjax": {
+        "startupType": "short"
+      },
+      "obsidian-tikzjax": {
+        "startupType": "short"
+      },
+      "data-cards": {
+        "startupType": "short"
+      },
+      "dbfolder": {
+        "startupType": "short"
+      },
+      "excalibrain": {
+        "startupType": "disabled"
+      },
+      "highlightr-plugin": {
+        "startupType": "short"
+      },
+      "insert-unsplash-image": {
+        "startupType": "long"
+      },
+      "obsidian-imgur-plugin": {
+        "startupType": "disabled"
+      },
+      "markdown-attributes": {
+        "startupType": "disabled"
+      },
+      "obsidian-meta-bind-plugin": {
+        "startupType": "long"
+      },
+      "periodic-notes": {
+        "startupType": "disabled"
+      },
+      "obsidian-plugin-update-tracker": {
+        "startupType": "short"
+      },
+      "obsidian-projects": {
+        "startupType": "disabled"
+      },
+      "settings-search": {
+        "startupType": "long"
+      },
+      "obsidian-tasks-plugin": {
+        "startupType": "long"
+      },
+      "obsidian-trash-explorer": {
+        "startupType": "long"
+      },
+      "tray": {
+        "startupType": "short"
+      },
+      "frontmatter-modified-date": {
+        "startupType": "short"
+      },
+      "obsidian-git": {
+        "startupType": "long"
+      },
+      "table-editor-obsidian": {
+        "startupType": "short"
+      },
+      "obsidian-pandoc": {
+        "startupType": "short"
+      },
+      "number-headings-obsidian": {
+        "startupType": "short"
+      },
+      "advanced-canvas": {
+        "startupType": "short"
+      },
+      "obsidian-hider": {
+        "startupType": "short"
+      },
+      "obsidian-plantuml": {
+        "startupType": "short"
+      },
+      "vertical-tabs": {
+        "startupType": "short"
+      },
+      "make-md": {
+        "startupType": "short"
+      },
+      "url-into-selection": {
+        "startupType": "short"
+      },
+      "folder-overview": {
+        "startupType": "short"
+      },
+      "obsidian-desmos": {
+        "startupType": "short"
+      },
+      "note-toolbar": {
+        "startupType": "short"
+      },
+      "consistent-attachments-and-links": {
+        "startupType": "short"
+      },
+      "obsidian-custom-attachment-location": {
+        "startupType": "short"
+      }
+    },
+    "loadOrder": []
+  }
+}

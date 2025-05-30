@@ -1,0 +1,565 @@
+{
+  "main": {
+    "id": "ff30545b009ee0b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbcd9ba65e6a0e07",
+        "type": "split",
+        "children": [
+          {
+            "id": "0657fc423d5cfeae",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "73e71ec8077845e1",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10 Personal/Personal Hub.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Personal Hub"
+                }
+              },
+              {
+                "id": "9042bb70a01694d8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10 Personal/12 Travel/12 Travel.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "12 Travel"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "aed4587927b174bb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bcb2c5231acf380b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20 Education/Education Hub.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Education Hub"
+                }
+              },
+              {
+                "id": "94554c43c07cb1fc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20 Education/24 Semester 2/24.05 Development Tools/4 Dive In/edu-bash-basics/README.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "README"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "4f9c960ddcac55a9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c90a855254949a31",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "40 Research/Research Hub.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Research Hub"
+                }
+              },
+              {
+                "id": "7c2f9420d67960e2",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "40 Research/42 Data & Settings/04 Obsidian.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "04 Obsidian"
+                }
+              },
+              {
+                "id": "b12a9feae30f0cac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "40 Research/44 Playground/04 Tasks.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "04 Tasks"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "d311d61097e6f0e3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "70b872ad1d1555e6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "30 Work/Work Hub.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Work Hub"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fa7caea1947fd37",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5c18cbdd978fc72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f204be13209361d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3d288c2d238dd621",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
+            }
+          },
+          {
+            "id": "404e37f0f5584cac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#mcl/list-column",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3c1a33f0c5496fc9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287
+  },
+  "right": {
+    "id": "01c80885edef377f",
+    "type": "split",
+    "children": [
+      {
+        "id": "94d82477d3b81bc5",
+        "type": "tabs",
+        "dimension": 47.3756906077348,
+        "children": [
+          {
+            "id": "6a7117b6d04b891e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "bd6a57dbcaf2daa5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "40 Research/44 Playground/04 Tasks.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.8,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4682213077274803,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 04 Tasks"
+            }
+          },
+          {
+            "id": "025438ed514a5daf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20 Education/🏠 Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 🏠 Dashboard"
+            }
+          },
+          {
+            "id": "39a76bde5f566225",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "486fdb2f39f9ba2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20 Education/🏠 Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🏠 Dashboard"
+            }
+          },
+          {
+            "id": "02829e375f9a7c11",
+            "type": "leaf",
+            "state": {
+              "type": "folder-overview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b41efa34f62597d2",
+        "type": "tabs",
+        "dimension": 52.62430939226519,
+        "children": [
+          {
+            "id": "ff59cc13c77c5914",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e75b94f8566f2d9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "9ad4ce13a8bf1bbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🙃 Sidebar.md"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "af473c9fa76613a8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d470cddf1c34f88c",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {},
+              "icon": "trash",
+              "title": "Trash explorer"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "templates:Insert template": false,
+      "iconic:Open rulebook": false,
+      "callout-manager:Insert Callout": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "obsidian-trash-explorer:Open trash explorer": false
+    }
+  },
+  "active": "b12a9feae30f0cac",
+  "lastOpenFiles": [
+    "obsidian-cs-knowledge-base",
+    "40 Research/44 Playground/03 HUB Playground.md",
+    "Main Hub.md",
+    "10 Personal/_attachments/SS 30052025 at 17.38.46.png",
+    "10 Personal/12 Travel/12.01 Far East/01 Japan/01 Japan attractions.md",
+    "10 Personal/_attachments",
+    "20 Education/23 Semester 1/23.02 Calculus 1/1 Lecture/2 Functions - Basis/1.4.0 פונקציות - תכונות והגדרות.md",
+    "20 Education/_attachments/SS 30042025 at 11.58.43.png",
+    "20 Education/_attachments/SS 30042025 at 11.58.31.png",
+    "20 Education/_attachments/SS 30042025 at 11.58.11.png",
+    "20 Education/_attachments/SS 30042025 at 11.57.50.png",
+    "20 Education/_attachments/SS 30032025 at 12.48.28.png",
+    "20 Education/_attachments/SS 29052025 at 15.48.02.png",
+    "20 Education/_attachments/SS 29052025 at 15.46.58.png",
+    "20 Education/_attachments/SS 29052025 at 15.46.46.png",
+    "20 Education/_attachments/SS 29052025 at 15.46.33.png",
+    "40 Research/46 AI/01 AI Prompts.md",
+    "40 Research/45 Private Project/03 Links - Private Server.md",
+    "40 Research/45 Private Project/02 Ideas.md",
+    "40 Research/45 Private Project/01 Changelog.md",
+    "40 Research/44 Playground/04 Tasks.md",
+    "40 Research/44 Playground/02 NoteToolbar.md",
+    "40 Research/44 Playground/01 Floating Images CSS.md",
+    "40 Research/42 Data & Settings/12 Folders & Files Naming Conventions.md",
+    "40 Research/42 Data & Settings/11 Crash report 13-01-24.md",
+    "40 Research/42 Data & Settings/10 Hazel Use Ideas.md",
+    "40 Research/42 Data & Settings/09 Speedometer Browser Benchmark.md",
+    "40 Research/42 Data & Settings/08 Internet Speed Tests.md",
+    "40 Research/42 Data & Settings/07 Fonts.md",
+    "40 Research/42 Data & Settings/06 Disable, Enable Input Indicator.md",
+    "40 Research/42 Data & Settings/05 Raycast.md",
+    "40 Research/42 Data & Settings/04 Obsidian.md",
+    "40 Research/42 Data & Settings/03 License Keys.md",
+    "40 Research/42 Data & Settings/02 LG TV Calibration.md",
+    "40 Research/42 Data & Settings/01 LG Monitor Calibration.md",
+    "40 Research/41 Apps & Tools/06 Apps to follow.md",
+    "40 Research/41 Apps & Tools/05 SetApp Apps.md",
+    "Attachments",
+    "Attachments2",
+    "20 Education/_attachments",
+    "20 Education._attachments",
+    "20 Education_attachments",
+    "$parent{folderPath}_attachments",
+    "parent(20 Education/24 Semester 2/24.01 Java OOP/2 My Notes)/_attachments",
+    "parent(20 Education/24 Semester 2/24.01 Java OOP/2 My Notes)",
+    "parent(20 Education/24 Semester 2/24.01 Java OOP",
+    "Untitled.canvas"
+  ]
+}

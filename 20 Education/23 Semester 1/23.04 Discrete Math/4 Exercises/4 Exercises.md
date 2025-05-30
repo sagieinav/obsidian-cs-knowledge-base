@@ -1,0 +1,33 @@
+%% Begin Landmark %%
+- [[2.0 Logic (Doc1).pdf]]
+- [[2.1 Tautology (Doc2).pdf]]
+- [[3.0 Logical Proofs (Doc3).pdf]]
+- [[3.1 Quantifiers (Doc4).pdf]]
+- [[4.0 Set Theory (Doc5).pdf]]
+- [[4.1 Operations on Sets (Doc6).pdf]]
+- [[4.2 Relations (Doc7).pdf]]
+- [[5.0 Equivalence Relations (Doc8).pdf]]
+- [[5.1 Order Relations (Doc9).pdf]]
+- [[5.2 Induction (Doc10).pdf]]
+- [[6.0 Functions (Doc11).pdf]]
+- [[7.0 Cardinality Definition (Doc12).pdf]]
+- [[7.1 Cardinality Countability (Doc13).pdf]]
+- [[7.2 Cardinality Cantor (Doc14).pdf]]
+- [[7.3 Cardinality Arithmetics (Doc15).pdf]]
+- [[8.0 Combinatorics (Doc16).pdf]]
+- **Future Docs**
+	- [[Exercise 17 - Binom.pdf]]
+	- [[Exercise 18 - Inclusion Exclusion Principle.pdf]]
+	- [[Exercise 19 - Pigeon Hole Principle.pdf]]
+	- [[Exercise 21,22 - Recursion Rule.pdf]]
+- **Solutions**
+	- [[פתרון 8 - יחס שקילות.pdf]]
+	- [[פתרון 9 - יחס סדר.pdf]]
+	- [[פתרון 10 - אינדוקציה מתמטית.pdf]]
+	- [[פתרון 11 - פונקציות.pdf]]
+	- [[פתרון 16 - קומבינטוריקה בסיסית.pdf]]
+
+%% End Landmark %%
+- [[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/2.0 Logic (Doc1).pdf]][[[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/3.1 Quantifiers (Doc4).pdf]]]
+-[[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/4.0 Set Theory (Doc5).pdf]]oc9[[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/4.1 Operations on Sets (Doc6).pdf]][[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/3.0 Logical Proofs (Doc3).pdf]].3 [[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/3.1 Quantifiers (Doc4).pdf]]rci[[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/4.0 Set Theory (Doc5).pdf]]n H[[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/4.1 Operations on Sets (Doc6).pdf]]f]][[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/4.2 Relations (Doc7).pdf]]]
+	[[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/5.0 Equivalence Relations (Doc8).pdf]]isc[[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/5.1 Order Relations (Doc9).pdf]]/4 [[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/5.2 Induction (Doc10).pdf]]h/4[[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/6.0 Functions (Doc11).pdf]]h/4[[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/7.0 Cardinality Definition (Doc12).pdf]]cis[[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/7.1 Cardinality Countability (Doc13).pdf]]uan[[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/7.2 Cardinality Cantor (Doc14).pdf]]y ([[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/7.3 Cardinality Arithmetics (Doc15).pdf]]6).[[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/8.0 Combinatorics (Doc16).pdf]]f]]Pig[[20. Education [[20. Education prototype/23 Semester 1/24.04 Discrete Math/4 Exercises/Future Docs/Exercise 17 - Binom.pdf]]ion prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/5.1 Order Relations (Doc9).pdf]]	- [[20. Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/5.2 Induction (Doc10).pdf]]1/2[[20. Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/6.0 Functions (Doc11).pdf]]04 [[20. Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/7.0 Cardinality Definition (Doc12).pdf]]th/[[20. Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/7.1 Cardinality Countability (Doc13).pdf]]ses[[20. Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/7.2 Cardinality Cantor (Doc14).pdf]]Set[[20. Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/7.3 Cardinality Arithmetics (Doc15).pdf]]Set[[20. Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/8.0 Combinatorics (Doc16).pdf]](Doc7).pdf]]Pig[[20 Ed[[20. Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/Future Docs/Exercise 17 - Binom.pdf]]0 Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/5.1 Order Relations (Doc9).pdf]]	- [[20 Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/5.2 Induction (Doc10).pdf]]4.0[[20 Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/6.0 Functions (Doc11).pdf]]/22[[20 Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/7.0 Cardinality Definition (Doc12).pdf]]ste[[20 Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/7.1 Cardinality Countability (Doc13).pdf]]er [[20 Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/7.2 Cardinality Cantor (Doc14).pdf]]4.0[[20 Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/7.3 Cardinality Arithmetics (Doc15).pdf]]cre[[20 Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/8.0 Combinatorics (Doc16).pdf]]ter 1/24.04 Discrete M[[20 Education prototype/22 Semester 1/24.04 Discrete Math/4 Exercises/Future Docs/Exercise 17 - Binom.pdf]]24.04 Discrete Math/4 Exercises/Future Docs/Exercise 18 - Inclusion Exclusion Principle.pdf]]

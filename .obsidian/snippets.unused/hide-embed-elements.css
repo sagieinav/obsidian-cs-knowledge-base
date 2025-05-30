@@ -1,0 +1,14 @@
+/* Hide the banner in embedded notes */
+.markdown-embed .banner {
+    display: none;
+}
+
+/* Hide the first heading (usually the title) in embedded notes */
+.markdown-embed h1:first-of-type {
+    display: none;
+}
+
+/* Optional: Adjust spacing if needed after hiding elements */
+.markdown-embed .markdown-preview-view {
+     padding-top: 0; /* Remove top padding if banner/title left space */
+}

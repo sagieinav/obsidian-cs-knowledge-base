@@ -1,0 +1,197 @@
+{
+  "callouts": {
+    "custom": [
+      "function",
+      "exam",
+      "java-oop",
+      "assembly",
+      "calculus",
+      "probability",
+      "recents",
+      "python",
+      "linear",
+      "discrete",
+      "extra",
+      "toc"
+    ],
+    "settings": {
+      "error": [
+        {
+          "changes": {
+            "icon": "lucide-x-octagon"
+          }
+        }
+      ],
+      "example": [
+        {
+          "changes": {
+            "icon": "lucide-atom"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "203, 158, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "82, 139, 212"
+          }
+        }
+      ],
+      "info": [
+        {
+          "changes": {
+            "color": "208, 181, 48"
+          }
+        }
+      ],
+      "note": [
+        {
+          "changes": {
+            "color": "83, 223, 221"
+          }
+        }
+      ],
+      "quote": [
+        {
+          "changes": {
+            "color": "158, 158, 158"
+          }
+        }
+      ],
+      "cite": [
+        {
+          "changes": {}
+        }
+      ],
+      "function": [
+        {
+          "changes": {
+            "icon": "lucide-function-square",
+            "color": "166, 189, 197"
+          }
+        }
+      ],
+      "important": [
+        {
+          "changes": {
+            "color": "227, 107, 167"
+          }
+        }
+      ],
+      "exam": [
+        {
+          "changes": {
+            "icon": "lucide-book-check"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "java-oop": [
+        {
+          "changes": {
+            "icon": "lucide-code-xml",
+            "color": "83, 223, 221"
+          }
+        }
+      ],
+      "assembly": [
+        {
+          "changes": {
+            "icon": "lucide-cpu",
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "calculus": [
+        {
+          "changes": {
+            "icon": "lucide-calculator",
+            "color": "229, 199, 46"
+          }
+        }
+      ],
+      "probability": [
+        {
+          "changes": {
+            "icon": "lucide-sigma",
+            "color": "206, 95, 150"
+          }
+        }
+      ],
+      "recents": [
+        {
+          "changes": {
+            "icon": "lucide-file-clock",
+            "color": "158, 158, 158"
+          }
+        }
+      ],
+      "python": [
+        {
+          "changes": {
+            "icon": "lucide-code-xml",
+            "color": "83, 223, 221"
+          }
+        }
+      ],
+      "linear": [
+        {
+          "changes": {
+            "icon": "lucide-codepen",
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "discrete": [
+        {
+          "changes": {
+            "icon": "lucide-sigma",
+            "color": "206, 95, 150"
+          }
+        }
+      ],
+      "extra": [
+        {
+          "changes": {
+            "icon": "lucide-plus",
+            "color": "158, 158, 158"
+          }
+        }
+      ],
+      "toc": [
+        {
+          "changes": {
+            "icon": "lucide-table-of-contents",
+            "color": "166, 189, 197"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "attachmentFolderPath": "${firstParentFolder}/_attachments",
+  "attachmentRenameMode": "None",
+  "customTokensStr": "exports.firstParentFolder = (substitutions) => {\n  const folderPath = substitutions.folderPath; // Get the path to the note's folder\n  if (!folderPath) {\n    return ''; // Return empty if no folder path (e.g., note is in vault root)\n  }\n  const pathSegments = folderPath.split('/'); // Split the path into parts\n  return pathSegments[0]; // Return the first part (the first parent folder name)\n};\n",
+  "duplicateNameSeparator": " ",
+  "emptyAttachmentFolderBehavior": "DeleteWithEmptyParents",
+  "excludePaths": [],
+  "generatedAttachmentFilename": "file-${date:YYYYMMDDHHmmssSSS}",
+  "includePaths": [],
+  "jpegQuality": 1,
+  "markdownUrlFormat": "",
+  "shouldConvertPastedImagesToJpeg": false,
+  "shouldDeleteOrphanAttachments": false,
+  "shouldRenameAttachmentFiles": false,
+  "shouldRenameAttachmentFolder": false,
+  "shouldRenameAttachmentsToLowerCase": false,
+  "shouldRenameCollectedAttachments": false,
+  "specialCharacters": "#^[]|*\\<>:?",
+  "specialCharactersReplacement": "-",
+  "treatAsAttachmentExtensions": [
+    ".excalidraw.md"
+  ],
+  "warningVersion": "7.7.5"
+}

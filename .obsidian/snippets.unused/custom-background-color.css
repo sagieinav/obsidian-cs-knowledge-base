@@ -1,0 +1,7 @@
+/* Custom Background Color */
+:root {
+  --background-primary: #2a3038; /* Replace with your desired color */
+  /* You might also want to change secondary backgrounds */
+  --background-secondary: #1c2024; /* Example secondary color */
+  --background-tertiary: #13161a; /* Example tertiary color */
+}

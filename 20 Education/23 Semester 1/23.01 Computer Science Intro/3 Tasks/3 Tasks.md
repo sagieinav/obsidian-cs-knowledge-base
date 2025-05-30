@@ -1,0 +1,22 @@
+%% Begin Landmark %%
+- [[3.1 Input + Output.py]]
+- [[3.2 Operators.py]]
+- [[3.3 Conditions.py]]
+- [[3.4 While Loops.py]]
+- [[3.5 For Loops.py]]
+- [[3.6 Functions.py]]
+- [[3.8 Lists.py]]
+- [[3.9 Bi-dimensional Lists.py]]
+- [[3.10 Recursions.py]]
+- [[3.10 Tuple, Set, Dict.py]]
+- [[3.11 Recursions.py]]
+- [[3.12 Recursions 2.py]]
+- [[3.13 Test01.py]]
+- [[3.14 Test02.py]]
+- [[3.15 Test03.py]]
+- [[3.16 Test04.py]]
+- [[3.17 Test 05.py]]
+- [[3.18 MoedA.py]]
+- [[3.19 ZalahExam.py]]
+
+%% End Landmark %%

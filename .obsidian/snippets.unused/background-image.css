@@ -1,0 +1,44 @@
+
+.modal-container .modal {
+    background-color: #ffffff; /* Example: A dark grey color */
+}
+
+
+/* Apply to the body for the whole screen background */
+body {
+  /* Set the background image properties as you would normally for tiling */
+  background-image: url("https://www.transparenttextures.com/patterns/cream-paper.png"); /* Replace with your image path */
+  background-repeat: repeat;              /* This tiles the image */
+  background-size: auto;
+--background-primary: transparent;
+    --background-secondary: transparent;                  /* Ensure it uses the image's natural size */
+
+  /* Set position: relative to make the ::before element position relative to the body */
+  position: relative;
+
+  /* Ensure content scrolls over the pseudo-element background */
+  z-index: 1; /* Give body content a z-index higher than the pseudo-element */
+}
+
+/* Create the pseudo-element layer for the tint */
+body::before {
+  content: ""; /* Required for pseudo-elements */
+  display: block; /* Make it a block element */
+  position: absolute; /* Position it absolutely within the body */
+  top: 0;           /* Align to the top edge */
+  left: 0;          /* Align to the left edge */
+  width: 100%;      /* Make it span the full width */
+  height: 100%;     /* Make it span the full height */
+
+  /* Set the semi-transparent white background color (the tint) */
+  /* Use rgba(255, 255, 255, alpha) for white with transparency */
+  /* Adjust the last number (0.3 in this example) to control the tint strength (0.0 to 1.0) */
+  background-color: rgba(255, 255, 255, 0.83);
+
+  /* Set a lower z-index so it's behind the main content but over the body background */
+  z-index: 0;
+
+  /* Prevent the pseudo-element from interfering with mouse events */
+  pointer-events: none;
+}
+

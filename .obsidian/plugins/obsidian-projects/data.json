@@ -1,0 +1,188 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "{{date:YYYY-MM-DD}}",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#journal",
+          "hierarchy": true
+        }
+      },
+      "newNotesFolder": "Journal",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "aliases",
+              "banner",
+              "date",
+              "banner_icon",
+              "banner_y",
+              "created_at",
+              "Enjoyment",
+              "Exercise",
+              "Good_Deed",
+              "Happy_about",
+              "Meditation",
+              "Mistakes",
+              "modified_at",
+              "Mood",
+              "Regret",
+              "Study",
+              "tags",
+              "Ultradian_Cycles",
+              "Why",
+              "year"
+            ]
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "tags",
+                "operator": "has-any-of",
+                "enabled": true,
+                "value": "[\"journal/dailynote\"]"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "9eeb3d81-9bba-4c97-a323-6572742c9a3a",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "interval": "month",
+            "checkField": "Meditation"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6d8de766-867f-46b4-93fc-49d1c2695ae6",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "c1989022-48d5-4334-a7bf-bc0040c7b53c",
+      "name": "Journals"
+    },
+    {
+      "fieldConfig": {
+        "New field": {
+          "time": false
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "f19db52c-f72c-4a8f-b683-f46bc8ee07cc",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "3a3136c4-f53f-4221-a3a1-4da9623306bb",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e893d03c-f8e7-486e-aec5-6840718e5ba6",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e1931a51-09c8-4f48-8048-d27365480f85",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "798545c6-acf2-4476-957f-356946e56a01",
+      "name": "Test Project"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

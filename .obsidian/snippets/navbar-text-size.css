@@ -1,0 +1,38 @@
+/* Remove Top Margin */
+.mod-left-split .nav-header {
+    padding: 0;
+}
+
+
+/* Folder Navigation Height */
+.mod-left-split .nav-folder-title {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+
+
+/* Folder Names */
+.mod-left-split .nav-folder-title-content {
+    font-weight: 650 !important;
+    font-size: 16px !important;
+}
+
+
+/* File Names */
+.mod-left-split .nav-file-title-content,
+.mod-left-split .tree-item-inner-text {
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+    font-size: 14px !important;
+    font-weight: 300 !important;
+}
+
+
+
+
+
+/* Icon Size (Iconize) */
+.mod-left-split .iconic-icon svg {
+    transform: scale(1.2) !important;
+    transform-origin: center !important; /* Ensure scaling happens from the center */
+}
