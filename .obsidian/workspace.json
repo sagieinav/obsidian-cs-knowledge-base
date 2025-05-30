@@ -68,8 +68,33 @@
                   "icon": "lucide-file",
                   "title": "Education Hub"
                 }
+              },
+              {
+                "id": "cedb6b09a477db99",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20 Education/24 Semester 2/24.01 Java OOP/1 Raw Material/1 Raw Material.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "1 Raw Material"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "4f9c960ddcac55a9",
@@ -128,7 +153,7 @@
                 }
               },
               {
-                "id": "93d16cf63002ff37",
+                "id": "f732b3c3d336cc05",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -462,11 +487,36 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "93d16cf63002ff37",
+  "active": "f732b3c3d336cc05",
   "lastOpenFiles": [
+    "LICENSE.md",
+    "README.md",
+    "Main Hub.md",
+    "40 Research/42 Data & Settings/04 Obsidian.md",
+    "20 Education/22 Projects/edu-bash-basics/README.md",
+    "20 Education/24 Semester 2/24.01 Java OOP/1 Raw Material/1 Raw Material.md",
+    "20 Education/Education Hub.md",
+    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In 2",
+    "20 Education/24 Semester 2/24.05 Development Tools/4 Dive In 2",
+    "20 Education/24 Semester 2/24.01 Java OOP/6 Past Exams 2",
+    "20 Education/24 Semester 2/24.01 Java OOP/1 Raw Material 2",
+    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes 2",
+    "20 Education/24 Semester 2/24.01 Java OOP/3 Quests 2",
+    "20 Education/24 Semester 2/24.05 Development Tools/3 Quests 2",
+    "20 Education/24 Semester 2/24.01 Java OOP/5 Assets 2",
+    "20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools 2.md",
+    "20 Education/24 Semester 2/24.01 Java OOP/24.01 Java OOP 2.md",
+    "20 Education/24 Semester 2/24.05 Development Tools/5 Assets 2",
+    "20 Education/21 Administration/21.02 קשב וריכוז 2",
+    "20 Education/22 Projects/22 Projects 2.md",
+    "20 Education/21 Administration/21 Administration 2.md",
+    "20 Education/21 Administration/02 טיפים ללימודים באפקה 2.md",
+    "20 Education/21 Administration/01 GitHub Student Developer Pack 2.md",
+    "20 Education/22 Projects/22 Projects.md",
+    "20 Education/22 Projects/edu-gradle-unit-testing/README.md",
+    "20 Education/21 Administration/21.03 Exams/ערעור מבחן בחדו״א 1.md",
+    "20 Education/21 Administration/21.03 Exams/23.05 Exams.md",
     "20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/5 Assets/Software Development Tools Cyllabus.pdf",
-    "20 Education/24 Semester 2/24.05 Development Tools/5 Assets",
     "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/5.0 Docker, SemVer.md",
     "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/4.0 Package Managers.md",
     "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/3.1 Script with Args.md",
@@ -474,32 +524,7 @@
     "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/2.1 Git Repo - Naming Conventions.md",
     "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/2.0 Git.md",
     "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/1.0 Concept List.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes",
     "20 Education/24 Semester 2/24.05 Development Tools/4 Dive In/edu-bash-basics.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/4 Dive In/edu-gradle-unit-testing.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/3 Quests/2 עבודה עם Gradle ובדיקות יחידה.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/3 Quests/1 כתיבת סקריפטים ב- Bash.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/3 Quests",
-    "20 Education/24 Semester 2/24.01 Java OOP/1 Raw Material/9.1 Java Interfaces.pdf",
-    "20 Education/24 Semester 2/24.01 Java OOP/1 Raw Material/9.0 Interfaces.pdf",
-    "20 Education/24 Semester 2/24.01 Java OOP/1 Raw Material/8.0 Exceptions.pdf",
-    "20 Education/24 Semester 2/24.01 Java OOP/1 Raw Material/7.0 Polymorphism.pdf",
-    "20 Education/24 Semester 2/24.01 Java OOP/1 Raw Material/6.0 Inheritance.pdf",
-    "20 Education/24 Semester 2/24.01 Java OOP/1 Raw Material/4.0 Containing Objects, Static, Enum.pdf",
-    "20 Education/24 Semester 2/24.01 Java OOP/1 Raw Material/1 Raw Material.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/5 Assets/5 Assets.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/9.0 Exceptions.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/7.1 Polymorphism, Abstraction.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/7.0 Inheritence.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/6.0 Class Diagram (UML).md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/5.0 Static, Enum, Random.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/4.0 Containing Objects.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/3.0 Constructor.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/2.0 Class and Object.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/2 My Notes.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/10.1 Java Interfaces.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/10.0 Interfaces.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/1.1 Java Syntax.md",
     "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/2.1 Marathon UML (without relationships).png",
     "20 Education/21 Administration/21.01 מלגה/11 שעות התנדבות נובמבר 24.JPG",
     "20 Education/21 Administration/21.01 מלגה/‎⁨01 צילום תז + ספח⁩.png",

@@ -1,12 +1,12 @@
 # obsidian-cs-knowledge-base
-A private repository containing my personal Obsidian vault, focused on Computer Science education notes and materials.
-## 1 Purpose
-This repository serves as a private backup and version-controlled archive of my Obsidian vault, specifically for my Computer Science knowledge base. It allows me to track changes, revert to previous states, and sync across devices.
 
-**Note:** This is a **private** repository and is not intended for public consumption or collaboration.
+A public repository containing my personal Obsidian vault, focused on Computer Science education notes and materials.
+## 1 Purpose
+
+This repository serves as a public archive and knowledge base of my Computer Science education notes. It's shared to potentially benefit other students or individuals interested in these topics.
 ## 2 Contents
 
-This repository contains the complete structure and content of my Obsidian vault::
+This repository contains the structure and content of my Obsidian vault, specifically related to Computer Science studies:
 
 -   📄 **Obsidian Notes:** Comprehensive notes, summaries, concepts, and materials compiled during my Computer Science education. The notes are organized by `Semester > Course Name > ...`. Courses currently included are:
     -   **23 Semester 1:**
@@ -20,28 +20,81 @@ This repository contains the complete structure and content of my Obsidian vault
         -   24.03 Calculus 2
         -   24.04 Probability Intro
         -   24.05 Development Tools
-        -   24.06 Position Writing
     *(This list will be updated as new courses are added).*
--   📚 **Raw Materials/Documents:** Includes some original documents and materials provided by the college or lecturers. **Disclaimer:** These materials are included for personal reference and study purposes only. Redistribution or public sharing is not intended and may be subject to copyright restrictions.
+
+-   📚 **Raw Materials/Documents:** Includes some original documents and materials provided by the college or lecturers.
+> [!warning]- **Note on External Materials**
+>    These materials are included solely for personal reference and study purposes as part of my educational notes within this knowledge base. Their inclusion here does not grant any rights to reproduce, distribute, or publicly display them. Redistribution or public sharing of these specific external materials beyond cloning this repository for personal use may be subject to copyright restrictions from the original creators.
+> 
+
 -   ⚙️ **Obsidian Settings:** My personalized application settings stored in the `.obsidian` folder, including editor preferences, hotkeys, and appearance settings.
--   🔌 **Obsidian Plugins:** All installed community plugins located within the `.obsidian/plugins` directory. These plugins enhance the functionality of the vault.
+
+-   🔌 **Obsidian Plugins:** All installed community plugins located within the `.obsidian/plugins` directory. These plugins enhance the functionality of the vault (e.g., Dataview, Calendar, etc.). Note that users cloning this repo will need to install and enable these plugins themselves within their own Obsidian instance for full functionality.
+
 -   🎨 **Obsidian CSS:** Custom CSS snippets used for styling the vault, located in the `.obsidian/snippets` directory or within the theme folder.
 
-## 3 How to Use?
-To use this vault:
-1.  **Clone the repository** to your local machine:
-    `git clone https://github.com/sagieinav/obsidian-cs-knowledge-base.git`
+## 3 Getting Started
 
-2.  **Open in Obsidian:**
-	-   Launch Obsidian.
-	-   Click "Open folder as vault".
-	-   Navigate to and select the folder where you cloned the repository.
+Follow these steps to get this vault set up on your local machine:
 
-Obsidian should load with all your notes, settings, plugins, and CSS intact.
-## 4 Getting Latest Updates
+### 3.1 Prerequisites
+
+Make sure you have the following software installed:
+
+*   **Git:** Required to clone the repository.
+    *   [Install Git](https://git-scm.com/downloads)
+*   **Obsidian:** The knowledge base is designed for use with Obsidian.
+    *   [Install Obsidian](https://obsidian.md/download)
+
+### 3.2 Cloning the Repository
+
+Open your terminal or command prompt and run the following command to clone the vault to your local machine:
+`cd <destination-folder`
+`git clone https://github.com/sagieinav/obsidian-cs-knowledge-base.git`
+
+Replace `<destination-folder>` with the desired path where you want to save the vault on your computer.
+
+### 3.3 Opening the Vault in Obsidian
+
+1.  Launch the Obsidian application.
+2.  Click "Open folder as vault".
+3.  Navigate to and select the `<destination-folder>` where you cloned the repository.
+
+Obsidian should load your vault with the notes and structure. You may be prompted to enable community plugins or restricted mode; you will need to enable community plugins to use features relying on them.
+## 4 Usage and Tips
+
+Here are some tips for using this vault and maximizing workflow:
+{to be added}
+## 5 Getting Latest Updates
+
+I regularly update this vault's contents and functionality.
 To pull the latest changes from the repository to your local clone:
 
-1. **Navigate** to the vault directory in your terminal:
-   `cd <your_vault_dir_path>`
-2. **Pull** the latest version:
-   `git pull origin main`
+1.  **Navigate** to the root directory of your cloned vault in your terminal:
+
+    `cd <your-cloned-vault-path>`
+
+2.  **Pull** the latest version from the `main` branch:
+
+    `git pull origin main # Or the name of the default branch if different`
+
+
+This command will fetch and merge the most recent updates into your local vault. If you have made local changes, you might encounter merge conflicts that need resolving.
+## 6 Contribution
+
+This repository is primarily maintained for my personal use and as a public archive. Therefore, Contributions in the form of Pull Requests are generally not expected.
+
+However, if you find errors, broken links, or have suggestions for improvement, feel free to open an issue on the GitHub repository.
+## 7 License
+
+This project, specifically the notes and configuration files created by the repository owner, is licensed under the **MIT License**.
+
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the content covered by this license, provided you include the original copyright and permission notice.
+
+See the [LICENSE](LICENSE.md) file for the full text.
+
+**Note on External Materials:** As mentioned in the Contents section, some materials included are from external sources (e.g., college lecturers). These materials are included for personal educational context only and are not covered by the MIT License for redistribution. Please respect the original copyrights of these external materials.
+
+---
+
+*This repository contains personal education notes and is shared publicly under the MIT License, with the understanding that some included external materials are subject to their original copyrights.*
