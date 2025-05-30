@@ -95,7 +95,7 @@
                 }
               },
               {
-                "id": "94554c43c07cb1fc",
+                "id": "b757bdf8226d180d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -178,12 +178,12 @@
                 }
               },
               {
-                "id": "b12a9feae30f0cac",
+                "id": "93d16cf63002ff37",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "40 Research/44 Playground/04 Tasks.md",
+                    "file": "README.md",
                     "mode": "preview",
                     "source": false,
                     "backlinks": true,
@@ -198,7 +198,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "04 Tasks"
+                  "title": "README"
                 }
               }
             ],
@@ -300,7 +300,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -331,7 +332,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40 Research/44 Playground/04 Tasks.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -359,7 +360,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 04 Tasks"
+              "title": "Graph of README"
             }
           },
           {
@@ -512,8 +513,15 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "b12a9feae30f0cac",
+  "active": "93d16cf63002ff37",
   "lastOpenFiles": [
+    "20 Education/24 Semester 2/24.05 Development Tools/4 Dive In/edu-bash-basics/README.md",
+    "README.md",
+    "20 Education/24 Semester 2/24.05 Development Tools/4 Dive In/edu-gradle-unit-testing/README.md",
+    "20 Education/Education Hub.md",
+    "20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools.md",
+    "40 Research/42 Data & Settings/04 Obsidian.md",
+    "40 Research/44 Playground/04 Tasks.md",
     "obsidian-cs-knowledge-base",
     "40 Research/44 Playground/03 HUB Playground.md",
     "Main Hub.md",
@@ -534,7 +542,6 @@
     "40 Research/45 Private Project/03 Links - Private Server.md",
     "40 Research/45 Private Project/02 Ideas.md",
     "40 Research/45 Private Project/01 Changelog.md",
-    "40 Research/44 Playground/04 Tasks.md",
     "40 Research/44 Playground/02 NoteToolbar.md",
     "40 Research/44 Playground/01 Floating Images CSS.md",
     "40 Research/42 Data & Settings/12 Folders & Files Naming Conventions.md",
@@ -545,12 +552,7 @@
     "40 Research/42 Data & Settings/07 Fonts.md",
     "40 Research/42 Data & Settings/06 Disable, Enable Input Indicator.md",
     "40 Research/42 Data & Settings/05 Raycast.md",
-    "40 Research/42 Data & Settings/04 Obsidian.md",
     "40 Research/42 Data & Settings/03 License Keys.md",
-    "40 Research/42 Data & Settings/02 LG TV Calibration.md",
-    "40 Research/42 Data & Settings/01 LG Monitor Calibration.md",
-    "40 Research/41 Apps & Tools/06 Apps to follow.md",
-    "40 Research/41 Apps & Tools/05 SetApp Apps.md",
     "Attachments",
     "Attachments2",
     "20 Education/_attachments",
@@ -559,7 +561,6 @@
     "$parent{folderPath}_attachments",
     "parent(20 Education/24 Semester 2/24.01 Java OOP/2 My Notes)/_attachments",
     "parent(20 Education/24 Semester 2/24.01 Java OOP/2 My Notes)",
-    "parent(20 Education/24 Semester 2/24.01 Java OOP",
     "Untitled.canvas"
   ]
 }
