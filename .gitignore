@@ -1,5 +1,6 @@
 # First, Ignore sub-modules
 /20 Education/22 Projects/
+/20 Education/22 Projects/**
 
 # Ignore everything
 *
