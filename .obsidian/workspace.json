@@ -153,7 +153,8 @@
                   "title": "04 Obsidian"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "d311d61097e6f0e3",
@@ -445,14 +446,14 @@
   },
   "active": "bcb2c5231acf380b",
   "lastOpenFiles": [
+    "40 Research/42 Data & Settings/04 Obsidian.md",
+    "20 Education/Education Hub.md",
     "Main Hub.md",
     "20 Education/23 Semester 1/23.02 Calculus 1/1 Lecture/2 Functions - Basis/1.6.1 משפט ערך הביניים של קושי.md",
     "20 Education/23 Semester 1/23.02 Calculus 1/1 Lecture/1 Lecture.md",
     "20 Education/23 Semester 1/23 Semester 1.md",
-    "20 Education/Education Hub.md",
     "LICENSE",
     "40 Research/Research Hub.md",
-    "40 Research/42 Data & Settings/04 Obsidian.md",
     "40 Research/44 Playground/Charts.md",
     "40 Research/46 AI/02 Elementary Prompt.md",
     "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/10.1 Java Interfaces.md",
