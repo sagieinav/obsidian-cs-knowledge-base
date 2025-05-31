@@ -10,7 +10,7 @@
     "enableDependencies": false,
     "plugins": {
       "obsidian-advanced-uri": {
-        "startupType": "disabled"
+        "startupType": "long"
       },
       "obsidian-auto-link-title": {
         "startupType": "long"
@@ -61,16 +61,16 @@
         "startupType": "long"
       },
       "homepage": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "ink": {
         "startupType": "disabled"
       },
       "obsidian-media-db-plugin": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "quickadd": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "obsidian-latex-suite": {
         "startupType": "short"
@@ -97,7 +97,7 @@
         "startupType": "disabled"
       },
       "darlal-switcher-plus": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "open-with": {
         "startupType": "disabled"
@@ -130,7 +130,7 @@
         "startupType": "short"
       },
       "nuke-orphans": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "callout-integrator": {
         "startupType": "long"
@@ -142,7 +142,7 @@
         "startupType": "short"
       },
       "obsidian-list-callouts": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "iconic": {
         "startupType": "instant"
@@ -157,19 +157,19 @@
         "startupType": "disabled"
       },
       "obsidian-charts": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "convert-katex-to-mathjax": {
         "startupType": "short"
       },
       "obsidian-tikzjax": {
-        "startupType": "short"
+        "startupType": "disabled"
       },
       "data-cards": {
-        "startupType": "short"
+        "startupType": "disabled"
       },
       "dbfolder": {
-        "startupType": "short"
+        "startupType": "disabled"
       },
       "excalibrain": {
         "startupType": "disabled"
@@ -187,7 +187,7 @@
         "startupType": "disabled"
       },
       "obsidian-meta-bind-plugin": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "periodic-notes": {
         "startupType": "disabled"
@@ -214,28 +214,28 @@
         "startupType": "short"
       },
       "obsidian-git": {
-        "startupType": "long"
+        "startupType": "short"
       },
       "table-editor-obsidian": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "obsidian-pandoc": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "number-headings-obsidian": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "advanced-canvas": {
-        "startupType": "short"
+        "startupType": "disabled"
       },
       "obsidian-hider": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "obsidian-plantuml": {
         "startupType": "short"
       },
       "vertical-tabs": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "make-md": {
         "startupType": "short"
@@ -244,10 +244,10 @@
         "startupType": "short"
       },
       "folder-overview": {
-        "startupType": "short"
+        "startupType": "disabled"
       },
       "obsidian-desmos": {
-        "startupType": "short"
+        "startupType": "disabled"
       },
       "note-toolbar": {
         "startupType": "short"
@@ -257,6 +257,27 @@
       },
       "obsidian-custom-attachment-location": {
         "startupType": "short"
+      },
+      "slash-commander": {
+        "startupType": "short"
+      },
+      "slash-snippets": {
+        "startupType": "short"
+      },
+      "auto-bullet": {
+        "startupType": "long"
+      },
+      "open-tab-settings": {
+        "startupType": "short"
+      },
+      "obsidian-paste-to-current-indentation": {
+        "startupType": "short"
+      },
+      "ai-interface": {
+        "startupType": "short"
+      },
+      "smart-connections": {
+        "startupType": "disabled"
       }
     },
     "loadOrder": []

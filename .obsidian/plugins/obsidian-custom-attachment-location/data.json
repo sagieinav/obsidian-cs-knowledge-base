@@ -10,7 +10,7 @@
   "jpegQuality": 1,
   "markdownUrlFormat": "",
   "shouldConvertPastedImagesToJpeg": false,
-  "shouldDeleteOrphanAttachments": false,
+  "shouldDeleteOrphanAttachments": true,
   "shouldRenameAttachmentFiles": false,
   "shouldRenameAttachmentFolder": false,
   "shouldRenameAttachmentsToLowerCase": false,

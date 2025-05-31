@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "Templates/Insert",
   "templates_pairs": [
     [
       "",
@@ -12,7 +12,7 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": true,
+  "enable_folder_templates": false,
   "folder_templates": [
     {
       "folder": "20 Education",
@@ -28,17 +28,7 @@
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": true,
-  "enabled_templates_hotkeys": [
-    "Templates/Template - Callout 01 - Example.md",
-    "Templates/Template - Callout 02 - Note.md",
-    "Templates/Template - Callout 03 - Important.md",
-    "Templates/Template - Callout 04 - Attention.md",
-    "Templates/Template - Callout 05 - Exam.md",
-    "Templates/Template - Callout 06 - Tldr.md",
-    "Templates/Template - Code Block - Styled.md",
-    "Templates/Template - Inline Code.md",
-    "Templates/Template - Basic with TOC.md"
-  ],
+  "enabled_templates_hotkeys": [],
   "startup_templates": [],
   "intellisense_render": 1,
   "enable_ribbon_icon": true

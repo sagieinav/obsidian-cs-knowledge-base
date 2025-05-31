@@ -1,0 +1,1 @@
+<%* app.commands.executeCommandById('markdown:add-metadata-property') -%>

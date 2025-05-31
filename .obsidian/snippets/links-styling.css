@@ -1,0 +1,203 @@
+/* Custom Link Styles Snippet */
+
+/* Import necessary font for the external link arrow character */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols+2&display=swap');
+
+/* ------------------------ Define custom variables for colors and sizes ------------------------ */
+:root {
+    /* Internal link color (Your requested orange) */
+    --custom-internal-link-color: #ffa066;
+
+    /* External link color (Blue-ish, referenced from the theme's --color-blue variable) */
+    --custom-external-link-color: var(--color-blue, #88c6e3); /* Fallback provided */
+
+    /* Color of the text on hover for BOTH link types on the background/underline */
+    /* Using text-on-accent or light grey for contrast */
+    --custom-link-hover-text-on-highlight-color: var(--text-on-accent, #e0e0e0);
+
+    /* Animation duration (references the theme's animation setting if available) */
+    --custom-link-animation-duration: var(--setting-animation-time, 350ms);
+
+    /* Height of the background highlight on hover for animated internal links */
+    --custom-animated-highlight-height: 1.3em; /* Controls how high the highlight box is */
+
+    /* Thickness and color of the subtle underline for external links (default state) */
+    --custom-external-underline-thickness: 2.3px; /* Matches theme's common border thickness */
+
+     /* Thickness and color of the underline for external links on hover */
+     --custom-external-underline-hover-thickness: 3.5px; /* Thicker on hover, matching theme's link-em hover */
+     --custom-external-underline-hover-color: var(--custom-external-link-color); /* Underline color changes to the external link blue color */
+
+    /* Offset for the subtle underline (used for positioning the ::after pseudo-element) */
+    --custom-external-underline-offset: 0.12em; /* Pulled from theme's link-em style */
+    /* Vertical adjustment for the external link arrow */
+    --custom-external-arrow-vertical-offset: -0.03em; /* Adjust this value if needed */
+    
+    --custom-internal-link-color-bold: #4c4f69; /* Using #ffffff as requested for testing */
+
+}
+
+body.theme-dark {
+    --custom-external-underline-default-color: #323130;
+    }
+body.theme-light {
+    --custom-external-underline-default-color: #e2e2e2;
+}
+
+
+
+/* ------------------------ Styles for Internal Links (Animated Highlight - Orange) ------------------------ */
+
+
+/* Apply to resolved internal links in reading view and the underline span in live preview */
+/* These rules are correctly scoped to internal links and their specific structures */
+a.internal-link:not(.is-unresolved),
+.cm-hmd-internal-link > .cm-underline {
+    color: var(--custom-internal-link-color) !important;
+    text-decoration: none !important;
+    border-bottom: none !important;
+
+    /* Initial thin orange underline via inset box-shadow */
+    box-shadow: inset 0 calc(-1 * var(--custom-animated-underline-thickness)) 0 0 var(--custom-internal-link-color);
+
+    /* Smooth transition for color and box-shadow */
+    transition: color var(--custom-link-animation-duration) ease, box-shadow var(--custom-link-animation-duration) ease;
+
+    /* Ensure highlight wraps correctly */
+    box-decoration-break: clone;
+}
+
+
+
+strong a.internal-link:not(.is-unresolved),
+b a.internal-link:not(.is-unresolved),
+.markdown-source-view .cm-strong a.internal-link,
+.markdown-source-view a.internal-link.cm-strong {
+    color: var(--custom-internal-link-color-bold) !important; /* Apply the bold color with !important */
+}
+
+
+/* Reading View: When the link is inside <strong> or <b> AND hovered/focused */
+strong a.internal-link:not(.is-unresolved):hover,
+strong a.internal-link:not(.is-unresolved):focus,
+b a.internal-link:not(.is-unresolved):hover,
+b a.internal-link:not(.is-unresolved):focus,
+/* Edit Mode: Attempt to target the link or its container when in a bold context AND hovered/focused */
+.markdown-source-view .cm-strong a.internal-link:hover,
+.markdown-source-view .cm-strong a.internal-link:focus,
+.markdown-source-view .cm-hmd-internal-link:has(.cm-strong):hover > .cm-underline, /* Using :has, may need adjustment */
+.markdown-source-view .cm-hmd-internal-link:has(.cm-strong):focus > .cm-underline /* Using :has, may need adjustment */
+ {
+    /* Override the default box-shadow color for the hover state */
+    box-shadow: inset 0 calc(-1 * var(--custom-animated-highlight-height)) 0 0 var(--custom-internal-link-color-bold); /* Use the bold color */
+     /* Add !important if necessary to override the default rule */
+    /* box-shadow: inset 0 calc(-1 * var(--custom-animated-highlight-height)) 0 0 var(--custom-internal-link-color-bold) !important; */
+}
+
+
+
+
+/* Styles for Internal Links on hover and focus (Animated Highlight) */
+a.internal-link:not(.is-unresolved):hover,
+a.internal-link:not(.is-unresolved):focus,
+.cm-hmd-internal-link > .cm-underline:hover,
+.cm-hmd-internal-link > .cm-underline:focus {
+    color: var(--custom-link-hover-text-on-highlight-color) !important;
+    box-shadow: inset 0 calc(-1 * var(--custom-animated-highlight-height)) 0 0 var(--custom-internal-link-color);
+    text-decoration: none !important;
+    border-bottom: none !important;
+}
+
+/* Ensure the color transition applies to the CM editor wrapper for internal links */
+.cm-hmd-internal-link {
+    transition: color var(--custom-link-animation-duration) ease;
+}
+
+
+
+/* ------------------------ Styles for External Links (Subtle Underline + Arrow - Blue-ish) ------------------------ */
+
+
+/* Text Style (DEFAULT) */
+a.external-link,
+.cm-link,
+.cm-url,
+.cm-link > .cm-underline{
+     /* Default text color: white in dark mode, normal text in light mode */
+     color: var(--text-normal) !important;
+     text-decoration: none !important; /* Remove default text-decoration */
+     transition: color var(--custom-link-animation-duration) ease; /* Transition text color */
+     position: relative; /* <-- Set position relative here for ::after positioning in both views */
+     display: inline-flex; /* Helps align ::before and text */
+     align-items: baseline; /* Aligns text baseline */
+}
+
+
+/* Text Style (HOVER) */
+a.external-link:hover,
+.cm-url:hover,
+.cm-link > .cm-underline:hover{
+    color: var(--custom-external-link-color) !important; /* Change text color to blue on hover */
+}
+
+
+/* Arrow Icon */
+a.external-link::before,
+.cm-line:not(.cm-active) .cm-link:not(.cm-hmd-barelink)::before {
+    content: "🡭"; /* The external link arrow character */
+    font-family: 'Noto Sans Symbols 2', sans-serif; /* Use the specific font */
+    display: inline-block; /* Use inline-block to better control position and spacing */
+    font-size: 0.8em; /* Size relative to the link text */
+    font-weight: 600; /* Matches the theme's weight */
+    margin-right: 0.3em; /* Space before the link text */
+    /* Use position: relative and top for more reliable vertical adjustment within flex/inline-flex */
+     position: relative;
+     top: var(--custom-external-arrow-vertical-offset);
+
+     /* Transition the icon opacity and color on hover */
+     transition: opacity var(--custom-link-animation-duration) ease, color var(--custom-link-animation-duration) ease;
+}
+
+
+/* Underline Styling (DEFAULT STATE) */
+a.external-link::after,
+.cm-line:not(.cm-active) .cm-link::after,
+.cm-url::after {
+    content: ""; /* Required for pseudo-elements */
+    position: absolute; /* Position relative to the parent a.external-link (which has position: relative) */
+
+    /* Positioning */
+    bottom: var(--custom-external-underline-offset); /* Uses your variable */
+    left: 0.74em;
+    right: 0;
+
+    height: var(--custom-external-underline-thickness); /* Use your default thickness variable */
+    background-color: var(--custom-external-underline-default-color); /* Use your default color variable */
+    z-index: 0; /* Ensure visibility */
+
+    /* Smooth transition for height and color changes on hover */
+    transition: height var(--custom-link-animation-duration) ease,
+                background-color var(--custom-link-animation-duration) ease;
+
+    /* Ensure the pseudo-element exists and is visible */
+    display: block;
+    pointer-events: none; /* Ensure the underline doesn't interfere with mouse events */
+}
+
+
+/* ACTIVE LINE SPECIFIC left position */
+.cm-line.cm-active .cm-url::after{
+    left: 0em;
+}
+
+
+/* Underline Styling (HOVER) */
+a.external-link:hover::after,
+a.external-link:focus::after,
+.cm-line:not(.cm-active) .cm-link:hover::after,
+.cm-url:focus::after,
+.cm-url:hover::after {
+    height: var(--custom-external-underline-hover-thickness); /* Thicker on hover */
+    background-color: var(--custom-external-underline-hover-color); /* Hover color */
+}
+

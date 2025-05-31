@@ -21,7 +21,8 @@ This repository contains the structure and content of my Obsidian vault, specifi
         -   Calculus 2
         -   Probability Intro
         -   Development Tools
-    *(This list will be updated as new courses are added).*
+
+*(This list will be updated as new courses are added).*
 
 -   📚 **Raw Materials/Documents:** Includes some original documents and materials provided by the college or lecturers.
  > **Note on External Materials**

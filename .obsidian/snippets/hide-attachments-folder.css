@@ -1,6 +1,0 @@
-.nav-folder-title[data-path="Attachments"],
-.nav-folder-title[data-path="Attachments"] + .nav-folder-children,
-.nav-folder-title[data-path="Banners"],
-.nav-folder-title[data-path="Banners"] + .nav-folder-children {
-  display: none;
-}

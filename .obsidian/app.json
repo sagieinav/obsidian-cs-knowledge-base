@@ -19,5 +19,6 @@
   "promptDelete": false,
   "readableLineLength": true,
   "propertiesInDocument": "visible",
-  "userIgnoreFilters": null
+  "userIgnoreFilters": null,
+  "focusNewTab": true
 }

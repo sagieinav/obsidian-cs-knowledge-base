@@ -1,0 +1,6 @@
+{
+  "slashTrigger": "/",
+  "snippetPath": "Templates/Insert",
+  "ignoreProperties": true,
+  "templaterSupport": true
+}

@@ -68,33 +68,8 @@
                   "icon": "lucide-file",
                   "title": "Education Hub"
                 }
-              },
-              {
-                "id": "cedb6b09a477db99",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 Education/24 Semester 2/24.01 Java OOP/1 Raw Material/1 Raw Material.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "1 Raw Material"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "4f9c960ddcac55a9",
@@ -127,6 +102,32 @@
                 }
               },
               {
+                "id": "e007f5ca99d085b9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "40 Research/46 AI/_AIConsole.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "_AIConsole"
+                }
+              },
+              {
                 "id": "7c2f9420d67960e2",
                 "type": "leaf",
                 "pinned": true,
@@ -151,33 +152,8 @@
                   "icon": "lucide-file",
                   "title": "04 Obsidian"
                 }
-              },
-              {
-                "id": "f732b3c3d336cc05",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 Education/21 Administration/01 GitHub Student Developer Pack.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "01 GitHub Student Developer Pack"
-                }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "d311d61097e6f0e3",
@@ -239,7 +215,7 @@
             }
           },
           {
-            "id": "3d288c2d238dd621",
+            "id": "91d4bda8c720ed3d",
             "type": "leaf",
             "state": {
               "type": "vertical-tabs",
@@ -275,7 +251,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -291,22 +268,12 @@
         "dimension": 47.3756906077348,
         "children": [
           {
-            "id": "6a7117b6d04b891e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "bd6a57dbcaf2daa5",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20 Education/21 Administration/01 GitHub Student Developer Pack.md",
+                "file": "40 Research/44 Playground/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -334,7 +301,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 01 GitHub Student Developer Pack"
+              "title": "Graph of Untitled"
             }
           },
           {
@@ -384,18 +351,9 @@
               "icon": "links-going-out",
               "title": "Outgoing links from 🏠 Dashboard"
             }
-          },
-          {
-            "id": "02829e375f9a7c11",
-            "type": "leaf",
-            "state": {
-              "type": "folder-overview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b41efa34f62597d2",
@@ -454,8 +412,8 @@
             "state": {
               "type": "trash-explorer",
               "state": {},
-              "icon": "trash",
-              "title": "Trash explorer"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -468,73 +426,71 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
+      "callout-manager:Insert Callout": false,
       "templates:Insert template": false,
       "iconic:Open rulebook": false,
-      "callout-manager:Insert Callout": false,
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "dbfolder:Create a new database table": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-media-db-plugin:Add new Media DB entry": false,
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "f732b3c3d336cc05",
+  "active": "bcb2c5231acf380b",
   "lastOpenFiles": [
-    "20 Education/21 Administration/01 GitHub Student Developer Pack 2.md",
-    "20 Education/21 Administration/01 GitHub Student Developer Pack.md",
-    "20 Education/_attachments/938273e9-05d0-4149-8109-566e0b57bce3.jpeg",
-    "20 Education/22 Projects/22 Projects.md",
-    "20 Education/22 Projects/22 Projects 2.md",
-    "README.md",
-    "LICENSE",
-    "LICENSE.md",
     "Main Hub.md",
-    "40 Research/42 Data & Settings/04 Obsidian.md",
-    "20 Education/22 Projects/edu-bash-basics/README.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/1 Raw Material/1 Raw Material.md",
+    "20 Education/23 Semester 1/23.02 Calculus 1/1 Lecture/2 Functions - Basis/1.6.1 משפט ערך הביניים של קושי.md",
+    "20 Education/23 Semester 1/23.02 Calculus 1/1 Lecture/1 Lecture.md",
+    "20 Education/23 Semester 1/23 Semester 1.md",
     "20 Education/Education Hub.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In 2",
-    "20 Education/24 Semester 2/24.05 Development Tools/4 Dive In 2",
-    "20 Education/24 Semester 2/24.01 Java OOP/6 Past Exams 2",
-    "20 Education/24 Semester 2/24.01 Java OOP/1 Raw Material 2",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes 2",
-    "20 Education/24 Semester 2/24.01 Java OOP/3 Quests 2",
-    "20 Education/24 Semester 2/24.05 Development Tools/3 Quests 2",
-    "20 Education/24 Semester 2/24.01 Java OOP/5 Assets 2",
-    "20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools 2.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/24.01 Java OOP 2.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/5 Assets 2",
-    "20 Education/21 Administration/21 Administration 2.md",
-    "20 Education/21 Administration/02 טיפים ללימודים באפקה 2.md",
-    "20 Education/22 Projects/edu-gradle-unit-testing/README.md",
-    "20 Education/21 Administration/21.03 Exams/ערעור מבחן בחדו״א 1.md",
-    "20 Education/21 Administration/21.03 Exams/23.05 Exams.md",
+    "LICENSE",
+    "40 Research/Research Hub.md",
+    "40 Research/42 Data & Settings/04 Obsidian.md",
+    "40 Research/44 Playground/Charts.md",
+    "40 Research/46 AI/02 Elementary Prompt.md",
+    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/10.1 Java Interfaces.md",
+    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/9.0 Exceptions.md",
+    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/7.1 Polymorphism, Abstraction.md",
+    "20 Education/24 Semester 2/24.01 Java OOP/1 Raw Material/1 Raw Material.md",
+    "20 Education/24 Semester 2/24.05 Development Tools/3 Quests/1 כתיבת סקריפטים ב- Bash.md",
     "20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/5.0 Docker, SemVer.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/4.0 Package Managers.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/3.1 Script with Args.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/3.0 Permissions and Scripts in Ubuntu.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/2.1 Git Repo - Naming Conventions.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/2.0 Git.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/1.0 Concept List.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/2.1 Marathon UML (without relationships).png",
-    "20 Education/21 Administration/21.01 מלגה/11 שעות התנדבות נובמבר 24.JPG",
-    "20 Education/21 Administration/21.01 מלגה/‎⁨01 צילום תז + ספח⁩.png",
-    "20 Education/21 Administration/21.01 מלגה/14 שעות התנדבות פברואר 25.jpg",
-    "20 Education/21 Administration/21.01 מלגה/13 שעות התנדבות ינואר 25.JPG",
-    "20 Education/21 Administration/21.01 מלגה/12 שעות התנדבות דצמבר 24.JPG",
-    "10 Personal/_attachments/SS 30052025 at 17.38.46.png",
-    "20 Education/_attachments/SS 30042025 at 11.58.43.png",
-    "20 Education/_attachments/SS 30042025 at 11.58.31.png",
+    "20 Education/22 Projects/afeka-proj-oop/out/production/AfekaProject/sagieinav_liamherman/service/CollegeService.class",
+    "20 Education/22 Projects/afeka-proj-oop/out/production/AfekaProject/sagieinav_liamherman/service",
+    "20 Education/22 Projects/afeka-proj-oop/out/production/AfekaProject/sagieinav_liamherman/Main.class",
+    "20 Education/22 Projects/afeka-proj-oop/out/production/AfekaProject/sagieinav_liamherman/Main$1.class",
+    "20 Education/22 Projects/afeka-proj-oop/out/production/AfekaProject/sagieinav_liamherman/models/Lecturer.class",
+    "20 Education/22 Projects/afeka-proj-oop/out/production/AfekaProject/sagieinav_liamherman/models/Lecturer$DegreeRank.class",
+    "20 Education/22 Projects/afeka-proj-oop/out/production/AfekaProject/sagieinav_liamherman/models/Committee.class",
+    "20 Education/22 Projects/afeka-proj-oop/out/production/AfekaProject/sagieinav_liamherman/models/Professor.class",
+    "20 Education/22 Projects/afeka-proj-oop/out/production/AfekaProject/sagieinav_liamherman/models/Department.class",
+    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/2 My Notes.md",
+    "40 Research/46 AI/Obsidian Expert v2.4.0 Output.md",
+    "40 Research/46 AI/_AIConsole.md",
+    "40 Research/46 AI/46.01 AI Console/_AIConsole.md",
+    "40 Research/46 AI/46.01 AI Console/Untitled.md",
+    "40 Research/46 AI/46.01 AI Console/Untitled2.md",
+    "40 Research/46 AI/46.01 AI Console/This Doc.md",
+    "40 Research/46 AI/46.01 AI Console/ThisDoc.md",
+    "40 Research/46 AI/46.01 AI Console/Untitled3.md",
+    "40 Research/46 AI/46 AI.md",
+    "40 Research/44 Playground/Untitled.md",
+    "20 Education/_semester-template/2x.01 Course1/4 Dive In/2.1 Marathon UML (without relationships).png",
+    "20 Education/_semester-template/2x.02 Course2/5 Assets/5.3 Material for Midterm Exam/ascii-chars-table.jpg",
+    "20 Education/_semester-template/2x.02 Course2/5 Assets/5.3 Material for Midterm Exam/Green Card - Mips Reference Data - 2.jpg",
+    "20 Education/_semester-template/2x.02 Course2/5 Assets/5.3 Material for Midterm Exam/Green Card - Mips Reference Data - 1.jpg",
+    "20 Education/_semester-template/2x.0x Course1/4 Dive In/2.1 Marathon UML (without relationships).png",
+    "20 Education/_semester-template/24.02 Comp Architecture/5 Assets/5.3 Material for Midterm Exam/ascii-chars-table.jpg",
+    "20 Education/_semester-template/24.02 Comp Architecture/5 Assets/5.3 Material for Midterm Exam/Green Card - Mips Reference Data - 2.jpg",
+    "20 Education/_semester-template/24.02 Comp Architecture/5 Assets/5.3 Material for Midterm Exam/Green Card - Mips Reference Data - 1.jpg",
+    "20 Education/_semester-template/24.01 Java OOP/4 Dive In/2.1 Marathon UML (without relationships).png",
+    "20 Education/24 Semester 2 copy/24.02 Comp Architecture/5 Assets/5.3 Material for Midterm Exam/ascii-chars-table.jpg",
     "Untitled.canvas"
   ]
 }

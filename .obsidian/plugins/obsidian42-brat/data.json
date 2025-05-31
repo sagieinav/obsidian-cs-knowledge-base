@@ -1,9 +1,14 @@
 {
   "pluginList": [
-    "aidan-gibson/obsidian-opener",
-    "alangrainger/obsidian-lazy-plugins"
+    "echo-saurav/slash-snippets-plugin",
+    "aidan-gibson/obsidian-opener"
   ],
-  "pluginSubListFrozenVersion": [],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "echo-saurav/slash-snippets-plugin",
+      "version": "latest"
+    }
+  ],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": true,

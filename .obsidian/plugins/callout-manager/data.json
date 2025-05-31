@@ -12,7 +12,9 @@
       "linear",
       "discrete",
       "extra",
-      "toc"
+      "toc",
+      "form",
+      "sidenote"
     ],
     "settings": {
       "error": [
@@ -184,6 +186,20 @@
           "changes": {
             "icon": "lucide-table-of-contents",
             "color": "166, 189, 197"
+          }
+        }
+      ],
+      "form": [
+        {
+          "changes": {
+            "icon": "formula"
+          }
+        }
+      ],
+      "sidenote": [
+        {
+          "changes": {
+            "color": "158, 158, 158"
           }
         }
       ]

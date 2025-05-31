@@ -535,5 +535,7 @@
   "modular-css-layout-gc@@float-snw-display": "none",
   "modular-css-layout-gc@@image-zoom": false,
   "modular-css-layout-gc@@img-border-radius": "12px",
-  "modular-css-layout-gc@@mermaid-zoom": false
+  "modular-css-layout-gc@@mermaid-zoom": false,
+  "anuppuccin-theme-settings@@anp-latex-color@@light": "#628AA9",
+  "anuppuccin-theme-settings@@anp-latex-color@@dark": "#91B4D5"
 }

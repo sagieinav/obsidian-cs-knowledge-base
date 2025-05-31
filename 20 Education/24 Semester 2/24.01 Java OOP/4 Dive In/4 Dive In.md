@@ -10,7 +10,7 @@ direction: ltr
 - [[1.0 Class Diagram - CityManagement]]
 - [[2.0 Marathon Class Diagram - Documentation]]
 - [[2.1 Marathon UML (without relationships).png]]
-- [[2.2 Marathon UML_new.pdf]]
+- [[2.2 Marathon UML.pdf]]
 - **class-workspace**
 	- [[class-workspace.iml]]
 	- **lib**
