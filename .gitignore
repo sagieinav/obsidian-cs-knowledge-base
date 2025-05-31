@@ -1,0 +1,36 @@
+# First, Ignore sub-modules
+/20 Education/22 Projects/
+
+# Ignore everything
+*
+
+# But do not ignore directories themselves (this allows the negation rules for directories to work)
+!*/
+
+# Re-include these specific folders
+!/.obsidian/
+!/Banners/
+!/20 Education/_attachments
+!/20 Education/_semester-template
+!/20 Education/23 Semester 1
+!/20 Education/24 Semester 2
+!/Templates/
+!/20 Education/Education Hub.md
+!/README.md
+!/LICENSE
+!/.gitignore
+
+# Re-include all contents within those specific folders recursively
+!/.obsidian/**
+!/Banners/**
+!/20 Education/_attachments/**
+!/20 Education/_semester-template/**
+!/20 Education/23 Semester 1/**
+!/20 Education/24 Semester 2/**
+!/Templates/**
+
+
+# Exclude
+.DS_Store
+/20 Education/24 Semester 2/24.06 Position Writing/
+.space
