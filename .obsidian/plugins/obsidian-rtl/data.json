@@ -4,7 +4,9 @@
     "10 Personal/14 Workout/14 Workout.md": "auto",
     "10 Personal/11 Documents/11.02 Finance/11.02 Finance.md": "auto",
     "10 Personal/15 Shopping/15 Shopping.md": "ltr",
-    "Templates/FolderNotePersonal.md": "auto"
+    "Templates/FolderNotePersonal.md": "auto",
+    "20 Education/24 Semester 2/24.05 Development Tools/3 Quests/3 project - Joomla Site Creation.md": "rtl",
+    "20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools.md": "ltr"
   },
   "defaultDirection": "auto",
   "rememberPerFile": true,
