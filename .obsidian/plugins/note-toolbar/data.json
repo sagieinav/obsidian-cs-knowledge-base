@@ -12,19 +12,19 @@
   "keepPropsState": false,
   "onboarding": {},
   "recentFiles": [
-    "README.md",
-    "Untitled.md",
-    "20 Education/22 Projects/edu-bash-basics/README.md",
-    "10 Personal/17 Career/17 Career.md",
-    "10 Personal/17 Career/06 אבטחת מידע Information Security.md",
-    "10 Personal/17 Career/05 DevOps Courses.md",
-    "10 Personal/17 Career/04 תוצאות שאלון אישיות.png",
-    "20 Education/24 Semester 2/24.05 Development Tools/3 Quests/1 כתיבת סקריפטים ב- Bash.md",
-    "10 Personal/13 Entertainment/01 Anime Watchlist.md",
-    "10 Personal/Personal Hub.md"
+    "10 Personal/17 Career/17.01 Self-Exposure/01 Self-Exposure.md",
+    "10 Personal/17 Career/17.01 Self-Exposure/02 GitHub Portfolio.md",
+    "10 Personal/17 Career/17.01 Self-Exposure/03 LinkedIn Profile.md",
+    "10 Personal/17 Career/17.01 Self-Exposure/07.md",
+    "10 Personal/17 Career/17.01 Self-Exposure/06 Digital Garden.md",
+    "10 Personal/17 Career/17.01 Self-Exposure/Untitled.md",
+    "10 Personal/17 Career/05 Self-Expose.md",
+    "10 Personal/17 Career/Untitled.md",
+    "40 Research/46 AI/_AIConsole.md",
+    "10 Personal/17 Career/07.md"
   ],
   "ribbonAction": "toolbar",
-  "scriptingEnabled": false,
+  "scriptingEnabled": true,
   "showEditInFabMenu": false,
   "showToolbarIn": {
     "audio": false,
@@ -38,7 +38,7 @@
   "toolbarProp": "notetoolbar",
   "toolbars": [
     {
-      "uuid": "0944b29a-6d7e-4119-b5d9-6a3db83a43ce",
+      "uuid": "6d2a7cb8-ab74-49c9-8fb6-feb8e35cb48e",
       "customClasses": "",
       "defaultItem": null,
       "defaultStyles": [
@@ -46,19 +46,19 @@
         "even",
         "sticky"
       ],
-      "hasCommand": false,
+      "hasCommand": true,
       "items": [
         {
-          "uuid": "34e44ff9-b83e-4887-9847-4dae38ba5348",
+          "uuid": "9acc0c19-504a-439f-a4bf-a6c4a6df4144",
           "hasCommand": false,
-          "icon": "lucide-airplay",
+          "icon": "",
           "inGallery": false,
-          "label": "Pin",
-          "link": "Toggle pin",
+          "label": "",
+          "link": "",
           "linkAttr": {
-            "commandId": "workspace:toggle-pin",
+            "commandId": "",
             "hasVars": false,
-            "type": "command"
+            "type": "separator"
           },
           "tooltip": "",
           "visibility": {
@@ -87,28 +87,201 @@
               }
             }
           }
+        },
+        {
+          "uuid": "807d703e-dbb2-4048-839a-ad1e2a418455",
+          "hasCommand": false,
+          "icon": "",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "break"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "f2fb9d4a-f426-442d-b88d-06c94b8353f6",
+          "hasCommand": false,
+          "icon": "",
+          "inGallery": false,
+          "label": "test",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "dataview"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "query",
+            "expression": "TABLE file.mtime AS \"Last Modified\" \nFROM \"SomeFolder\" \nSORT file.mtime DESC"
+          }
+        },
+        {
+          "uuid": "2b87c09b-b1e0-4ece-8d44-332ec89e39ce",
+          "hasCommand": false,
+          "icon": "",
+          "inGallery": false,
+          "label": "JSFile",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "dataview"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "exec",
+            "sourceArgs": "",
+            "sourceFile": "Templates/Insert/JSFILE.js"
+          }
+        },
+        {
+          "uuid": "83ffb4ca-e1d6-40f2-8b21-4d3caf5b9425",
+          "hasCommand": false,
+          "icon": "",
+          "inGallery": false,
+          "label": "path",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "dataview"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "evaluate",
+            "expression": "this.file.path"
+          }
         }
       ],
       "mobileStyles": [],
-      "name": "TestToolbar",
+      "name": "Default",
       "position": {
         "desktop": {
           "allViews": {
-            "position": "top"
+            "position": "props"
           }
         },
         "mobile": {
           "allViews": {
-            "position": "top"
+            "position": "props"
           }
         },
         "tablet": {
           "allViews": {
-            "position": "top"
+            "position": "props"
           }
         }
       },
-      "updated": "2025-05-28T12:15:49.868Z"
+      "updated": "2025-06-02T12:42:56.576Z"
     }
   ],
   "version": 20250313.1,

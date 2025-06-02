@@ -9,13 +9,12 @@
 !/Banners/
 !/20 Education/_attachments
 !/20 Education/_semester-template
+!/20 Education/21 Administration
+!/20 Education/22 Projects
 !/20 Education/23 Semester 1
 !/20 Education/24 Semester 2
 !/Templates/
-!/20 Education/Education Hub.md
-!/README.md
-!/LICENSE
-!/.gitignore
+
 
 # Re-include all contents within those specific folders recursively
 !/.obsidian/**
@@ -27,11 +26,20 @@
 !/Templates/**
 
 
-# Exclude
+# Re-include these specific files
+!/20 Education/Education Hub.md
+!/README.md
+!/LICENSE
+!/.gitignore
+
+
+# Force Exclude
 .DS_Store
-/20 Education/24 Semester 2/24.06 Position Writing/
 .space
-/20 Education/22 Projects/
+/20 Education/24 Semester 2/24.06 Position Writing/
 /20 Education/22 Projects/afeka-proj-oop/
+/20 Education/22 Projects/afeka-proj-oop/**
 /20 Education/22 Projects/edu-bash-basics/
+/20 Education/22 Projects/edu-bash-basics/**
 /20 Education/22 Projects/edu-gradle-unit-testing/
+/20 Education/22 Projects/edu-gradle-unit-testing/**

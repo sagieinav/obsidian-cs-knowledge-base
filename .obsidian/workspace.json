@@ -36,33 +36,8 @@
                   "icon": "lucide-file",
                   "title": "Personal Hub"
                 }
-              },
-              {
-                "id": "517be6a38123f527",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10 Personal/13 Entertainment/01 Anime Watchlist.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "01 Anime Watchlist"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "aed4587927b174bb",
@@ -145,33 +120,9 @@
                   "icon": "lucide-file",
                   "title": "README"
                 }
-              },
-              {
-                "id": "a5087eda25d5b39f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "README.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "README"
-                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "4f9c960ddcac55a9",
@@ -204,32 +155,6 @@
                 }
               },
               {
-                "id": "e007f5ca99d085b9",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "40 Research/46 AI/_AIConsole.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "_AIConsole"
-                }
-              },
-              {
                 "id": "7c2f9420d67960e2",
                 "type": "leaf",
                 "pinned": true,
@@ -254,9 +179,83 @@
                   "icon": "lucide-file",
                   "title": "04 Obsidian"
                 }
+              },
+              {
+                "id": "429e1d34e89d6d38",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "40 Research/46 AI/_AIConsole.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "_AIConsole"
+                }
+              },
+              {
+                "id": "5a8a97f83947b650",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10 Personal/17 Career/17.01 Self-Exposure/01 Self-Exposure.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "01 Self-Exposure"
+                }
+              },
+              {
+                "id": "f40807a77d540ac8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10 Personal/17 Career/17.01 Self-Exposure/02 GitHub Portfolio.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "02 GitHub Portfolio"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
             "id": "d311d61097e6f0e3",
@@ -318,7 +317,7 @@
             }
           },
           {
-            "id": "91d4bda8c720ed3d",
+            "id": "56de65c34badec77",
             "type": "leaf",
             "state": {
               "type": "vertical-tabs",
@@ -453,9 +452,49 @@
               "icon": "links-going-out",
               "title": "Outgoing links from 🏠 Dashboard"
             }
+          },
+          {
+            "id": "109bf2ca59f1230a",
+            "type": "leaf",
+            "state": {
+              "type": "pw.todo-list",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "72dd6e37531799f2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3a3918a5b65b4bb8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "321f4b1c27ff5ec2",
+            "type": "leaf",
+            "state": {
+              "type": "pw.todo-list",
+              "state": {},
+              "icon": "check-small",
+              "title": "Todo"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "b41efa34f62597d2",
@@ -537,53 +576,55 @@
       "workspaces:Manage workspace layouts": false,
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "proletarian-wizard:Open planning": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "card-board:CardBoard": false,
       "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "a5087eda25d5b39f",
+  "active": "5a8a97f83947b650",
   "lastOpenFiles": [
-    "Untitled.md",
-    "README.md",
-    "20 Education/22 Projects/edu-bash-basics/README.md",
-    "10 Personal/17 Career/17 Career.md",
-    "10 Personal/17 Career/06 אבטחת מידע Information Security.md",
-    "10 Personal/17 Career/05 DevOps Courses.md",
-    "10 Personal/17 Career/04 תוצאות שאלון אישיות.png",
-    "20 Education/24 Semester 2/24.05 Development Tools/3 Quests/1 כתיבת סקריפטים ב- Bash.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/2.2 Marathon UML.pdf",
-    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/Marathon UML.pdf",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/10.1 Java Interfaces.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/2 My Notes.md",
-    "20 Education/Education Hub.md",
-    "10 Personal/13 Entertainment/01 Anime Watchlist.md",
-    "10 Personal/Personal Hub.md",
-    "10 Personal/13 Entertainment/13 Entertainment.md",
-    "20 Education/22 Projects/22 Projects.md",
-    "20 Education/22 Projects/edu-bash-basics/tarDir.sh",
-    "20 Education/22 Projects/edu-bash-basics/killall.sh",
-    "20 Education/22 Projects/edu-bash-basics/countFilesByEnding.sh",
-    "20 Education/22 Projects/edu-bash-basics/countDirWC.sh",
-    "20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/3 Quests/2 עבודה עם Gradle ובדיקות יחידה.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/3 Quests/3 project - Joomla Site Creation.md",
+    "10 Personal/17 Career/17.01 Self-Exposure/02 GitHub Portfolio.md",
+    "10 Personal/17 Career/17.01 Self-Exposure/01 Self-Exposure.md",
+    "10 Personal/17 Career/17.04 Product Management",
+    "10 Personal/17 Career/17.03 Cyber Security",
+    "10 Personal/17 Career/17.02 DevOps",
+    "10 Personal/17 Career/17.01 Self-Exposure/03 LinkedIn Profile.md",
+    "10 Personal/17 Career/17.01 Self-Exposure/06 Personal Blog.md",
+    "10 Personal/17 Career/17.01 Self-Exposure/05 Digital Garden.md",
+    "10 Personal/17 Career/17.01 Self-Exposure/04 Technical Portfolio Website.md",
+    "10 Personal/17 Career/17.01 Self-Exposure",
+    "10 Personal/17 Career/Untitled.md",
     "40 Research/46 AI/_AIConsole.md",
+    "10 Personal/17 Career/08 Self-Expose.md",
+    "10 Personal/17 Career/04 Money-Making Ideas.md",
+    "10 Personal/17 Career/03 אבטחת מידע Information Security.md",
+    "10 Personal/17 Career/02 DevOps Courses.md",
+    "40 Research/44 Playground/Kanban01~.md",
+    "10 Personal/17 Career/07 Money-Making Ideas.md",
+    "40 Research/44 Playground/02 NoteToolbar.md",
+    "Templates/Insert/JSFILE.js.sb-36e889bd-moNyXB",
+    "Templates/Insert/JSFILE.js.sb-36e889bd-2AqyYa",
+    "Templates/Insert/JSFILE.js",
+    "Templates/Insert/J",
+    "Templates/Insert/untitled",
+    "Templates/Insert/JSFile.md",
+    "40 Research/44 Playground/Reminders.md",
     "40 Research/42 Data & Settings/04 Obsidian.md",
-    "Main Hub.md",
-    "20 Education/23 Semester 1/23.02 Calculus 1/1 Lecture/2 Functions - Basis/1.6.1 משפט ערך הביניים של קושי.md",
-    "20 Education/23 Semester 1/23.02 Calculus 1/1 Lecture/1 Lecture.md",
-    "20 Education/23 Semester 1/23 Semester 1.md",
-    "LICENSE",
-    "40 Research/Research Hub.md",
-    "40 Research/44 Playground/Charts.md",
-    "40 Research/46 AI/02 Elementary Prompt.md",
-    "20 Education/22 Projects/afeka-proj-oop/out/production/AfekaProject/sagieinav_liamherman/service/CollegeService.class",
-    "20 Education/22 Projects/afeka-proj-oop/out/production/AfekaProject/sagieinav_liamherman/service",
-    "20 Education/22 Projects/afeka-proj-oop/out/production/AfekaProject/sagieinav_liamherman/Main.class",
+    "Imported/000 Pinned/🏠 Homepage.md",
+    "Imported/000 Pinned/📋 Tasks Dashboard.md",
+    "Imported/000 Pinned/🗄️ Goals Dashboard.md",
+    "Imported/000 Pinned/🗓️ Tasks Calendar.md",
+    "Imported/000 Quick Notes/2025-05-17 22-06.md",
+    "Imported/000 Quick Notes/2025-05-17 22-06 1.md",
+    "Imported/001 Goals/Dummy Goal.md",
+    "40 Research/46 AI/46.01 AI Console",
+    "10 Personal/17 Career/04 תוצאות שאלון אישיות.png",
     "20 Education/_semester-template/2x.01 Course1/4 Dive In/2.1 Marathon UML (without relationships).png",
     "20 Education/_semester-template/2x.02 Course2/5 Assets/5.3 Material for Midterm Exam/ascii-chars-table.jpg",
     "20 Education/_semester-template/2x.02 Course2/5 Assets/5.3 Material for Midterm Exam/Green Card - Mips Reference Data - 2.jpg",

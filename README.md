@@ -45,8 +45,8 @@ Make sure you have the following software installed:
        *   [Install Obsidian](https://obsidian.md/download)
    
 **You can use this vault in two primary ways**, depending on whether you want to regularly receive the latest updates from this repository.
-   - Option 1: Clone and Sync with Updates (keep getting my updates)
-   - Option 2: Forking the repository (clone and continue on your own)
+   - **Option 1:** Clone and Sync with Updates (keep getting my updates)
+   - **Option 2:** Forking the repository (clone and continue on your own)
 For instructions on how to set-up and use this vault for your specific needs, please refer to one of the two sections below.
    
 ### 3.1 Option 1: Clone and Sync with Updates (Recommended for Collaboration)
@@ -71,7 +71,7 @@ This option is best if you want to **make your own additions and modifications t
 	Use the vault in Obsidian as you normally would, adding or changing notes.
 
 ##### Using and Getting Latest Updates
-Perform these steps every time you wanna fetch my latest changes and merge them with your current vault.
+Perform these steps every time you wanna fetch my latest updates and merge them with your current vault.
 *BE EXTRA CAUTIOUS WHEN PERFOMING THESE STEPS, TO AVOID POTENTIAL DATA LOSS.*
    
 5.  **Commit your changes:**

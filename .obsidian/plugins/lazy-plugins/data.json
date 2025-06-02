@@ -278,6 +278,15 @@
       },
       "smart-connections": {
         "startupType": "disabled"
+      },
+      "card-board": {
+        "startupType": "short"
+      },
+      "obsidian-kanban": {
+        "startupType": "short"
+      },
+      "proletarian-wizard": {
+        "startupType": "short"
       }
     },
     "loadOrder": []

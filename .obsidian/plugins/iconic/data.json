@@ -1,9 +1,9 @@
 {
   "biggerIcons": "on",
-  "clickableIcons": "desktop",
+  "clickableIcons": "off",
   "showAllFileIcons": false,
   "showAllFolderIcons": false,
-  "minimalFolderIcons": true,
+  "minimalFolderIcons": false,
   "showItemName": "desktop",
   "biggerSearchResults": "mobile",
   "maxSearchResults": 50,

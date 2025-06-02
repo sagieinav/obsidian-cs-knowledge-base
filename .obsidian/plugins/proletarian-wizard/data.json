@@ -1,0 +1,14 @@
+{
+  "version": 4,
+  "ignoredFolders": [],
+  "ignoreArchivedTodos": true,
+  "defaultDailyWipLimit": 5,
+  "dueDateAttribute": "due",
+  "completedDateAttribute": "completed",
+  "selectedAttribute": "selected",
+  "useDataviewSyntax": false,
+  "firstWeekday": 7,
+  "showWeekEnds": true,
+  "startedAttribute": "started",
+  "trackStartTime": true
+}
