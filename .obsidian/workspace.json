@@ -126,7 +126,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.1 מעבד רב-מחזורי.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false,
                     "backlinks": true,
                     "backlinkOpts": {
@@ -168,7 +168,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "4f9c960ddcac55a9",
@@ -351,8 +351,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -478,8 +477,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -562,8 +561,8 @@
             "state": {
               "type": "trash-explorer",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "trash",
+              "title": "Trash explorer"
             }
           }
         ],
@@ -597,34 +596,45 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "614ab0527898fc98",
+  "active": "94ee1d43a0eb194e",
   "lastOpenFiles": [
-    "README.md",
-    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.1 מעבד רב-מחזורי.md",
-    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.0 מעבד חד מחזורי.md",
-    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.1.1 מעבד רב-מחזורי v2.md",
-    "20 Education/22 Projects/22 Projects.md",
-    "20 Education/Education Hub.md",
-    "20 Education/21 Administration/21 Administration.md",
+    "20 Education/21 Administration/21.02 קשב וריכוז/MOXO - חלק ב.pdf",
+    "20 Education/21 Administration/21.02 קשב וריכוז/MOXO - חלק א + פענוח.pdf",
+    "20 Education/21 Administration/21.02 קשב וריכוז/MOXO - דוח השוואתי.pdf",
+    "20 Education/21 Administration/_attachments/Pasted image 20250603101748.png",
+    "20 Education/21 Administration/_attachments",
+    "20 Education/21 Administration/21.01 מלגה/14 שעות התנדבות פברואר 25.jpg",
+    "20 Education/21 Administration/21.01 מלגה/13 שעות התנדבות ינואר 25.JPG",
+    "20 Education/21 Administration/21.01 מלגה/12 שעות התנדבות דצמבר 24.JPG",
+    "20 Education/21 Administration/21.01 מלגה/11 שעות התנדבות נובמבר 24.JPG",
+    "20 Education/21 Administration/21.01 מלגה/10 טופס דיווח שעות מחויבות.pdf",
+    "20 Education/21 Administration/21.01 מלגה/09 מלגה - רשימת מסמכים דרושים.pdf",
+    "20 Education/21 Administration/21.01 מלגה/08 בקשת מלגה - נספח 2.pdf",
+    "20 Education/21 Administration/21.01 מלגה/07 אישור לימודים סמסטר ב׳.pdf",
+    "20 Education/21 Administration/21.01 מלגה/06 מכתב קבלה.pdf",
+    "20 Education/21 Administration/21.01 מלגה/05 טופס פעיל חברתי.pdf",
+    "20 Education/21 Administration/21.01 מלגה/04 אישור בעלות חשבון.pdf",
+    "20 Education/21 Administration/21.01 מלגה/‎⁨01 צילום תז + ספח⁩.png",
     "20 Education/21 Administration/03 מעקב שכר לימוד.md",
-    "Attachments/Pasted image 20250603101748.png",
-    "Attachments",
-    "20 Education/21 Administration/download.pdf",
+    "20 Education/21 Administration/Pasted image 20250603101748.png",
+    "20 Education/21 Administration/21 Administration.md",
+    "20 Education/21 Administration/‎⁨01 צילום תז + ספח⁩.png",
+    "20 Education/21 Administration/11 שעות התנדבות נובמבר 24.JPG",
+    "20 Education/21 Administration/12 שעות התנדבות דצמבר 24.JPG",
+    "30 Work/31 Administration/31 Administration.md",
+    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.1.1 מעבד רב-מחזורי v2.md",
+    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.1 מעבד רב-מחזורי.md",
     "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/2 My Notes.md",
+    "20 Education/Education Hub.md",
+    "README.md",
+    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.0 מעבד חד מחזורי.md",
+    "20 Education/22 Projects/22 Projects.md",
     "10 Personal/Personal Hub.md",
     "10 Personal/17 Career/17 Career.md",
     "20 Education/24 Semester 2/24.05 Development Tools/3 Quests/1 כתיבת סקריפטים ב- Bash.md",
     "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/3.0 Permissions and Scripts in Ubuntu.md",
     "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/3.1 Script with Args.md",
     "20 Education/22 Projects/edu-bash-basics/README.md",
-    "20 Education/22 Projects/edu-bash-basics/scripts/tarDir.sh",
-    "20 Education/22 Projects/edu-bash-basics/scripts/killall.sh",
-    "20 Education/22 Projects/edu-bash-basics/scripts/countFilesByEnding.sh",
-    "20 Education/22 Projects/edu-bash-basics/scripts/countDirWC.sh",
-    "20 Education/22 Projects/edu-bash-basics/scripts/prepend-txt-files.sh.sb-36e889bd-JVOeHj",
-    "20 Education/22 Projects/edu-bash-basics/scripts/prepend-txt-files.sh.sb-36e889bd-dUWADm",
-    "20 Education/22 Projects/edu-bash-basics/scripts/find-modified-files.sh.sb-36e889bd-RkT4Iv",
-    "20 Education/22 Projects/edu-bash-basics/scripts/get-current-user-info.sh.sb-36e889bd-OGu1Zj",
     "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/Untitled.md",
     "20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools.md",
     "20 Education/24 Semester 2/24.05 Development Tools/4 Dive In/edu-bash-basics.md",
@@ -634,17 +644,6 @@
     "30 Work/33 Knowledge/33 Knowledge.md",
     "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/4 Dive In.md",
     "40 Research/42 Data & Settings/42 Data & Settings.md",
-    "40 Research/41 Apps & Tools/41 Apps & Tools.md",
-    "40 Research/46 AI/_AIConsole.md",
-    "10 Personal/17 Career/04 תוצאות שאלון אישיות.png",
-    "20 Education/_semester-template/2x.01 Course1/4 Dive In/2.1 Marathon UML (without relationships).png",
-    "20 Education/_semester-template/2x.02 Course2/5 Assets/5.3 Material for Midterm Exam/ascii-chars-table.jpg",
-    "20 Education/_semester-template/2x.02 Course2/5 Assets/5.3 Material for Midterm Exam/Green Card - Mips Reference Data - 2.jpg",
-    "20 Education/_semester-template/2x.02 Course2/5 Assets/5.3 Material for Midterm Exam/Green Card - Mips Reference Data - 1.jpg",
-    "20 Education/_semester-template/2x.0x Course1/4 Dive In/2.1 Marathon UML (without relationships).png",
-    "20 Education/_semester-template/24.02 Comp Architecture/5 Assets/5.3 Material for Midterm Exam/ascii-chars-table.jpg",
-    "20 Education/_semester-template/24.02 Comp Architecture/5 Assets/5.3 Material for Midterm Exam/Green Card - Mips Reference Data - 2.jpg",
-    "20 Education/_semester-template/24.02 Comp Architecture/5 Assets/5.3 Material for Midterm Exam/Green Card - Mips Reference Data - 1.jpg",
     "Untitled.canvas"
   ]
 }

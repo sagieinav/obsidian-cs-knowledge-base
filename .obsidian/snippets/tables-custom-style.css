@@ -39,6 +39,8 @@ tr:last-of-type td:first-of-type {
 tr:last-of-type td:last-of-type {
   border-bottom-right-radius: 8px !important;
 }
+
+
 /* == Table Styles == */
 
 /* Basic table styling */
