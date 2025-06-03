@@ -70,13 +70,13 @@
                 }
               },
               {
-                "id": "578613ca3b2e0b33",
+                "id": "fad36c6f699cdc89",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/2 My Notes.md",
+                    "file": "20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools.md",
                     "mode": "preview",
                     "source": false,
                     "backlinks": true,
@@ -92,65 +92,17 @@
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "2 My Notes"
+                  "title": "24.05 Development Tools"
                 }
               },
               {
-                "id": "94ee1d43a0eb194e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.0 מעבד חד מחזורי.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "7.0 מעבד חד מחזורי"
-                }
-              },
-              {
-                "id": "614ab0527898fc98",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.1 מעבד רב-מחזורי.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "7.1 מעבד רב-מחזורי"
-                }
-              },
-              {
-                "id": "8b6d7a07938ed158",
+                "id": "4cac7855507d8567",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "README.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false,
                     "backlinks": true,
                     "backlinkOpts": {
@@ -168,7 +120,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "4f9c960ddcac55a9",
@@ -234,7 +186,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "40 Research/46 AI/_AIConsole.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false,
                     "backlinks": true,
                     "backlinkOpts": {
@@ -351,7 +303,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -596,24 +549,32 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "94ee1d43a0eb194e",
+  "active": "429e1d34e89d6d38",
   "lastOpenFiles": [
-    "20 Education/21 Administration/21.02 קשב וריכוז/MOXO - חלק ב.pdf",
-    "20 Education/21 Administration/21.02 קשב וריכוז/MOXO - חלק א + פענוח.pdf",
-    "20 Education/21 Administration/21.02 קשב וריכוז/MOXO - דוח השוואתי.pdf",
+    "20 Education/24 Semester 2/24.05 Development Tools/3 Quests/2 עבודה עם Gradle ובדיקות יחידה.md",
+    "README.md",
+    "20 Education/22 Projects/edu-gradle-unit-testing/settings.gradle.kts",
+    "20 Education/22 Projects/edu-gradle-unit-testing/gradlew.bat",
+    "20 Education/22 Projects/edu-gradle-unit-testing/gradlew",
+    "20 Education/22 Projects/edu-gradle-unit-testing/gradle/wrapper/gradle-wrapper.jar",
+    "20 Education/22 Projects/edu-gradle-unit-testing/gradle/wrapper/gradle-wrapper.properties",
+    "20 Education/22 Projects/edu-gradle-unit-testing/gradle/wrapper",
+    "20 Education/22 Projects/edu-gradle-unit-testing/gradle/libs.versions.toml",
+    "20 Education/22 Projects/edu-gradle-unit-testing/gradle",
+    "20 Education/22 Projects/edu-gradle-unit-testing/gradle.properties",
+    "20 Education/22 Projects/edu-gradle-unit-testing/app/src/test/java/org/example/AppTest.java",
+    "20 Education/22 Projects/edu-gradle-unit-testing/README.md",
+    "20 Education/22 Projects/22 Projects.md",
+    "20 Education/Education Hub.md",
+    "20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools.md",
+    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/2 My Notes.md",
+    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.0 מעבד חד מחזורי.md",
+    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.1 מעבד רב-מחזורי.md",
     "20 Education/21 Administration/_attachments/Pasted image 20250603101748.png",
-    "20 Education/21 Administration/_attachments",
     "20 Education/21 Administration/21.01 מלגה/14 שעות התנדבות פברואר 25.jpg",
     "20 Education/21 Administration/21.01 מלגה/13 שעות התנדבות ינואר 25.JPG",
     "20 Education/21 Administration/21.01 מלגה/12 שעות התנדבות דצמבר 24.JPG",
     "20 Education/21 Administration/21.01 מלגה/11 שעות התנדבות נובמבר 24.JPG",
-    "20 Education/21 Administration/21.01 מלגה/10 טופס דיווח שעות מחויבות.pdf",
-    "20 Education/21 Administration/21.01 מלגה/09 מלגה - רשימת מסמכים דרושים.pdf",
-    "20 Education/21 Administration/21.01 מלגה/08 בקשת מלגה - נספח 2.pdf",
-    "20 Education/21 Administration/21.01 מלגה/07 אישור לימודים סמסטר ב׳.pdf",
-    "20 Education/21 Administration/21.01 מלגה/06 מכתב קבלה.pdf",
-    "20 Education/21 Administration/21.01 מלגה/05 טופס פעיל חברתי.pdf",
-    "20 Education/21 Administration/21.01 מלגה/04 אישור בעלות חשבון.pdf",
     "20 Education/21 Administration/21.01 מלגה/‎⁨01 צילום תז + ספח⁩.png",
     "20 Education/21 Administration/03 מעקב שכר לימוד.md",
     "20 Education/21 Administration/Pasted image 20250603101748.png",
@@ -622,13 +583,6 @@
     "20 Education/21 Administration/11 שעות התנדבות נובמבר 24.JPG",
     "20 Education/21 Administration/12 שעות התנדבות דצמבר 24.JPG",
     "30 Work/31 Administration/31 Administration.md",
-    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.1.1 מעבד רב-מחזורי v2.md",
-    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.1 מעבד רב-מחזורי.md",
-    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/2 My Notes.md",
-    "20 Education/Education Hub.md",
-    "README.md",
-    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.0 מעבד חד מחזורי.md",
-    "20 Education/22 Projects/22 Projects.md",
     "10 Personal/Personal Hub.md",
     "10 Personal/17 Career/17 Career.md",
     "20 Education/24 Semester 2/24.05 Development Tools/3 Quests/1 כתיבת סקריפטים ב- Bash.md",
@@ -636,14 +590,12 @@
     "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/3.1 Script with Args.md",
     "20 Education/22 Projects/edu-bash-basics/README.md",
     "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/Untitled.md",
-    "20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools.md",
     "20 Education/24 Semester 2/24.05 Development Tools/4 Dive In/edu-bash-basics.md",
     "30 Work/Work Hub.md",
     "40 Research/Research Hub.md",
     "20 Education/23 Semester 1/23 Semester 1.md",
     "30 Work/33 Knowledge/33 Knowledge.md",
     "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/4 Dive In.md",
-    "40 Research/42 Data & Settings/42 Data & Settings.md",
     "Untitled.canvas"
   ]
 }
