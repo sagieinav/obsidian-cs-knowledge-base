@@ -547,5 +547,13 @@
       "key": "T"
     }
   ],
-  "obsidian-auto-link-title:enhance-url-with-title": []
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ]
 }

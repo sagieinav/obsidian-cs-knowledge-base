@@ -537,5 +537,6 @@
   "modular-css-layout-gc@@img-border-radius": "12px",
   "modular-css-layout-gc@@mermaid-zoom": false,
   "anuppuccin-theme-settings@@anp-latex-color@@light": "#628AA9",
-  "anuppuccin-theme-settings@@anp-latex-color@@dark": "#91B4D5"
+  "anuppuccin-theme-settings@@anp-latex-color@@dark": "#91B4D5",
+  "modular-css-layout-mc@@mcl-card-gap": "0.2em"
 }

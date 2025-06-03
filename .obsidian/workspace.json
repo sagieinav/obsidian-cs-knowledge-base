@@ -70,14 +70,14 @@
                 }
               },
               {
-                "id": "af9c6ff83c2f4bee",
+                "id": "578613ca3b2e0b33",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "20 Education/24 Semester 2/24.05 Development Tools/3 Quests/1 כתיבת סקריפטים ב- Bash.md",
-                    "mode": "source",
+                    "file": "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/2 My Notes.md",
+                    "mode": "preview",
                     "source": false,
                     "backlinks": true,
                     "backlinkOpts": {
@@ -92,17 +92,40 @@
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "1 כתיבת סקריפטים ב- Bash"
+                  "title": "2 My Notes"
                 }
               },
               {
-                "id": "db61230263bd8cd4",
+                "id": "94ee1d43a0eb194e",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "20 Education/22 Projects/edu-bash-basics/README.md",
+                    "file": "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.0 מעבד חד מחזורי.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "7.0 מעבד חד מחזורי"
+                }
+              },
+              {
+                "id": "614ab0527898fc98",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.1 מעבד רב-מחזורי.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -116,13 +139,36 @@
                       "unlinkedCollapsed": true
                     }
                   },
-                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "7.1 מעבד רב-מחזורי"
+                }
+              },
+              {
+                "id": "8b6d7a07938ed158",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
                   "icon": "lucide-file",
                   "title": "README"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "4f9c960ddcac55a9",
@@ -162,7 +208,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "40 Research/42 Data & Settings/04 Obsidian.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false,
                     "backlinks": true,
                     "backlinkOpts": {
@@ -205,57 +251,9 @@
                   "icon": "lucide-file",
                   "title": "_AIConsole"
                 }
-              },
-              {
-                "id": "5a8a97f83947b650",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10 Personal/17 Career/17.01 Self-Exposure/01 Self-Exposure.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "01 Self-Exposure"
-                }
-              },
-              {
-                "id": "f40807a77d540ac8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10 Personal/17 Career/17.01 Self-Exposure/02 GitHub Portfolio.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "02 GitHub Portfolio"
-                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "d311d61097e6f0e3",
@@ -332,7 +330,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "22 projects",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -353,7 +351,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -489,6 +488,16 @@
             "state": {
               "type": "pw.todo-list",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "cda60bbba9dce0ec",
+            "type": "leaf",
+            "state": {
+              "type": "pw.todo-list",
+              "state": {},
               "icon": "check-small",
               "title": "Todo"
             }
@@ -575,55 +584,58 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
       "proletarian-wizard:Open planning": false,
       "templater-obsidian:Templater": false,
       "card-board:CardBoard": false,
-      "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "sticky-notes:Open sticky note": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "5a8a97f83947b650",
+  "active": "614ab0527898fc98",
   "lastOpenFiles": [
-    "10 Personal/17 Career/17.01 Self-Exposure/02 GitHub Portfolio.md",
-    "10 Personal/17 Career/17.01 Self-Exposure/01 Self-Exposure.md",
-    "10 Personal/17 Career/17.04 Product Management",
-    "10 Personal/17 Career/17.03 Cyber Security",
-    "10 Personal/17 Career/17.02 DevOps",
-    "10 Personal/17 Career/17.01 Self-Exposure/03 LinkedIn Profile.md",
-    "10 Personal/17 Career/17.01 Self-Exposure/06 Personal Blog.md",
-    "10 Personal/17 Career/17.01 Self-Exposure/05 Digital Garden.md",
-    "10 Personal/17 Career/17.01 Self-Exposure/04 Technical Portfolio Website.md",
-    "10 Personal/17 Career/17.01 Self-Exposure",
-    "10 Personal/17 Career/Untitled.md",
+    "README.md",
+    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.1 מעבד רב-מחזורי.md",
+    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.0 מעבד חד מחזורי.md",
+    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.1.1 מעבד רב-מחזורי v2.md",
+    "20 Education/22 Projects/22 Projects.md",
+    "20 Education/Education Hub.md",
+    "20 Education/21 Administration/21 Administration.md",
+    "20 Education/21 Administration/03 מעקב שכר לימוד.md",
+    "Attachments/Pasted image 20250603101748.png",
+    "Attachments",
+    "20 Education/21 Administration/download.pdf",
+    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/2 My Notes.md",
+    "10 Personal/Personal Hub.md",
+    "10 Personal/17 Career/17 Career.md",
+    "20 Education/24 Semester 2/24.05 Development Tools/3 Quests/1 כתיבת סקריפטים ב- Bash.md",
+    "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/3.0 Permissions and Scripts in Ubuntu.md",
+    "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/3.1 Script with Args.md",
+    "20 Education/22 Projects/edu-bash-basics/README.md",
+    "20 Education/22 Projects/edu-bash-basics/scripts/tarDir.sh",
+    "20 Education/22 Projects/edu-bash-basics/scripts/killall.sh",
+    "20 Education/22 Projects/edu-bash-basics/scripts/countFilesByEnding.sh",
+    "20 Education/22 Projects/edu-bash-basics/scripts/countDirWC.sh",
+    "20 Education/22 Projects/edu-bash-basics/scripts/prepend-txt-files.sh.sb-36e889bd-JVOeHj",
+    "20 Education/22 Projects/edu-bash-basics/scripts/prepend-txt-files.sh.sb-36e889bd-dUWADm",
+    "20 Education/22 Projects/edu-bash-basics/scripts/find-modified-files.sh.sb-36e889bd-RkT4Iv",
+    "20 Education/22 Projects/edu-bash-basics/scripts/get-current-user-info.sh.sb-36e889bd-OGu1Zj",
+    "20 Education/24 Semester 2/24.05 Development Tools/2 My Notes/Untitled.md",
+    "20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools.md",
+    "20 Education/24 Semester 2/24.05 Development Tools/4 Dive In/edu-bash-basics.md",
+    "30 Work/Work Hub.md",
+    "40 Research/Research Hub.md",
+    "20 Education/23 Semester 1/23 Semester 1.md",
+    "30 Work/33 Knowledge/33 Knowledge.md",
+    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/4 Dive In.md",
+    "40 Research/42 Data & Settings/42 Data & Settings.md",
+    "40 Research/41 Apps & Tools/41 Apps & Tools.md",
     "40 Research/46 AI/_AIConsole.md",
-    "10 Personal/17 Career/08 Self-Expose.md",
-    "10 Personal/17 Career/04 Money-Making Ideas.md",
-    "10 Personal/17 Career/03 אבטחת מידע Information Security.md",
-    "10 Personal/17 Career/02 DevOps Courses.md",
-    "40 Research/44 Playground/Kanban01~.md",
-    "10 Personal/17 Career/07 Money-Making Ideas.md",
-    "40 Research/44 Playground/02 NoteToolbar.md",
-    "Templates/Insert/JSFILE.js.sb-36e889bd-moNyXB",
-    "Templates/Insert/JSFILE.js.sb-36e889bd-2AqyYa",
-    "Templates/Insert/JSFILE.js",
-    "Templates/Insert/J",
-    "Templates/Insert/untitled",
-    "Templates/Insert/JSFile.md",
-    "40 Research/44 Playground/Reminders.md",
-    "40 Research/42 Data & Settings/04 Obsidian.md",
-    "Imported/000 Pinned/🏠 Homepage.md",
-    "Imported/000 Pinned/📋 Tasks Dashboard.md",
-    "Imported/000 Pinned/🗄️ Goals Dashboard.md",
-    "Imported/000 Pinned/🗓️ Tasks Calendar.md",
-    "Imported/000 Quick Notes/2025-05-17 22-06.md",
-    "Imported/000 Quick Notes/2025-05-17 22-06 1.md",
-    "Imported/001 Goals/Dummy Goal.md",
-    "40 Research/46 AI/46.01 AI Console",
     "10 Personal/17 Career/04 תוצאות שאלון אישיות.png",
     "20 Education/_semester-template/2x.01 Course1/4 Dive In/2.1 Marathon UML (without relationships).png",
     "20 Education/_semester-template/2x.02 Course2/5 Assets/5.3 Material for Midterm Exam/ascii-chars-table.jpg",
@@ -633,7 +645,6 @@
     "20 Education/_semester-template/24.02 Comp Architecture/5 Assets/5.3 Material for Midterm Exam/ascii-chars-table.jpg",
     "20 Education/_semester-template/24.02 Comp Architecture/5 Assets/5.3 Material for Midterm Exam/Green Card - Mips Reference Data - 2.jpg",
     "20 Education/_semester-template/24.02 Comp Architecture/5 Assets/5.3 Material for Midterm Exam/Green Card - Mips Reference Data - 1.jpg",
-    "20 Education/_semester-template/24.01 Java OOP/4 Dive In/2.1 Marathon UML (without relationships).png",
     "Untitled.canvas"
   ]
 }

@@ -115,6 +115,17 @@ This option is suitable **if you simply want a copy of the vault** as a starting
 
 ## 4 Vault Usage: Tips & Tricks
 Here are some tips for using this vault and maximizing workflow: {to be added}
+### 4.1 Most Useful Hotkeys
+**Note:** The hotkeys in this section are written for MacOS keyboard layout, but they work the same for Windows, with the corresponding keys (⌘ = Ctrl, ⌥ = Alt, etc...)
+
+These are some of the most useful and must-know hotkeys. You can see all hotkeys inside the app (Settings > Hotkeys)
+
+- Open Command Palette: ⌘ + P
+- Pin/unpin current tab: ⌥ + P
+- Toggle edit/view mode: ⌘ + E
+- Export to PDF: ⌘ + Shift + E
+- Text formatting: same as any other app. ⌘ + B for **bold**, ⌘ + H for ==highlight==, etc...
+- 
 ## 5 Contribution
    
    This repository is primarily maintained for my personal use and as a public archive. Therefore, Contributions in the form of Pull Requests are generally not expected.

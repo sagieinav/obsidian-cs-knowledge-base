@@ -54,8 +54,7 @@ disable-smart-lists: "true"
 > > - [[20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools|Dev Tools]]
 > > - [[20 Education/24 Semester 2/24.06 Position Writing/24.06 Position Writing|Position Writing]]
 
-
-- **[[20 Education/21 Administration/21 Administration|21 Administration]]** #mcl/list-grid 
-- **[[20 Education/22 Projects/22 Projects|22 Projects]]** 
-- **[[20 Education/23 Semester 1/23 Semester 1|23 Semester 1]]**
-
+---
+- ##### **[[20 Education/21 Administration/21 Administration|21 Administration]]** #mcl/list-card 
+- ##### **[[20 Education/22 Projects/22 Projects|22 Projects]]** 
+- ##### **[[20 Education/23 Semester 1/23 Semester 1|23 Semester 1]]**
