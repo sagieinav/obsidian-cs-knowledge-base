@@ -1,0 +1,16 @@
+@keyframes pulse-glow {
+  0%, 100% {
+    filter: drop-shadow(0 0 10px #63f7ff);
+  }
+  50% {
+    filter: drop-shadow(0 0 20px #63f7ff);
+  }
+}
+
+.glow-icon {
+  stroke: #63f7ff;
+  fill: none;
+  stroke-width: 2;
+  filter: drop-shadow(0 0 10px #63f7ff);
+  animation: pulse-glow 2s infinite;
+}

@@ -7,6 +7,12 @@
         "Mod"
       ],
       "key": "F"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "3"
     }
   ],
   "obsidian-icon-folder:iconize:set-icon-for-file": [
@@ -131,14 +137,6 @@
       "key": "ArrowDown"
     }
   ],
-  "editor:set-heading-6": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "6"
-    }
-  ],
   "workspace:goto-tab-6": [],
   "workspace:goto-tab-1": [],
   "workspace:goto-tab-2": [],
@@ -147,26 +145,10 @@
   "workspace:goto-tab-5": [],
   "workspace:goto-tab-7": [],
   "workspace:goto-tab-8": [],
-  "editor:set-heading-1": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "1"
-    }
-  ],
-  "editor:set-heading-2": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "2"
-    }
-  ],
   "editor:set-heading-3": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "3"
     }
@@ -174,17 +156,9 @@
   "editor:set-heading-4": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "4"
-    }
-  ],
-  "editor:set-heading-5": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "5"
     }
   ],
   "editor:toggle-strikethrough": [
@@ -313,12 +287,6 @@
   "editor:toggle-inline-math": [
     {
       "modifiers": [
-        "Alt"
-      ],
-      "key": "1"
-    },
-    {
-      "modifiers": [
         "Mod",
         "Shift"
       ],
@@ -340,14 +308,6 @@
         "Shift"
       ],
       "key": "O"
-    }
-  ],
-  "editor:insert-mathblock": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "2"
     }
   ],
   "callout-manager:manage-callouts": [
@@ -554,6 +514,66 @@
         "Alt"
       ],
       "key": "P"
+    }
+  ],
+  "vertical-tabs:open-vertical-tabs": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:set-heading-2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "editor:set-heading-5": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "5"
+    }
+  ],
+  "editor:set-heading-6": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "6"
     }
   ]
 }

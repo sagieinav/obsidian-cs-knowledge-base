@@ -566,10 +566,10 @@ body{
 
 	body {
 		--mcl-card-header-border-width: 1px;
-		--mcl-card-bg-color: var(--background-secondary);
+		--mcl-card-bg-color: var(--background-primary);
 		--mcl-card-gap: 0.2em;
 		--mcl-card-border-width: 1px;
-		--mcl-card-border-color: var(--background-modifier-border);
+		--mcl-card-border-color: var(--background-primary);
 	}
 
 	/* -- Main Code -- */
@@ -907,3 +907,156 @@ settings:
 		default-dark: '#'
 
 */
+
+
+
+/* Add this rule to set custom text size for all list views */
+/* Target list items within elements that have the various list view classes or tags */
+:is(
+  .two-column-grid-list,
+  .three-column-grid-list,
+  .four-column-grid-list,
+  .multi-column-grid-list
+  div:has(> ul [href*="#mcl/list-grid"]),   /* Div containing ul with grid tag */
+  div:has(> ul [data-heading*="#mcl/list-grid"]),
+  div:has(> ul [href*="#mcl/list-card"])
+) li {
+  font-size: 28px;
+  margin-left: 18px;
+  margin-bottom: 10px;
+}
+
+
+/* Add this rule to set custom text size for all list views */
+/* Target list items within elements that have the various list view classes or tags */
+:is(
+  .two-column-list,
+  .three-column-list,
+  .four-column-list,
+  .multi-column-list
+  div:has(> ul [href*="#mcl/list-grid"]),   /* Div containing ul with grid tag */
+  div:has(> ul [data-heading*="#mcl/list-grid"]),
+  div:has(> ul [href*="#mcl/list-card"])
+) li {
+  font-size: 18px;
+  margin-left: 8px;
+  margin-bottom: 5px;
+}
+
+
+/* Ensure list bullets are hidden when mcl-card-list class is applied via frontmatter */
+.markdown-rendered.mcl-card-list li > .list-bullet::after {
+  visibility: hidden;
+}
+
+/* Ensure nested list bullets are also hidden at the relevant levels */
+.markdown-rendered.mcl-card-list li > ul > li > .list-bullet::after,
+.markdown-rendered.mcl-card-list li > ul > li > ul > li > .list-bullet::after {
+    visibility: hidden;
+}
+
+/* Ensure the list style type is set to none for primary list items */
+.markdown-rendered.mcl-card-list ul:not(ul ul) > li {
+    list-style: none;
+}
+
+/* Apply the core card appearance styling to list items */
+/* This targets the li elements directly under a ul when mcl-card-list is active */
+.markdown-rendered.mcl-card-list ul:not(ul ul) > li {
+    margin-inline: var(--mcl-card-gap);
+    margin-bottom: calc(var(--mcl-card-gap) * 2);
+    padding-top: 2px;
+    margin-bottom: -5px;
+    padding-left: 0.4em;
+    outline: var(--mcl-card-border-width) solid var(--mcl-card-border-color);
+    border-radius: 0.5em;
+    background-color: var(--mcl-card-bg-color);
+}
+
+/* Target strong elements within list items of the mcl-card-list */
+.markdown-rendered.mcl-card-list li strong a.internal-link,
+⁠div.mcl-card-list-block li strong a.internal-link {
+  font-weight: 500 !important; /* Or your desired numerical weight */
+}
+
+
+/*
+* Explicitly set grid display and 3 columns for the main list
+* when the document body has the mcl-card-list class.
+*/
+.markdown-rendered.mcl-card-list ul:first-child {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr) !important;
+  font-size: 48px;
+  font-family: Marlos;
+}
+
+/*
+* Ensure nested lists within the card layout reset their display if needed.
+* (This might not be strictly necessary but can help prevent conflicts)
+*/
+.markdown-rendered.mcl-card-list ul ul {
+  display: block; /* Or unset, depending on desired behavior for nested lists */
+}
+
+
+/*
+* Add selectors for List Column and List Grid views to the bullet hiding rules.
+* This ensures bullets are hidden for all defined multi-column list types.
+*/
+
+/* Hide list bullets for List Column, List Grid, and List Card views */
+/* Applies to the first two levels of lists within these views */
+:is(
+  .two-column-list, .three-column-list, .four-column-list, .multi-column-list,
+  .two-column-list-block, .three-column-list-block, .four-column-list-block, .multi-column-list-block,
+  div:has(> ul [href*="#mcl/list-column"]), div:has(> ul [data-heading*="#mcl/list-column"]), .tag-mcllist-column,
+  div:has(> ul [href*="#mcl/list-grid"]), div:has(> ul [data-heading*="#mcl/list-grid"]),
+  div:has(> ul [href*="#mcl/list-grid-wide"]), div:has(> ul [data-heading*="#mcl/list-grid-wide"]),
+  div[class*="mcllist-grid"], div[class*="mcllist-grid-wide"], .tag-mcllist-grid,
+  div:has(> ul [data-heading*="#mcl/list-card"]), div:has(> ul [href*="#mcl/list-card"]), .tag-mcllist-card,
+  .markdown-rendered.mcl-card-list, div.mcl-card-list-block
+) li::before, /* Hide the default list marker (• or 1.) */
+:is(
+  .two-column-list, .three-column-list, .four-column-list, .multi-column-list,
+  .two-column-list-block, .three-column-list-block, .four-column-list-block, .multi-column-list-block,
+  div:has(> ul [href*="#mcl/list-column"]), div:has(> ul [data-heading*="#mcl/list-column"]), .tag-mcllist-column,
+  div:has(> ul [href*="#mcl/list-grid"]), div:has(> ul [data-heading*="#mcl/list-grid"]),
+  div:has(> ul [href*="#mcl/list-grid-wide"]), div:has(> ul [data-heading*="#mcl/list-grid-wide"]),
+  div[class*="mcllist-grid"], div[class*="mcllist-grid-wide"], .tag-mcllist-grid,
+  div:has(> ul [data-heading*="#mcl/list-card"]), div:has(> ul [href*="#mcl/list-card"]), .tag-mcllist-card,
+  .markdown-rendered.mcl-card-list, div.mcl-card-list-block
+) li > .list-bullet::after /* Hide the ::after pseudo-element used by Obsidian for bullets */
+{
+  visibility: hidden !important; /* Use !important for stronger override */
+}
+
+/* Re-enable list style for lists nested deeper than 2 levels, if needed (as per original card styling) */
+/* This ensures sub-sub-lists still show bullets */
+:is(
+  .two-column-list, .three-column-list, .four-column-list, .multi-column-list,
+  .two-column-list-block, .three-column-list-block, .four-column-list-block, .multi-column-list-block,
+  div:has(> ul [href*="#mcl/list-column"]), div:has(> ul [data-heading*="#mcl/list-column"]), .tag-mcllist-column,
+  div:has(> ul [href*="#mcl/list-grid"]), div:has(> ul [data-heading*="#mcl/list-grid"]),
+  div:has(> ul [href*="#mcl/list-grid-wide"]), div:has(> ul [data-heading*="#mcl/list-grid-wide"]),
+  div[class*="mcllist-grid"], div[class*="mcllist-grid-wide"], .tag-mcllist-grid,
+  div:has(> ul [data-heading*="#mcl/list-card"]), div:has(> ul [href*="#mcl/list-card"]), .tag-mcllist-card,
+  .markdown-rendered.mcl-card-list, div.mcl-card-list-block
+) li li li {
+  list-style: circle !important; /* Or disc, or whatever default bullet you want */
+  visibility: visible !important; /* Make the list item visible in case a parent rule hid it */
+}
+
+/* Ensure the actual bullet element is not hidden by a parent rule for deeper nested lists */
+:is(
+  .two-column-list, .three-column-list, .four-column-list, .multi-column-list,
+  .two-column-list-block, .three-column-list-block, .four-column-list-block, .multi-column-list-block,
+  div:has(> ul [href*="#mcl/list-column"]), div:has(> ul [data-heading*="#mcl/list-column"]), .tag-mcllist-column,
+  div:has(> ul [href*="#mcl/list-grid"]), div:has(> ul [data-heading*="#mcl/list-grid"]),
+  div:has(> ul [href*="#mcl/list-grid-wide"]), div:has(> ul [data-heading*="#mcl/list-grid-wide"]),
+  div[class*="mcllist-grid"], div[class*="mcllist-grid-wide"], .tag-mcllist-grid,
+  div:has(> ul [data-heading*="#mcl/list-card"]), div:has(> ul [href*="#mcl/list-card"]), .tag-mcllist-card,
+  .markdown-rendered.mcl-card-list, div.mcl-card-list-block
+) li li li > .list-bullet::after {
+     visibility: visible !important;
+}

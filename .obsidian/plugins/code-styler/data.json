@@ -734,15 +734,162 @@
           }
         }
       }
+    },
+    "AnuPpuccin Dark": {
+      "settings": {
+        "codeblock": {
+          "lineNumbers": false,
+          "unwrapLines": true,
+          "wrapLinesActive": false,
+          "curvature": 10
+        },
+        "gutter": {
+          "highlight": true,
+          "activeLine": true
+        },
+        "header": {
+          "title": {
+            "textFont": "Marlos",
+            "textBold": true,
+            "textItalic": false
+          },
+          "languageTag": {
+            "display": "none",
+            "textFont": "Netflix Sans",
+            "textBold": true,
+            "textItalic": false
+          },
+          "languageIcon": {
+            "display": "always",
+            "displayColour": true
+          },
+          "externalReference": {
+            "displayRepository": true,
+            "displayVersion": true,
+            "displayTimestamp": true
+          },
+          "fontSize": 20,
+          "foldPlaceholder": ""
+        },
+        "highlights": {
+          "activeCodeblockLine": true,
+          "activeEditorLine": true
+        },
+        "inline": {
+          "syntaxHighlight": true,
+          "style": true,
+          "fontWeight": 5,
+          "curvature": 6,
+          "paddingVertical": 2,
+          "paddingHorizontal": 6,
+          "marginHorizontal": 0,
+          "titleFontWeight": 7
+        },
+        "advanced": {
+          "gradientHighlights": false,
+          "gradientHighlightsColourStop": "70%",
+          "languageBorderColour": false,
+          "languageBorderWidth": 3,
+          "iconSize": 28
+        }
+      },
+      "colours": {
+        "light": {
+          "codeblock": {
+            "backgroundColour": "#EAEAEB",
+            "textColour": "#7B7979"
+          },
+          "gutter": {
+            "backgroundColour": "--code-background",
+            "textColour": "--text-faint",
+            "activeTextColour": "--text-muted"
+          },
+          "header": {
+            "backgroundColour": "#EAEAEB",
+            "title": {
+              "textColour": "#585A6B"
+            },
+            "languageTag": {
+              "backgroundColour": "--code-background",
+              "textColour": "--code-comment"
+            },
+            "externalReference": {
+              "displayRepositoryColour": "#00FFFF",
+              "displayVersionColour": "#FF00FF",
+              "displayTimestampColour": "#808080"
+            },
+            "lineColour": "#EAEAEB"
+          },
+          "highlights": {
+            "activeCodeblockLineColour": "#E3E3E3",
+            "activeEditorLineColour": "#E3E3E3",
+            "defaultColour": "--text-highlight-bg",
+            "alternativeHighlights": {}
+          },
+          "inline": {
+            "backgroundColour": "#EAEAEB",
+            "textColour": "#7B7979",
+            "activeTextColour": "#585A6B",
+            "titleTextColour": "#585A6B"
+          },
+          "advanced": {
+            "buttonColour": "--text-muted",
+            "buttonActiveColour": "--text-normal"
+          }
+        },
+        "dark": {
+          "codeblock": {
+            "backgroundColour": "#1E1F22",
+            "textColour": "#A1A1A1"
+          },
+          "gutter": {
+            "backgroundColour": "#1E1F22",
+            "textColour": "#4B5059",
+            "activeTextColour": "--text-muted"
+          },
+          "header": {
+            "backgroundColour": "#1E1F22",
+            "title": {
+              "textColour": "--code-comment"
+            },
+            "languageTag": {
+              "backgroundColour": "--code-background",
+              "textColour": "--code-comment"
+            },
+            "externalReference": {
+              "displayRepositoryColour": "#00FFFF",
+              "displayVersionColour": "#FF00FF",
+              "displayTimestampColour": "#808080"
+            },
+            "lineColour": "#393B41"
+          },
+          "highlights": {
+            "activeCodeblockLineColour": "#26282D",
+            "activeEditorLineColour": "--color-base-20",
+            "defaultColour": "#26282D",
+            "alternativeHighlights": {}
+          },
+          "inline": {
+            "backgroundColour": "--code-background",
+            "textColour": "--code-normal",
+            "activeTextColour": "--code-normal",
+            "titleTextColour": "#828282"
+          },
+          "advanced": {
+            "buttonColour": "--text-muted",
+            "buttonActiveColour": "--text-normal"
+          }
+        }
+      }
     }
   },
-  "selectedTheme": "AnuPpuccin",
+  "selectedTheme": "AnuPpuccin Dark",
   "currentTheme": {
     "settings": {
       "codeblock": {
         "lineNumbers": false,
         "unwrapLines": true,
-        "wrapLinesActive": false,
+        "wrapLinesActive": true,
         "curvature": 10
       },
       "gutter": {
@@ -779,7 +926,7 @@
       },
       "inline": {
         "syntaxHighlight": true,
-        "style": true,
+        "style": false,
         "fontWeight": 5,
         "curvature": 6,
         "paddingVertical": 2,
@@ -872,7 +1019,7 @@
           "alternativeHighlights": {}
         },
         "inline": {
-          "backgroundColour": "--code-background",
+          "backgroundColour": "#100F0F",
           "textColour": "--code-normal",
           "activeTextColour": "--code-normal",
           "titleTextColour": "#828282"

@@ -1,0 +1,50 @@
+.workspace-tab-header-container,
+.view-header {
+    background-color: var(--background-secondary) !important;
+    }
+
+/* Remove Top Margin */
+.mod-left-split .nav-header {
+    padding: 0;
+}
+
+
+/* Folder Navigation Height */
+.mod-left-split .nav-folder-title {
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
+}
+
+
+/* Folder Names */
+.mod-left-split .nav-folder-title-content {
+    font-weight: 650 !important;
+    font-size: 16px !important;
+    padding-left: 3px !important;
+}
+
+
+/* File Names */
+.mod-left-split .nav-file-title-content,
+.mod-left-split .tree-item-inner-text {
+    padding-top: 3px !important;
+    padding-bottom: 3px !important;
+    padding-left: 3px !important;
+    font-size: 14px !important;
+    font-weight: 200 !important;
+}
+
+
+/* Icon Size (Iconize) */
+.mod-left-split .iconic-icon svg {
+    transform: scale(1.2) !important;
+    transform-origin: center !important; /* Ensure scaling happens from the center */
+}
+
+
+/* ========================== BOTTOM SECTION ==========================*/
+.workspace-drawer-vault-actions {
+	display:none !important;
+}
+
+

@@ -1,11 +1,11 @@
 [
   "lazy-plugins",
   "obsidian-rtl",
-  "obsidian-view-mode-by-frontmatter",
   "obsidian-banners",
   "iconic",
   "obsidian-style-settings",
   "callout-manager",
   "obsidian-hider",
-  "vertical-tabs"
+  "vertical-tabs",
+  "obsidian-view-mode-by-frontmatter"
 ]

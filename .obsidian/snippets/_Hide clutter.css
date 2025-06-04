@@ -1,0 +1,47 @@
+/* Turn off all transitions */
+/*
+* {
+  transition: none !important;
+}
+*/
+
+/* Hide tab bar when stacked tab mode is enabled */
+.mod-stacked .workspace-tab-header-container {
+  display: none !important;
+}
+
+.status-bar {
+  display: none;
+}
+
+/* Disable cursor blink */
+.cm-cursor,
+.cm-cursorLayer {
+  animation: none !important;
+}
+
+/* https://github.com/kepano/obsidian-hider */
+/* Scrollbars only show on hover (might be tricky to find it) */
+::-webkit-scrollbar {
+  visibility: hidden;
+
+  &:hover {
+    visibility: initial;
+  }
+}
+
+::-webkit-scrollbar-thumb {
+  visibility: hidden;
+
+  &:hover {
+    visibility: initial;
+  }
+}
+
+::-webkit-scrollbar-thumb:hover {
+  visibility: initial;
+}
+
+.markdown-embed-title {
+  display: none;
+}

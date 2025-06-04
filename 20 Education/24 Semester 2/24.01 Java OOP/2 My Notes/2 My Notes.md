@@ -1,3 +1,12 @@
+---
+cssclasses:
+  - wide
+  - three-column-list
+direction: ltr
+banner: "[[EducationBanner01.png]]"
+banner_y: 0.865
+banner_header: Java OOP > My Notes
+---
 %% Begin Waypoint %%
 - [[0.0 Introduction - OOP]]
 - [[0.1 Self Learning]]
@@ -13,5 +22,6 @@
 - [[9.0 Exceptions]]
 - [[10.0 Interfaces]]
 - [[10.1 Java Interfaces]]
+- [[11.0 Files]]
 
 %% End Waypoint %%

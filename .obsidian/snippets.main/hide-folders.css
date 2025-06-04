@@ -1,0 +1,17 @@
+/* Hide the Banners folder and its contents */
+.nav-folder-title[data-path="Banners"],
+.nav-folder-title[data-path="Banners"] + .nav-folder-children,
+
+.nav-folder-title[data-path="20 Education/_semester-template"],
+.nav-folder-title[data-path="20 Education/_semester-template"] + .nav-folder-children,
+
+/* Hide any folder named _attachments, regardless of path */
+.nav-folder-title[data-path="_attachments"], /* Handles _attachments if it's a root folder */
+.nav-folder-title[data-path$="/_attachments"], /* Handles _attachments if it's a nested folder (path ends with /_attachments) */
+.nav-folder-title[data-path="_attachments"] + .nav-folder-children, /* Hide children of root _attachments */
+.nav-folder-title[data-path$="/_attachments"] + .nav-folder-children, /* Hide children of nested _attachments */
+
+/* Hide the LICENSE file */
+.nav-file-title[data-path="LICENSE"] {
+  display: none;
+}

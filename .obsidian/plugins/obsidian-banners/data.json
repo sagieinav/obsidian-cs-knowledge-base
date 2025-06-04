@@ -1,18 +1,20 @@
 {
-  "style": "solid",
+  "style": "gradient",
   "adjustWidthToReadableLineWidth": false,
   "showInInternalEmbed": true,
   "showInPopover": true,
   "bannerDragModifier": "None",
   "enableDragInInternalEmbed": false,
   "enableDragInPopover": false,
-  "enableLockButton": true,
+  "enableLockButton": false,
+  "headerSize": "5em",
   "headerDecor": "shadow",
-  "headerHorizontalAlignment": "left",
+  "headerHorizontalAlignment": "center",
   "headerVerticalAlignment": "edge",
   "useHeaderByDefault": false,
   "useTwemoji": true,
   "showPreviewInLocalModal": true,
   "autoDownloadPastedBanners": false,
-  "version": "2.0.5-beta"
+  "version": "2.0.5-beta",
+  "height": 400
 }

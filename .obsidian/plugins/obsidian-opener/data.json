@@ -1,8 +1,8 @@
 {
   "newTab": false,
-  "PDFApp": true,
+  "PDFApp": false,
   "extOnlyWhenMetaKey": false,
-  "allExt": false,
+  "allExt": true,
   "custExt": false,
   "custExtList": []
 }

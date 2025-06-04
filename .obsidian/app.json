@@ -1,24 +1,9 @@
 {
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "/",
-  "newFileLocation": "current",
-  "showUnsupportedFiles": true,
-  "showInlineTitle": true,
-  "defaultViewMode": "preview",
-  "livePreview": true,
-  "showLineNumber": false,
-  "rightToLeft": false,
-  "autoPairBrackets": false,
-  "smartIndentList": true,
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 85
+    "downscalePercent": 79
   },
-  "promptDelete": false,
-  "readableLineLength": true,
-  "propertiesInDocument": "visible",
-  "userIgnoreFilters": null,
-  "focusNewTab": true
+  "promptDelete": false
 }

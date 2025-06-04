@@ -5,14 +5,14 @@
   "hideFolderNote": true,
   "templatePath": "Templates/FolderNoteResearch.md",
   "autoCreate": false,
-  "enableCollapsing": false,
+  "enableCollapsing": true,
   "excludeFolders": [],
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
   "underlineFolder": false,
   "stopWhitespaceCollapsing": true,
   "underlineFolderInPath": false,
-  "openFolderNoteOnClickInPath": true,
+  "openFolderNoteOnClickInPath": false,
   "openInNewTab": false,
   "folderNoteName": "{{folder_name}}",
   "folderNoteType": ".md",
@@ -41,14 +41,14 @@
     "showFolderNotes": false,
     "disableCollapseIcon": true
   },
-  "useSubmenus": true,
+  "useSubmenus": false,
   "syncMove": true,
   "frontMatterTitle": {
     "enabled": false,
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "exclude_folders",
   "supportedFileTypes": [
     "md",
     "canvas"
@@ -57,7 +57,7 @@
   "boldNameInPath": true,
   "cursiveName": true,
   "cursiveNameInPath": false,
-  "disableOpenFolderNoteOnClick": false,
+  "disableOpenFolderNoteOnClick": true,
   "openByClick": true,
   "openWithCtrl": false,
   "openWithAlt": false,

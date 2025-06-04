@@ -1,0 +1,13 @@
+.status-bar-item.plugin-backlink.mod-clickable {
+    display: none;
+}
+
+.status-bar-item.plugin-word-count > .status-bar-item-segment:last-child {
+    display: none;
+}
+
+/* ========================== HIDE PLUGINS ==========================*/
+.status-bar-item.plugin-obsidian-apple-reminders-plugin,
+.status-bar-item.plugin-obsidian-git {
+	display: none;
+}

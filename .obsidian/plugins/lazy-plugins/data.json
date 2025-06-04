@@ -287,6 +287,15 @@
       },
       "proletarian-wizard": {
         "startupType": "short"
+      },
+      "better-reading-mode": {
+        "startupType": "short"
+      },
+      "force-read-mode": {
+        "startupType": "short"
+      },
+      "auto-folder-collapse": {
+        "startupType": "short"
       }
     },
     "loadOrder": []

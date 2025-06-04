@@ -9,5 +9,6 @@
 - [[8.0 Exceptions.pdf]]
 - [[9.0 Interfaces.pdf]]
 - [[9.1 Java Interfaces.pdf]]
+- [[10.0 Files.pdf]]
 
 %% End Waypoint %%

@@ -1,6 +1,5 @@
 /* --------------------------------------- GENERAL CHANGES --------------------------------------- */
 
-
 /* Hide 'NEW GROUP' Button */
 .mod-left-split .is-group-slot {
     display: none !important;
@@ -28,15 +27,15 @@
 /* Push everything left */
 .mod-left-split .is-group .tree-item-self,
 .mod-left-split .is-tab .tree-item-self {
-    padding-inline-start: 10px !important; /* <-- Adjust this value */
-    /* The default seems to be around 24px based on the HTML */
-    /* Set this to a smaller value like 4px, 8px, 10px, etc., to move content left */
+    padding-inline-start: 12px !important;
 }
 
 
-/* Fix Collapse-Arrows Location */
+/* Hide Collapse-Arrows */
 .mod-left-split .is-group .tree-item-self .tree-item-icon {
+    display: none;
 }
+
 
 .mod-left-split .is-group .tree-item-self, /* Group header row */
 .mod-left-split .YOUR-NEW-GROUP-CONTAINER-CLASS .tree-item-self /* New group button row (replace placeholder) */ {
@@ -47,8 +46,8 @@
 
 /* Vertical Tabs Height */
 .mod-left-split .obsidian-vertical-tabs-container .tree-item-self {
-    padding-top: 5px !important;
-    padding-bottom: 5px !important;
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
 }
 
 
@@ -80,98 +79,7 @@
 }
 
 
-
-
-/* --------------------------------------- LIGHT MODE --------------------------------------- */
-
-/* Group Names */
-body.theme-light .mod-left-split .is-group .tree-item-inner-text {
-    color: #4d4f69 !important;
-}
-
-/* Text Color: ACTIVE TAB, INACTIVE TAB */
-body.theme-light .mod-left-split .is-tab .tree-item-inner-text,
-body.theme-light .mod-left-split .is-tab .tree-item-self.is-active .tree-item-inner-text {
-    color: #7d7f93 !important;
-}
-
-/* Text Color: HIGHLIGHTED TAB */
-body.theme-light .mod-left-split .is-tab.is-highlighted .tree-item-self .tree-item-inner-text {
-    color: #4d4f69 !important;
-}
-
-
-/* Text Color: ACTIVE TAB */
-body.theme-light .mod-left-split .tree-item-self:hover .tree-item-inner-text,
-body.theme-light .mod-left-split .is-tab:hover .tree-item-self.is-active .tree-item-inner-text,
-body.theme-light .mod-left-split .tree-item-self.is-active .tree-item-inner-text {
-    color: #4d4f69 !important;
-}
-
-
-/* Background Color: ACTIVE TAB, HIGHLIGHTED TAB */
-body.theme-light .mod-left-split .is-tab.is-highlighted .tree-item-self.is-active,
-body.theme-light .mod-left-split .is-tab:hover .tree-item-self.is-active {
-    background-color: #dfe1e3 !important;
-}
-
-
-/* Background Color: ACTIVE TAB */
-body.theme-light .mod-left-split .is-tab .tree-item-self.is-active {
-    background-color: #ebeded !important;
-}
-
-
-
-
-
-/* --------------------------------------- DARK MODE --------------------------------------- */
-
-
-/* Group Names */
-body.theme-dark .mod-left-split .is-group .tree-item-inner-text {
-    color: #dcd7ba !important;
-}
-
-
-/* Text Color: ACTIVE TAB, INACTIVE TAB */
-body.theme-dark .mod-left-split .is-tab .tree-item-inner-text,
-body.theme-dark .mod-left-split .is-tab .tree-item-self.is-active .tree-item-inner-text {
-    color: #5f5f7c !important;
-}
-
-
-/* Text Color: ACTIVE TAB (HOVER), HIGHLIGHTED TAB */
-body.theme-dark .mod-left-split .is-tab:hover .tree-item-self.is-active .tree-item-inner-text,
-body.theme-dark .mod-left-split .is-tab.is-highlighted .tree-item-self .tree-item-inner-text {
-    color: #dcd7ba !important;
-}
-
-
-/* Text Color */
-body.theme-dark .mod-left-split .tree-item-self:hover .tree-item-inner-text,
-body.theme-dark .mod-left-split .tree-item-self.is-active .tree-item-inner-text {
-    color: #dbd6b9 !important;
-}
-
-
-/* Background Color: ACTIVE TAB, HIGHLIGHTED TAB */
-body.theme-dark .mod-left-split .is-tab.is-highlighted .tree-item-self.is-active,
-body.theme-dark .mod-left-split .is-tab:hover .tree-item-self.is-active {
-    background-color: #191917 !important;
-}
-
-
-/* Background Color: ACTIVE TAB */
-body.theme-dark .mod-left-split .is-tab .tree-item-self.is-active {
-    background-color: #0a0a0a !important;
-}
-
-
-
-
-
-/* --------------------------------------- PIN ICON COLOR (Working Rule - Keep This!) --------------------------------------- */
+/* --------------------------------------- PIN ICON COLOR --------------------------------------- */
 
 /* Target the .action-pin container with maximum specificity within a pinned vertical tab item */
 .mod-left-split .tree-item.is-tab.is-pinned .tree-item-self .tree-item-flair-outer .clickable-icon.action-button.action-pin[data-action="unpin"] {
@@ -187,31 +95,55 @@ body.theme-dark .mod-left-split .tree-item.is-tab.is-pinned .tree-item-self:hove
 }
 
 
-/* --------------------------------------- HIDE PENCIL ICON (FOLDER EDIT - Refined Again) --------------------------------------- */
+/* --------------------------------------- HIDE PENCIL ICON --------------------------------------- */
 
 /* Hide the specific action button for the pencil icon within folder titles */
-/* TARGETING based on data-action="edit" - This is the MOST LIKELY specific identifier */
 .mod-left-split .tree-item.is-group .tree-item-self .tree-item-flair-outer .clickable-icon.action-button[data-action="edit"] {
     display: none !important;
 }
 
-/*
-   If the rule above does NOT work, try these alternatives by uncommenting one at a time:
 
-   Alternative 1: Target based on a hypothetical class name like 'action-edit'
-   .mod-left-split .tree-item.is-group .tree-item-self .tree-item-flair-outer .action-edit {
-       display: none !important;
-   }
+/* --------------------------------------- COLORS --------------------------------------- */
 
-   Alternative 2: Target the parent of the 'lucide-pencil' SVG using :has() (Requires :has() support)
-   .mod-left-split .tree-item.is-group .tree-item-self .tree-item-flair-outer .clickable-icon.action-button:has(.svg-icon.lucide-pencil) {
-       display: none !important;
-   }
 
-   Alternative 3: Target the 'lucide-pencil' SVG itself (may affect other styles)
-   .mod-left-split .tree-item.is-group .tree-item-self .tree-item-flair-outer .clickable-icon.action-button .svg-icon.lucide-pencil {
-       display: none !important;
-   }
-*/
+/* Group Names */
+ .mod-left-split .is-group .tree-item-inner-text {
+    color: var(--text-normal) !important;
+}
+
+
+/* Text Color: ACTIVE TAB, INACTIVE TAB */
+ .mod-left-split .is-tab .tree-item-inner-text,
+ .mod-left-split .is-tab .tree-item-self.is-active .tree-item-inner-text {
+    color: var(--text-muted) !important;
+}
+
+
+/* Text Color: ACTIVE TAB (HOVER), HIGHLIGHTED TAB */
+ .mod-left-split .is-tab:hover .tree-item-self.is-active .tree-item-inner-text,
+ .mod-left-split .is-tab.is-highlighted .tree-item-self .tree-item-inner-text {
+    color: var(--text-normal) !important;
+}
+
+
+/* Text Color */
+ .mod-left-split .tree-item-self:hover .tree-item-inner-text,
+ .mod-left-split .tree-item-self.is-active .tree-item-inner-text {
+    color: var(--text-normal) !important;
+}
+
+
+/* Background Color: ACTIVE TAB, HIGHLIGHTED TAB */
+ .mod-left-split .is-tab.is-highlighted .tree-item-self.is-active,
+ .mod-left-split .is-tab:hover .tree-item-self.is-active {
+    background-color: var(--background-primary) !important;
+}
+
+
+/* Background Color: ACTIVE TAB */
+ .mod-left-split .is-tab .tree-item-self.is-active {
+    background-color: var(--background-secondary) !important;
+}
+
 
 

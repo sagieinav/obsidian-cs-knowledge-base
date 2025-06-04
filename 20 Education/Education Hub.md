@@ -1,12 +1,12 @@
 ---
 cssclasses:
   - wide
+  - mcl-card-list
 banner: "[[EducationBanner01.png]]"
-banner_y: 0.765
+banner_y: 0.763
 disable-smart-lists: "true"
+banner_header: "{{filename}}"
 ---
-
-
 
 > [!multi-column]
 >
@@ -51,10 +51,10 @@ disable-smart-lists: "true"
 > 
 > > [!extra] Extra Courses
 >>
-> > - [[20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools|Dev Tools]]
-> > - [[20 Education/24 Semester 2/24.06 Position Writing/24.06 Position Writing|Position Writing]]
+> > 7. [[20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools|Dev Tools]]
+> > 8. [[20 Education/24 Semester 2/24.06 Position Writing/24.06 Position Writing|Position Writing]]
 
 ---
-- ##### **[[20 Education/21 Administration/21 Administration|21 Administration]]** #mcl/list-card 
-- ##### **[[20 Education/22 Projects/22 Projects|22 Projects]]** 
-- ##### **[[20 Education/23 Semester 1/23 Semester 1|23 Semester 1]]**
+- [[20 Education/21 Administration/21 Administration|21 Administration]]
+- [[20 Education/22 Projects/22 Projects|22 Projects]] 
+- [[20 Education/23 Semester 1/23 Semester 1|23 Semester 1]]

@@ -1,16 +1,11 @@
 {
-  "debounceTimeout": 50,
+  "debounceTimeout": 0,
   "ignoreOpenFiles": true,
-  "ignoreForceViewAll": true,
-  "folders": [
-    {
-      "folder": "",
-      "viewMode": ""
-    }
-  ],
+  "ignoreForceViewAll": false,
+  "folders": [],
   "files": [
     {
-      "filePattern": "24",
+      "filePattern": ".",
       "viewMode": "obsidianUIMode: preview"
     }
   ]

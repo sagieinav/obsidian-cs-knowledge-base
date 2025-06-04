@@ -1,0 +1,4 @@
+/* Hide the file path in Slash Commander suggestions */
+.suggestion-item small {
+    display: none !important; /* Use !important to ensure it overrides other styles */
+}

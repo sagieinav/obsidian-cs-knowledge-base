@@ -85,3 +85,20 @@
   border-bottom-right-radius: 8px !important;
 }
 /* --- END NEW APPROACH --- */
+
+
+/* ========================== HIDE TABLE TOP BOTTOM CONTROLS ==========================*/
+.cm-embed-block.cm-table-widget.markdown-rendered {
+    padding-bottom:1px;
+    padding-top:1px;
+}
+
+.table-col-drag-handle, .table-row-btn {
+    display:none !important;
+}
+
+
+/* ========================== HIDE EMPTY LINES ABOVE TABLES ==========================*/
+.cm-line:has(+ .cm-embed-block.cm-table-widget) br {
+  display: none;
+}

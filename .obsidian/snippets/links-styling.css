@@ -33,7 +33,7 @@
     /* Vertical adjustment for the external link arrow */
     --custom-external-arrow-vertical-offset: -0.03em; /* Adjust this value if needed */
     
-    --custom-internal-link-color-bold: #4c4f69; /* Using #ffffff as requested for testing */
+    --custom-internal-link-color-bold: #cfcec4; /* Using #ffffff as requested for testing */
 
 }
 
@@ -53,12 +53,10 @@ body.theme-light {
 /* These rules are correctly scoped to internal links and their specific structures */
 a.internal-link:not(.is-unresolved),
 .cm-hmd-internal-link > .cm-underline {
-    color: var(--custom-internal-link-color) !important;
+    color: var(--text-normal) !important;
     text-decoration: none !important;
     border-bottom: none !important;
 
-    /* Initial thin orange underline via inset box-shadow */
-    box-shadow: inset 0 calc(-1 * var(--custom-animated-underline-thickness)) 0 0 var(--custom-internal-link-color);
 
     /* Smooth transition for color and box-shadow */
     transition: color var(--custom-link-animation-duration) ease, box-shadow var(--custom-link-animation-duration) ease;
@@ -68,42 +66,13 @@ a.internal-link:not(.is-unresolved),
 }
 
 
-
-strong a.internal-link:not(.is-unresolved),
-b a.internal-link:not(.is-unresolved),
-.markdown-source-view .cm-strong a.internal-link,
-.markdown-source-view a.internal-link.cm-strong {
-    color: var(--custom-internal-link-color-bold) !important; /* Apply the bold color with !important */
-}
-
-
-/* Reading View: When the link is inside <strong> or <b> AND hovered/focused */
-strong a.internal-link:not(.is-unresolved):hover,
-strong a.internal-link:not(.is-unresolved):focus,
-b a.internal-link:not(.is-unresolved):hover,
-b a.internal-link:not(.is-unresolved):focus,
-/* Edit Mode: Attempt to target the link or its container when in a bold context AND hovered/focused */
-.markdown-source-view .cm-strong a.internal-link:hover,
-.markdown-source-view .cm-strong a.internal-link:focus,
-.markdown-source-view .cm-hmd-internal-link:has(.cm-strong):hover > .cm-underline, /* Using :has, may need adjustment */
-.markdown-source-view .cm-hmd-internal-link:has(.cm-strong):focus > .cm-underline /* Using :has, may need adjustment */
- {
-    /* Override the default box-shadow color for the hover state */
-    box-shadow: inset 0 calc(-1 * var(--custom-animated-highlight-height)) 0 0 var(--custom-internal-link-color-bold); /* Use the bold color */
-     /* Add !important if necessary to override the default rule */
-    /* box-shadow: inset 0 calc(-1 * var(--custom-animated-highlight-height)) 0 0 var(--custom-internal-link-color-bold) !important; */
-}
-
-
-
-
 /* Styles for Internal Links on hover and focus (Animated Highlight) */
 a.internal-link:not(.is-unresolved):hover,
 a.internal-link:not(.is-unresolved):focus,
 .cm-hmd-internal-link > .cm-underline:hover,
 .cm-hmd-internal-link > .cm-underline:focus {
-    color: var(--custom-link-hover-text-on-highlight-color) !important;
-    box-shadow: inset 0 calc(-1 * var(--custom-animated-highlight-height)) 0 0 var(--custom-internal-link-color);
+    color: var(--text-muted) !important;
+    box-shadow: inset 0 calc(-1 * var(--custom-animated-highlight-height)) 0 0 var(--text-normal);
     text-decoration: none !important;
     border-bottom: none !important;
 }
@@ -200,4 +169,5 @@ a.external-link:focus::after,
     height: var(--custom-external-underline-hover-thickness); /* Thicker on hover */
     background-color: var(--custom-external-underline-hover-color); /* Hover color */
 }
+
 

@@ -3,7 +3,7 @@
   "clickableIcons": "off",
   "showAllFileIcons": false,
   "showAllFolderIcons": false,
-  "minimalFolderIcons": false,
+  "minimalFolderIcons": true,
   "showItemName": "desktop",
   "biggerSearchResults": "mobile",
   "maxSearchResults": 50,

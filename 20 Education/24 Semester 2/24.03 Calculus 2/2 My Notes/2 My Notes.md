@@ -5,6 +5,7 @@ cssclasses:
 direction: ltr
 banner: "[[EducationBanner01.png]]"
 banner_y: 0.798
+ObsidianUIMode: preview
 ---
 
 %% Begin Waypoint %%

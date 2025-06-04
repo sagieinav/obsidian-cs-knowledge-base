@@ -1,0 +1,66 @@
+/* Center H1 in Reading Mode and Live Preview */
+.markdown-rendered h1,
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-header-1 {
+  text-align: center;
+}
+
+/* Center H2 in Reading Mode and Live Preview */
+.markdown-rendered h2,
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-header-2 {
+  text-align: center;
+}
+
+/* 1. General rule: Apply top padding to ALL H2 headings */
+.markdown-rendered h2,
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-header-2 {
+  padding-top: 1em; /* Your desired general H2 top padding */
+  /* You might also need to add margin-top: 1.5em; here if the theme uses margin for spacing */
+}
+
+
+.markdown-rendered h3,
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-header-3 {
+  padding-top: 0.7em; /* Adjust this value as needed */
+}
+
+
+/* == Center the inline file title in the view header == */
+
+/* Target the container holding the inline title */
+.view-header-title-container {
+  /* Make the container a flex container */
+  display: flex;
+  /* Center the flex items (which includes the inline-title) horizontally */
+  justify-content: center;
+  /* Ensure the container doesn't take up excessive space */
+  flex-grow: 0;
+  /* Use margin: auto as a fallback or complement if the view-header is also flex */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Target the inline title text element itself */
+.inline-title {
+   /* Ensure the text content within this element is centered */
+   text-align: center;
+   /* Ensure the element itself doesn't grow excessively if it's a flex item */
+   flex-grow: 0;
+   flex-shrink: 1;
+   /* Override potential width/max-width constraints from the theme */
+   width: auto;
+   max-width: unset;
+}
+
+
+
+/* Hide inline title using :has() based on 'banner' property in metadata */
+.mod-header.mod-ui:has(.metadata-container .metadata-property[data-property-key="banner"]) .inline-title,
+.markdown-source-view:has(.metadata-container .metadata-property[data-property-key="banner"]) .inline-title {
+    display: none !important;
+}
+
+
+/* properties padding */
+.metadata-container {
+	margin-top: -40px !important;
+}
