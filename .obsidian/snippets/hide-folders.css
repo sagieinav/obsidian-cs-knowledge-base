@@ -5,8 +5,8 @@
 .nav-folder-title[data-path="20 Education/_semester-template"],
 .nav-folder-title[data-path="20 Education/_semester-template"] + .nav-folder-children,
 
-.nav-folder-title[data-path="_assets"],
-.nav-folder-title[data-path$="_assets"] + .nav-folder-children,
+.nav-folder-title[data-path="Vault Assets"],
+.nav-folder-title[data-path$="Vault Assets"] + .nav-folder-children,
 
 
 /* Hide any folder named _attachments, regardless of path */

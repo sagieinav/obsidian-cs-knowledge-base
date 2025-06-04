@@ -264,8 +264,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -574,6 +573,17 @@
   },
   "active": "d31cee3a093e8256",
   "lastOpenFiles": [
+    "Vault Assets/Simple CLM/simpleclm-mediumoblique-webfont.ttf",
+    "Vault Assets/Simple CLM/simpleclm-medium-webfont.ttf",
+    "Vault Assets/Simple CLM/simpleclm-boldoblique-webfont.ttf",
+    "Vault Assets/Simple CLM/simpleclm-bold-webfont.ttf",
+    "Vault Assets/Simple CLM/LICENSE",
+    "Vault Assets/Simple CLM/GNU-GPL",
+    "Vault Assets/Marlos/Marlos.otf",
+    "Vault Assets/SF Hebrew/SF-Hebrew.ttf",
+    "Vault Assets/SF Hebrew/SF-Hebrew.otf",
+    "Vault Assets/Merriweather/Merriweather-VariableFont_opsz,wdth,wght.ttf",
+    "Vault Assets/Merriweather/Merriweather-Italic-VariableFont_opsz,wdth,wght.ttf",
     "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/11.0 Files.md",
     "20 Education/Education Hub.md",
     "20 Education/24 Semester 2/24.01 Java OOP/24.01 Java OOP.md",
@@ -599,17 +609,6 @@
     "20 Education/24 Semester 2/24.01 Java OOP/6 Past Exams/6 Past Exams.md",
     "Templates/FolderNoteEducation.md",
     "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/2 My Notes.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/2 My Notes~.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/class-workspace/src/week11/csv_exe/CSVFileReadWrite.java",
-    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/class-workspace/src/week11/txt_exe/CSVFileReadWrite.java",
-    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/class-workspace/out/production/class-workspace/week11/csv_exe/CSVFileReadWrite.class",
-    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/class-workspace/out/production/class-workspace/week11/csv_exe/CSVFile.class",
-    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/class-workspace/out/production/class-workspace/week4/practice/songs_repository/SongsRepository.class",
-    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/class-workspace/out/production/class-workspace/week4/practice/songs_repository/SongsRepository$eAddSongStatus.class",
-    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/class-workspace/out/production/class-workspace/week4/practice/songs_repository/Song.class",
-    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/class-workspace/out/production/class-workspace/week4/practice/songs_repository/Main.class",
-    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/class-workspace/out/production/class-workspace/week4/practice/songs_repository/Artist.class",
-    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/class-workspace/out/production/class-workspace/week4/practice/game/Util.class",
     "Attachments/Pasted image 20250604094151.png",
     "20 Education/21 Administration/_attachments/Pasted image 20250603101748.png",
     "20 Education/21 Administration/21.01 מלגה/14 שעות התנדבות פברואר 25.jpg",

@@ -7,11 +7,12 @@
 # Re-include these specific folders
 !/.obsidian/
 !/Banners/
-!/20 Education/_attachments
-!/20 Education/_semester-template
-!/20 Education/23 Semester 1
-!/20 Education/24 Semester 2
+!/20 Education/_attachments/
+!/20 Education/_semester-template/
+!/20 Education/23 Semester 1/
+!/20 Education/24 Semester 2/
 !/Templates/
+!/Vault Assets/
 
 
 # Re-include all contents within those specific folders recursively
@@ -22,6 +23,7 @@
 !/20 Education/23 Semester 1/**
 !/20 Education/24 Semester 2/**
 !/Templates/**
+!/Vault Assets/**
 
 
 # Re-include these specific files
