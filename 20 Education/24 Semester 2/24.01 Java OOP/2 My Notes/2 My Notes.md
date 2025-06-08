@@ -1,11 +1,11 @@
 ---
 cssclasses:
   - wide
-  - three-column-list
+  - three-column-grid-list
 direction: ltr
 banner: "[[EducationBanner01.png]]"
 banner_y: 0.865
-banner_header: Java OOP > My Notes
+banner_header: "[Java] Notes"
 ---
 %% Begin Waypoint %%
 - [[0.0 Introduction - OOP]]
@@ -19,9 +19,12 @@ banner_header: Java OOP > My Notes
 - [[6.0 Class Diagram (UML)]]
 - [[7.0 Inheritence]]
 - [[7.1 Polymorphism, Abstraction]]
-- [[9.0 Exceptions]]
-- [[10.0 Interfaces]]
-- [[10.1 Java Interfaces]]
-- [[11.0 Files]]
+- [[8.0 Exceptions]]
+- [[9.0 Interfaces]]
+- [[9.1 Java Interfaces]]
+- [[10.0 Files]]
+- [[11.0 Generics]]
+- [[Comparing in Java]]
+- [[Errors - Runtime, Compilation]]
 
 %% End Waypoint %%

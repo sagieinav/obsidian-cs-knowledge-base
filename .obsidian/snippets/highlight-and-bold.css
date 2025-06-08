@@ -1,14 +1,12 @@
-/* Custom styles for Highlightr highlighted text color and weight - Theme Specific */
+/* Custom styles for Highlightr highlighted text color and weight*/
 
-:root {
-    /* Default colors, adjust as needed */
-    --highlightr-text-color-light: #004fa8; /* Example color for light theme - REPLACE THIS with your desired light theme color */
-    --highlightr-text-color-dark: #004fa8;  /* Example color for dark theme - Confirm or REPLACE THIS with your desired dark theme color */
+
+/* === DEFINE THE DESIRED TEXT COLOR */
+body {
+    --highlightr-text-color: var(--color-accent); /* Use the light theme variable */
 }
 
-/* Apply bold font weight to highlighted text in both themes */
-/* This rule is outside the theme selectors as weight is same */
-/* This applies to both Editor (span.cm-highlight) and Preview/Live Preview Rendered (mark) */
+
 .highlightr-lowlight span.cm-highlight,
 .highlightr-lowlight .markdown-preview-view mark,
 .highlightr-floating span.cm-highlight,
@@ -17,9 +15,6 @@
 .highlightr-rounded .markdown-preview-view mark,
 .highlightr-realistic span.cm-highlight,
 .highlightr-realistic .markdown-preview-view mark,
-/* Add selectors for any other span.cm-highlight or mark specific styles if needed */
-/* .highlightr-mycustomstyle span.cm-highlight, */
-/* .highlightr-mycustomstyle .markdown-preview-view mark, */
 .cm-s-obsidian span.cm-highlight, /* General editor highlight selector */
 .markdown-preview-view mark, /* General preview mark selector */
 /* Added specificity for mark within callouts */
@@ -29,63 +24,32 @@
 .cm-embed-block .callout mark,
 .cm-embed-block .callout-content mark
 {
-    font-weight: 600 !important; /* Set font weight to bold */
+    font-weight: 700 !important;
+/*    color: var(--highlightr-text-color) !important;*/
+/*    background: var(--background-primary) !important;*/
+    color: #ffffff !important;
+/*    --text-highlight-bg: rgba(255, 23, 68, 0.5);*/
+/*        --text-highlight-bg: rgba(255, 185, 0, 0.25);*/
+                --text-highlight-bg: rgba(34, 139, 226, 0.25);
+
+
+    
 }
 
-
-/* Apply text color for LIGHT theme */
-body.theme-light {
-    --highlightr-text-color: var(--highlightr-text-color-light); /* Use the light theme variable */
-}
-
-body.theme-light .highlightr-lowlight span.cm-highlight,
-body.theme-light .highlightr-lowlight .markdown-preview-view mark,
-body.theme-light .highlightr-floating span.cm-highlight,
-body.theme-light .highlightr-floating .markdown-preview-view mark,
-body.theme-light .highlightr-rounded span.cm-highlight,
-body.theme-light .highlightr-rounded .markdown-preview-view mark,
-body.theme-light .highlightr-realistic span.cm-highlight,
-body.theme-light .highlightr-realistic .markdown-preview-view mark,
-/* Add selectors for any other span.cm-highlight or mark specific styles in light theme */
-/* body.theme-light .highlightr-mycustomstyle span.cm-highlight, */
-/* body.theme-light .highlightr-mycustomstyle .markdown-preview-view mark, */
-body.theme-light .cm-s-obsidian span.cm-highlight, /* General editor highlight selector in light theme */
-body.theme-light .markdown-preview-view mark, /* General preview mark selector in light theme */
-/* NEW: Added specific selectors for mark within callouts for increased specificity */
-body.theme-light .callout mark,
-body.theme-light .callout-content mark,
-body.theme-light .cm-embed-block mark,
-body.theme-light .cm-embed-block .callout mark,
-body.theme-light .cm-embed-block .callout-content mark
+@media print {
+    .highlightr-lowlight span.cm-highlight,
+    .highlightr-lowlight .markdown-preview-view mark,
+    .highlightr-floating span.cm-highlight,
+    .highlightr-floating .markdown-preview-view mark,
+    .cm-s-obsidian span.cm-highlight, /* General editor highlight selector */
+    .markdown-preview-view mark, /* General preview mark selector */
+    /* Added specificity for mark within callouts */
+    .callout mark,
+    .callout-content mark,
+    .cm-embed-block mark,
+    .cm-embed-block .callout mark,
+    .cm-embed-block .callout-content mark
 {
-    color: var(--highlightr-text-color) !important; /* Apply the theme-specific color */
+    --lowlight-background: #ffffff !important;
 }
-
-
-/* Apply text color for DARK theme */
-body.theme-dark {
-     --highlightr-text-color: var(--highlightr-text-color-dark); /* Use the dark theme variable */
-}
-
-body.theme-dark .highlightr-lowlight span.cm-highlight,
-body.theme-dark .highlightr-lowlight .markdown-preview-view mark,
-body.theme-dark .highlightr-floating span.cm-highlight,
-body.theme-dark .highlightr-floating .markdown-preview-view mark,
-body.theme-dark .highlightr-rounded span.cm-highlight,
-body.theme-dark .highlightr-rounded .markdown-preview-view mark,
-body.theme-dark .highlightr-realistic span.cm-highlight,
-body.theme-dark .highlightr-realistic .markdown-preview-view mark,
-/* Add selectors for any other span.cm-highlight or mark specific styles in dark theme */
-/* body.theme-dark .highlightr-mycustomstyle span.cm-highlight, */
-/* body.theme-dark .highlightr-mycustomstyle .markdown-preview-view mark, */
-body.theme-dark .cm-s-obsidian span.cm-highlight, /* General editor highlight selector in dark theme */
-body.theme-dark .markdown-preview-view mark, /* General preview mark selector in dark theme */
-/* NEW: Added specific selectors for mark within callouts for increased specificity */
-body.theme-dark .callout mark,
-body.theme-dark .callout-content mark,
-body.theme-dark .cm-embed-block mark,
-body.theme-dark .cm-embed-block .callout mark,
-body.theme-dark .cm-embed-block .callout-content mark
-{
-    color: var(--highlightr-text-color) !important; /* Apply the theme-specific color */
 }

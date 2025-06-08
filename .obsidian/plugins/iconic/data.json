@@ -21,35 +21,7 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {
-    "10 Personal": {
-      "icon": "lucide-user-2",
-      "unsynced": [
-        "9370cafd2ab2d6e6"
-      ]
-    },
-    "20 Education": {
-      "icon": "lucide-graduation-cap",
-      "unsynced": [
-        "9370cafd2ab2d6e6"
-      ]
-    },
-    "30 Work": {
-      "icon": "lucide-briefcase",
-      "unsynced": [
-        "9370cafd2ab2d6e6"
-      ]
-    },
-    "40 Research": {
-      "icon": "lucide-codesandbox",
-      "unsynced": [
-        "9370cafd2ab2d6e6"
-      ]
-    },
-    "Imported/📥 Inputs.md": {
-      "icon": "lucide-album"
-    }
-  },
+  "fileIcons": {},
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},

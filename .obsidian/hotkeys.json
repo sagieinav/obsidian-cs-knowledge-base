@@ -10,7 +10,7 @@
     },
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "3"
     }
@@ -145,22 +145,6 @@
   "workspace:goto-tab-5": [],
   "workspace:goto-tab-7": [],
   "workspace:goto-tab-8": [],
-  "editor:set-heading-3": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "3"
-    }
-  ],
-  "editor:set-heading-4": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "4"
-    }
-  ],
   "editor:toggle-strikethrough": [
     {
       "modifiers": [
@@ -521,12 +505,6 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "ArrowRight"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
       "key": "2"
     }
   ],
@@ -535,8 +513,19 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "ArrowLeft"
-    },
+      "key": "1"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:set-heading-1": [
     {
       "modifiers": [
         "Mod"
@@ -544,26 +533,34 @@
       "key": "1"
     }
   ],
-  "editor:set-heading-1": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "1"
-    }
-  ],
   "editor:set-heading-2": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "2"
+    }
+  ],
+  "editor:set-heading-3": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
+  "editor:set-heading-4": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "4"
     }
   ],
   "editor:set-heading-5": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "5"
     }
@@ -571,9 +568,10 @@
   "editor:set-heading-6": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "6"
     }
-  ]
+  ],
+  "graph:open": []
 }

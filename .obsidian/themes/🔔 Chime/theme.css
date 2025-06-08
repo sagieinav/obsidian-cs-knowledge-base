@@ -24,6 +24,7 @@ body {
     --border-width: 1px;
 }
 
+
 body.classic-layout, .is-mobile {
     --divider-width: var(--border-width);
 }

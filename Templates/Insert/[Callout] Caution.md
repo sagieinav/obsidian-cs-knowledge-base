@@ -1,2 +1,2 @@
-> [!Caution]
+> [!Caution] **Caution**
 > 

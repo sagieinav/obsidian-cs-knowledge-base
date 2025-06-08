@@ -1,0 +1,40 @@
+/* Stylized buttons - from Gabroel */
+button {
+  font-weight: 500;
+  border-radius: 6px;
+  font-size: 0.95em;
+  cursor: pointer;
+}
+
+
+/* Menu sizes */
+.modal.mod-settings,
+.modal.mod-community-plugin{
+  height: 70%;
+  max-width: unset;
+  width: 80% !important;
+}
+
+.setting-item-description{
+  font-size: 0.85em;
+  line-height: 1.4em;
+}
+
+.setting-item-name{
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+.vertical-tab-nav-item:not(.settings-search-input) {
+	padding-left: 1.5em;
+	line-height: 1.4em;
+	font-size: 0.95em;
+}
+
+
+.vertical-tab-header-group-title {
+	font-size: 1.2em;
+	font-weight: 700;
+	padding-left: 0.3em;
+	color: var(--color-accent);
+}

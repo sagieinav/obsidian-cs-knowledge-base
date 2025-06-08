@@ -1,11 +1,11 @@
 ---
 cssclasses:
   - wide
-  - three-column-list
+  - two-column-grid-list
 direction: ltr
 banner: "[[EducationBanner01.png]]"
 banner_y: 0.798
-banner_header: "[Comp Architecture] My Notes"
+banner_header: "[Comp Arch] Notes"
 ---
 
 %% Begin Waypoint %%

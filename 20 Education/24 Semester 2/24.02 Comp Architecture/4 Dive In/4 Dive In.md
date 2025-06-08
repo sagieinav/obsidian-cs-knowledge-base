@@ -5,6 +5,7 @@ cssclasses:
 direction: ltr
 banner: "[[EducationBanner01.png]]"
 banner_y: 0.798
+banner_header: Dive In
 ---
 
 %% Begin Waypoint %%
@@ -24,7 +25,7 @@ banner_y: 0.798
 	- [[10 functions.asm]]
 	- [[11 arguments.asm]]
 	- [[12 savedRegisters.asm]]
-	- [[13 nestedProcedures]]
+	- [[13 nestedProcedures.asm]]
 	- [[14 getIntInput.asm]]
 	- [[15 getFloatInput.asm]]
 	- [[16 getDoubleInput.asm]]

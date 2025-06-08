@@ -5,8 +5,8 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11554
 
 [data-type="markdown"] .metadata-properties {
   display: grid;
-  grid: auto-flow / 50% 50%;
-  gap: 3px 0px;
+  grid: auto-flow / 33% 33%;
+  gap: 3px 0;
 }
 
 [data-type="markdown"] .metadata-properties .metadata-property-value {
@@ -14,5 +14,5 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11554
 }
 
 body {
-  --metadata-label-width: 5em;
+  --metadata-label-width: 8em;
 }

@@ -5,6 +5,7 @@ cssclasses:
 direction: ltr
 banner: "[[EducationBanner01.png]]"
 banner_y: 0.798
+banner_header: Raw Material
 ---
 
 %% Begin Waypoint %%
@@ -23,6 +24,8 @@ banner_y: 0.798
 	- [[Calculus 2 lesson 12.pdf]]
 	- [[Calculus 2 lesson 13.pdf]]
 - **2.0 אלינה**
+	- [[__תרגול 11 אינטגרל קווי kgE _.pdf]]
+	- [[__תרגול 11 אינטגרל קווי VDD _.pdf]]
 	- [[תרגול 10.pdf]]
 
 %% End Waypoint %%

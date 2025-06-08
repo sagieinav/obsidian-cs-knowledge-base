@@ -1,4 +1,4 @@
-.status-bar-item.plugin-backlink.mod-clickable {
+a.status-bar-item.plugin-backlink.mod-clickable {
     display: none;
 }
 
@@ -10,4 +10,22 @@
 .status-bar-item.plugin-obsidian-apple-reminders-plugin,
 .status-bar-item.plugin-obsidian-git {
 	display: none;
+}
+
+/* Fading Status Bar and Note Controls (from MAGMA theme) */
+.status-bar:hover .status-bar-item {
+    opacity: 1;
+    transition: opacity .1s ease-in-out;
+}
+.status-bar:not(:hover) .status-bar-item {
+    opacity: 0.5;
+    transition: opacity .25s ease-in-out;
+}
+.view-header:hover .view-actions {
+    opacity: 1;
+    transition: opacity .1s ease-in-out;
+}
+.view-header:not(:hover) .view-actions {
+    opacity: 0.5;
+    transition: opacity .25s ease-in-out;
 }

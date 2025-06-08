@@ -5,5 +5,15 @@
     "margin": "0",
     "downscalePercent": 79
   },
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "userIgnoreFilters": [
+    "30 Work/34 Other/CD_RPW28_INST/",
+    "40 Research/44 Private Projects/",
+    "Vault Assets/",
+    "LICENSE",
+    "20 Education/22 Projects/edu-joomla-proj",
+    "10 Personal/13 Entertainment/13.01 GBA/"
+  ],
+  "readableLineLength": true
 }

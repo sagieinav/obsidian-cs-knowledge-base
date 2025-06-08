@@ -1,0 +1,41 @@
+/*This fixes the banner plugin not taking up the left side of the screen*/
+.obsidian-banner .banner-image.draggable {
+    margin: 0em !important;
+}
+
+.obsidian-banner-wrapper {
+	margin-bottom: 1em !important;
+}
+
+.obsidian-banner-wrapper img {
+    border-radius: 0 !important;
+}
+
+/* Increase shadow for the banner header title text */
+body.theme-dark .banner-header-title {
+    /* text-shadow: [horizontal-offset] [vertical-offset] [blur-radius] [color]; */
+    /* style 1: */
+    text-shadow: 0.05em 0.05em 7px rgba(0, 0, 0, 1) !important;
+    /* style 2: */
+/*    text-shadow: 0.05em 0.05em 0px rgba(0, 0, 0, 0.8) !important;*/
+}
+
+body.theme-light .banner-header-title {
+    /* text-shadow: [horizontal-offset] [vertical-offset] [blur-radius] [color]; */
+    /* style 1: */
+    text-shadow: 0.05em 0.05em 8px rgba(55, 53, 47, 0.4) !important;
+    /* style 2: */
+/*    text-shadow: 0.05em 0.05em 0px rgba(180, 180, 180, 1) !important;*/
+}
+
+/* === FLOATING BANNER HEADER === */
+.banner-header-title {
+    transition: 500ms !important;
+}
+
+.banner-header-title:hover {
+    transform: translateY(-4px) !important; /* Lift the element up by 4 pixels */
+    overflow: visible;
+}
+
+

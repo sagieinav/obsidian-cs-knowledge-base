@@ -39,7 +39,7 @@ direction: ltr
 > > 7. [[20 Education/24 Semester 2/24.03 Calculus 2/7 Exams/7 Exams|Exams]]
 >
 >
-> > [!probability] **[[20 Education/24 Semester 2/24.04 Probability Intro/24.04 Probability Intro|Probability Intro]]*
+> > [!probability] **[[24.04 Probability|Probability Intro]]*
 > >
 > > 1. [[20 Education/24 Semester 2/24.04 Probability Intro/1 Lessons/1 Lessons|Lessons]]
 > > 2. [[Binkit]]
@@ -50,5 +50,5 @@ direction: ltr
 > > 7. [[20 Education/24 Semester 2/24.04 Probability Intro/7 Exams/7 Exams|Exams]]
 >
 > > [!extra] Extra Courses
-> > - [[20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools|24.05 Dev Tools]]
+> > - [[DevTools]]
 > > - [[20 Education/24 Semester 2/24.06 Position Paper Writing/24.06 Position Paper Writing|24.06 Writing]]

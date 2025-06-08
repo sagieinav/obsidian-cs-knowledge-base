@@ -1,2 +1,2 @@
-> [!exam] Exam Notes #מבחן #
+> [!exam] **Exam Notes** #מבחן #
 > 

@@ -262,6 +262,29 @@ body{
 
 
 
+/* Limit multi-column callout children to a maximum of 4 per line */
+/* Adjust the flex-basis of the direct children within the multi-column callout content */
+div[data-callout="multi-column"][data-callout-metadata="col2"].callout > .callout-content > *:is(div,ul,blockquote,p) {
+  flex: 1 0 calc(50% - var(--callout-gap)); /* Aim for ~1/4 width, accounting for gap */
+}
+
+div[data-callout="multi-column"][data-callout-metadata="col3"].callout > .callout-content > *:is(div,ul,blockquote,p) {
+  flex: 1 0 calc(33% - var(--callout-gap)); /* Aim for ~1/4 width, accounting for gap */
+}
+
+div[data-callout="multi-column"][data-callout-metadata="col4"].callout > .callout-content > *:is(div,ul,blockquote,p) {
+  flex: 1 0 calc(25% - var(--callout-gap)); /* Aim for ~1/4 width, accounting for gap */
+}
+
+div[data-callout="multi-column"][data-callout-metadata="col5"].callout > .callout-content > *:is(div,ul,blockquote,p) {
+  flex: 1 0 calc(20% - var(--callout-gap)); /* Aim for ~1/4 width, accounting for gap */
+}
+
+div[data-callout="multi-column"][data-callout-metadata="col6"].callout > .callout-content > *:is(div,ul,blockquote,p) {
+  flex: 1 0 calc(16.6% - var(--callout-gap)); /* Aim for ~1/4 width, accounting for gap */
+}
+
+
 
 /* === Blank Container "DIV"'s - can be used with Main Multi-Column layout above === */
 
@@ -569,7 +592,7 @@ body{
 		--mcl-card-bg-color: var(--background-primary);
 		--mcl-card-gap: 0.2em;
 		--mcl-card-border-width: 1px;
-		--mcl-card-border-color: var(--background-primary);
+		--mcl-card-border-color: var(--text-muted);
 	}
 
 	/* -- Main Code -- */
@@ -909,6 +932,25 @@ settings:
 */
 
 
+/* Add this rule to set custom text size for all list views */
+/* Target list items within elements that have the various list view classes or tags */
+:is(
+  .two-column-grid-list,
+  .three-column-grid-list,
+  .four-column-grid-list,
+  .multi-column-grid-list,
+  .two-column-list,
+  .three-column-list,
+  .four-column-list,
+  .multi-column-list
+  div:has(> ul [href*="#mcl/list-grid"]),   /* Div containing ul with grid tag */
+  div:has(> ul [data-heading*="#mcl/list-grid"]),
+  div:has(> ul [href*="#mcl/list-card"])
+) ul.has-list-bullet > li:not(.list-collapse-indicator) {
+  font-size: 1.12em;
+  margin-left: 0.6em;
+  margin-bottom: 0.2em;
+}
 
 /* Add this rule to set custom text size for all list views */
 /* Target list items within elements that have the various list view classes or tags */
@@ -916,19 +958,21 @@ settings:
   .two-column-grid-list,
   .three-column-grid-list,
   .four-column-grid-list,
-  .multi-column-grid-list
+  .multi-column-grid-list,
+  .two-column-list,
+  .three-column-list,
+  .four-column-list,
+  .multi-column-list
   div:has(> ul [href*="#mcl/list-grid"]),   /* Div containing ul with grid tag */
   div:has(> ul [data-heading*="#mcl/list-grid"]),
   div:has(> ul [href*="#mcl/list-card"])
-) li {
-  font-size: 28px;
-  margin-left: 18px;
-  margin-bottom: 10px;
+) ul.has-list-bullet > li li {
+	font-size: 1em !important;
+	margin-left: normal !important;
+	margin-bottom: auto !important;
 }
 
 
-/* Add this rule to set custom text size for all list views */
-/* Target list items within elements that have the various list view classes or tags */
 :is(
   .two-column-list,
   .three-column-list,
@@ -937,10 +981,33 @@ settings:
   div:has(> ul [href*="#mcl/list-grid"]),   /* Div containing ul with grid tag */
   div:has(> ul [data-heading*="#mcl/list-grid"]),
   div:has(> ul [href*="#mcl/list-card"])
-) li {
-  font-size: 18px;
-  margin-left: 8px;
-  margin-bottom: 5px;
+) li .list-collapse-indicator .svg-icon {
+	margin-left: 1.5em !important;
+}
+
+:is(
+  .two-column-list,
+  .three-column-list,
+  .four-column-list,
+  .multi-column-list
+  div:has(> ul [href*="#mcl/list-grid"]),   /* Div containing ul with grid tag */
+  div:has(> ul [data-heading*="#mcl/list-grid"]),
+  div:has(> ul [href*="#mcl/list-card"])
+) li > .list-bullet {
+	display: none !important;
+}
+
+
+:is(
+  .two-column-grid-list,
+  .three-column-grid-list,
+  .four-column-grid-list,
+  .multi-column-grid-list
+  div:has(> ul [href*="#mcl/list-grid"]),   /* Div containing ul with grid tag */
+  div:has(> ul [data-heading*="#mcl/list-grid"]),
+  div:has(> ul [href*="#mcl/list-card"])
+) li .list-collapse-indicator .svg-icon {
+	visibility: hidden !important;
 }
 
 
@@ -964,13 +1031,8 @@ settings:
 /* This targets the li elements directly under a ul when mcl-card-list is active */
 .markdown-rendered.mcl-card-list ul:not(ul ul) > li {
     margin-inline: var(--mcl-card-gap);
-    margin-bottom: calc(var(--mcl-card-gap) * 2);
-    padding-top: 2px;
-    margin-bottom: -5px;
-    padding-left: 0.4em;
-    outline: var(--mcl-card-border-width) solid var(--mcl-card-border-color);
-    border-radius: 0.5em;
-    background-color: var(--mcl-card-bg-color);
+    padding-top: 0.3em;
+    padding-bottom: 0.2em;
 }
 
 /* Target strong elements within list items of the mcl-card-list */
@@ -987,7 +1049,7 @@ settings:
 .markdown-rendered.mcl-card-list ul:first-child {
   display: grid;
   grid-template-columns: repeat(3, 1fr) !important;
-  font-size: 48px;
+  font-size: 2.5em;
   font-family: Marlos;
 }
 
@@ -998,6 +1060,7 @@ settings:
 .markdown-rendered.mcl-card-list ul ul {
   display: block; /* Or unset, depending on desired behavior for nested lists */
 }
+
 
 
 /*
@@ -1060,3 +1123,34 @@ settings:
 ) li li li > .list-bullet::after {
      visibility: visible !important;
 }
+
+
+
+/*
+* Prevent list items from breaking across columns in List Column views.
+* Apply break-inside: avoid to the list items (li) within the columnized containers.
+*/
+:is(
+  /* Selectors that apply 'columns' for List Column views */
+  .two-column-list div > ul, .three-column-list div > ul, .four-column-list div > ul, .multi-column-list div > ul,
+  .two-column-list-block, .three-column-list-block, .four-column-list-block, .multi-column-list-block,
+  ul:has(> li > [data-heading] > [href*="#mcl/list-column"]), /* :has() on UL with heading */
+  ul:has(> li > [href*="#mcl/list-column"]), /* :has() on UL directly */
+  div:has(> ul > li > [href*="#mcl/list-column"]), /* :has() on DIV containing UL */
+  div:has(> ul > li > [data-heading] > [href*="#mcl/list-column"]), /* :has() on DIV containing UL with heading */
+  .tag-mcllist-column ul, /* Contextual Typography on UL */
+  /* Assuming similar selectors exist for OL if ordered lists are used in columns */
+  ol:has(> li > [data-heading] > [href*="#mcl/list-column"]),
+  ol:has(> li > [href*="#mcl/list-column"]),
+  div:has(> ol > li > [href*="#mcl/list-column"]),
+  div:has(> ol > li > [data-heading] > [href*="#mcl/list-column"]),
+  .tag-mcllist-column ol
+) li /* <-- Target all list items within these columnized containers */
+{
+    break-inside: avoid; /* Tell the browser not to break this element across columns */
+    /* Add vendor prefixes for broader compatibility, although generally not needed in modern browsers */
+    /* -webkit-column-break-inside: avoid; */
+    /* column-break-inside: avoid; */
+}
+
+

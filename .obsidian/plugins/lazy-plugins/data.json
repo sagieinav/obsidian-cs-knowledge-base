@@ -5,7 +5,7 @@
     "shortDelaySeconds": 5,
     "longDelaySeconds": 20,
     "delayBetweenPlugins": 40,
-    "defaultStartupType": "short",
+    "defaultStartupType": "instant",
     "showDescriptions": true,
     "enableDependencies": false,
     "plugins": {
@@ -25,7 +25,7 @@
         "startupType": "long"
       },
       "dataview": {
-        "startupType": "short"
+        "startupType": "disabled"
       },
       "editing-toolbar": {
         "startupType": "short"
@@ -58,7 +58,7 @@
         "startupType": "long"
       },
       "folder-notes": {
-        "startupType": "long"
+        "startupType": "short"
       },
       "homepage": {
         "startupType": "short"
@@ -70,7 +70,7 @@
         "startupType": "disabled"
       },
       "quickadd": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "obsidian-latex-suite": {
         "startupType": "short"
@@ -97,7 +97,7 @@
         "startupType": "disabled"
       },
       "darlal-switcher-plus": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "open-with": {
         "startupType": "disabled"
@@ -178,7 +178,7 @@
         "startupType": "short"
       },
       "insert-unsplash-image": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "obsidian-imgur-plugin": {
         "startupType": "disabled"
@@ -250,7 +250,7 @@
         "startupType": "disabled"
       },
       "note-toolbar": {
-        "startupType": "short"
+        "startupType": "disabled"
       },
       "consistent-attachments-and-links": {
         "startupType": "short"
@@ -265,13 +265,13 @@
         "startupType": "short"
       },
       "auto-bullet": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "open-tab-settings": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "obsidian-paste-to-current-indentation": {
-        "startupType": "short"
+        "startupType": "disabled"
       },
       "ai-interface": {
         "startupType": "short"
@@ -280,10 +280,10 @@
         "startupType": "disabled"
       },
       "card-board": {
-        "startupType": "short"
+        "startupType": "disabled"
       },
       "obsidian-kanban": {
-        "startupType": "short"
+        "startupType": "disabled"
       },
       "proletarian-wizard": {
         "startupType": "short"
@@ -296,6 +296,33 @@
       },
       "auto-folder-collapse": {
         "startupType": "short"
+      },
+      "codeblock-customizer": {
+        "startupType": "short"
+      },
+      "creases": {
+        "startupType": "disabled"
+      },
+      "execute-code": {
+        "startupType": "short"
+      },
+      "advanced-exclude": {
+        "startupType": "instant"
+      },
+      "mathlinks": {
+        "startupType": "instant"
+      },
+      "quick-latex": {
+        "startupType": "long"
+      },
+      "obsidian-functionplot": {
+        "startupType": "long"
+      },
+      "math-in-callout": {
+        "startupType": "long"
+      },
+      "inline-math": {
+        "startupType": "long"
       }
     },
     "loadOrder": []

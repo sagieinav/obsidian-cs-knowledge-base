@@ -1,0 +1,24 @@
+/* Smoother text */
+html {
+  -webkit-font-smoothing: antialiased !important;
+}
+
+body {
+  /* Apply a subtle text stroke to make the text appear thicker */
+  -webkit-text-stroke: 0.15px !important;
+  /* Include the standard property for compatibility */
+  text-stroke: 0.1px !important;
+}
+
+
+/* --- Remove text stroke from headings --- */
+/* Adjust selectors based on your theme's heading styles */
+h1, h2, h3, h4, h5, h6 {
+    -webkit-text-stroke: initial;
+    text-stroke: initial;
+}
+
+strong {
+    -webkit-text-stroke: 0.4px !important;
+    text-stroke: 0.4px;
+}

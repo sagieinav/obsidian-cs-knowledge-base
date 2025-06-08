@@ -6,12 +6,20 @@ direction: ltr
 banner: "[[EducationBanner01.png]]"
 banner_y: 0.798
 ObsidianUIMode: preview
+banner_header: "[Calculus] Notes"
 ---
 
 %% Begin Waypoint %%
 - **0 Intro**
 	- [[0.0 Introduction - Calc2]]
 	- [[0.1 מבוא לחדו״א 2 ורשימת נושאים]]
+	- [[Untitled]]
+	- [[אלינה תרגול 10]]
+	- [[אלינה תרגול 11]]
+	- [[מבוא - אינטגרל משטחי]]
+	- [[מבוא - אינטגרל קווי]]
+	- [[משפט גרין]]
+	- [[סוגי מערכות קוארדינטות]]
 - **1 Series**
 	- [[1.0 הקדמה לטורים]]
 	- [[2.0 טורים חיוביים]]
@@ -32,5 +40,6 @@ ObsidianUIMode: preview
 	- [[10.0 אינטגרלים חוזרים - Fubini's Theorem]]
 	- [[10.1 החלפת משתנים - Jacobian]]
 	- [[11.0 אינטגרל משולש]]
+- [[שדות משמרים]]
 
 %% End Waypoint %%

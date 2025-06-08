@@ -1,0 +1,29 @@
+/* Target any element within the java-oop callout content */
+.callout[data-callout="multi-column"] .callout-content {
+    font-size: 18px !important;
+}
+
+
+.callout[data-callout="multi-column"] .callout-title {
+    font-size: 1.1em !important;
+    text-align: center !important;
+    justify-content: center; /* Center content along the main axis (horizontal) */
+    align-items: center; /* Center content along the cross axis (vertical) */
+}
+
+
+.callout[data-callout="java-oop"] .callout-icon svg,
+.callout[data-callout="probability"] .callout-icon svg {
+    width: 1.2em !important;
+    height: 1.2em !important;
+}
+
+.callout[data-callout="assembly"] .callout-icon svg,
+.callout[data-callout="calculus"] .callout-icon svg,
+.callout[data-callout="devtools"] .callout-icon svg,
+.callout[data-callout="project"] .callout-icon svg,
+.callout[data-callout="writing"] .callout-icon svg,
+.callout[data-callout="extra"] .callout-icon svg  {
+    width: 1.1em !important;
+    height: 1.1em !important;
+}

@@ -1,0 +1,20 @@
+/* Force bold text to use the accent color in reading mode */
+.markdown-rendered strong,
+.markdown-rendered b {
+    color: var(--color-accent); /* Set the text color to the accent color variable */
+}
+
+/* Force bold text to use the accent color in edit/live preview mode */
+.cm-editor .cm-strong {
+    color: var(--color-accent); /* Set the text color to the accent color variable */
+}
+
+/* Optional: Combine the rules if desired (less specific, but cleaner if they are identical) */
+/* Use with caution, as other contexts might use strong/b/cm-strong */
+/*
+strong,
+b,
+.cm-strong {
+    color: var(--color-accent) !important;
+}
+*/

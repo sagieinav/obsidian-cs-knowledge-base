@@ -1,0 +1,31 @@
+.code-styler-header-language-tag {
+	color: var(--color-accent) !important;
+}
+
+.code-styler-pre-parent,
+.code-styler-pre-parent pre {
+	transition: 500ms; /* Smooth transition over 0.2 seconds */
+}
+
+
+.code-styler-pre-parent:hover {
+	transform: translateY(-4px); /* Lift the element up by 4 pixels */
+}
+
+
+body.theme-dark .code-styler-pre-parent:hover {
+	filter: drop-shadow(0px 3px 12px rgba(232, 231, 221, 0.08));
+}
+
+
+body.theme-light .code-styler-pre-parent:hover {
+    filter: drop-shadow(0px 3px 12px rgba(55, 53, 47, 0.12));
+}
+
+.code-styler-header-language-tag {
+	background-color: transparent !important;
+}
+
+.code-styler-line-text {
+	font-size: 15px;
+}

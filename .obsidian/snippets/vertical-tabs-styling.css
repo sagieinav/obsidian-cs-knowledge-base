@@ -24,30 +24,27 @@
 }
 
 
-/* Push everything left */
-.mod-left-split .is-group .tree-item-self,
+
+/* Tabs indentation */
 .mod-left-split .is-tab .tree-item-self {
-    padding-inline-start: 12px !important;
+    padding-inline-start: 2.5em !important;
+}
+
+
+/* Push tabs left */
+.obsidian-vertical-tabs-container .is-group .tree-item-self {
+    margin-left: -1.5em !important;
+}
+
+/* Push tabs left */
+.obsidian-vertical-tabs-container .tree-item-children {
+    margin-left: 1.35em !important;
 }
 
 
 /* Hide Collapse-Arrows */
 .mod-left-split .is-group .tree-item-self .tree-item-icon {
     display: none;
-}
-
-
-.mod-left-split .is-group .tree-item-self, /* Group header row */
-.mod-left-split .YOUR-NEW-GROUP-CONTAINER-CLASS .tree-item-self /* New group button row (replace placeholder) */ {
-    display: flex !important; /* Arrange children in a row */
-    align-items: center !important; /* Vertically center children (icon, text, flair) */
-}
-
-
-/* Vertical Tabs Height */
-.mod-left-split .obsidian-vertical-tabs-container .tree-item-self {
-    padding-top: 4px !important;
-    padding-bottom: 4px !important;
 }
 
 
@@ -58,24 +55,48 @@
 }
 
 
+/* Remove indentation line */
+.obsidian-vertical-tabs-container .tree-item-children {
+    border-left: none !important;
+}
 
+/* Italic pinned tabs */
+.tree-item.is-pinned .tree-item-inner-text {
+    font-style: italic;
+}
+
+/* Hide highlight color on group-tab hover */
+.is-group:hover > .tree-item-self {
+    background-color: transparent !important; /* Remove the background color */
+}
 
 
 /* --------------------------------------- TEXT STYLE --------------------------------------- */
 
 /* Group Names */
-.mod-left-split .is-group .tree-item-inner-text {
+.is-group > .tree-item-self .tree-item-inner-text {
     font-family: 'Marlos' !important;
-    font-weight: 650 !important;
-    font-size: 20px !important;
+    font-weight: 500 !important;
+    font-size: 1.6em !important;
+    color: var(--color-accent) !important;
+    border-bottom-style: solid; /* Can change this (e.g., dashed, dotted) */
+    border-bottom-width: 0.05em;
+    border-bottom-color: var(--text-muted);
+    padding-bottom: 0.05em !important;
+    display: inline-block !important; /* Reinforce inline-block */
 }
 
 
 /* Tab Names */
 .mod-left-split .is-tab .tree-item-inner-text {
-    font-family: 'Merriweather', 'SF Hebrew' !important;
-    font-weight: 300 !important; 
-    font-size: 14px !important;
+    font-family: Cascadia Code !important;
+    
+    font-size: 1.15em !important;
+    font-weight: 200 !important;
+    
+    /* font-family: Merriweather, SF Hebrew; */
+
+    word-spacing: -0.05em !important;
 }
 
 
@@ -144,6 +165,3 @@ body.theme-dark .mod-left-split .tree-item.is-tab.is-pinned .tree-item-self:hove
  .mod-left-split .is-tab .tree-item-self.is-active {
     background-color: var(--background-secondary) !important;
 }
-
-
-

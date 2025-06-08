@@ -1,18 +1,9 @@
 {
   "fileDirections": {
     "40 Research/40 Apps & Tools/List of Apps & Tools Installed.md": "auto",
-    "10 Personal/14 Workout/14 Workout.md": "auto",
-    "10 Personal/11 Documents/11.02 Finance/11.02 Finance.md": "auto",
-    "10 Personal/15 Shopping/15 Shopping.md": "ltr",
-    "Templates/FolderNotePersonal.md": "auto",
-    "20 Education/24 Semester 2/24.05 Development Tools/3 Quests/3 project - Joomla Site Creation.md": "rtl",
-    "20 Education/24 Semester 2/24.05 Development Tools/24.05 Development Tools.md": "ltr",
-    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.0 מעבד חד מחזורי.md": "rtl",
-    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/7.1 מעבד רב-מחזורי.md": "rtl",
-    "40 Research/46 AI/_AIConsole.md": "rtl",
-    "20 Education/24 Semester 2/24.04 Probability Intro/2 My Notes/8.0 משפט הגבול המרכזי.md": "auto",
-    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/2 My Notes.md": "ltr",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/2 My Notes.md": "auto"
+    "40 Research/46 AI/_AIConsole.md": "auto",
+    "20 Education/24 Semester 2/24.04 Probability/2 My Notes/8.0 משפט הגבול המרכזי.md": "auto",
+    "20 Education/24 Semester 2/DevTools/3 Quests/3 project - Joomla Site Creation.md": "rtl"
   },
   "defaultDirection": "auto",
   "rememberPerFile": true,

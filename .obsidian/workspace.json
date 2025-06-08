@@ -8,133 +8,11 @@
         "type": "split",
         "children": [
           {
-            "id": "0657fc423d5cfeae",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "73e71ec8077845e1",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10 Personal/Personal Hub.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Personal Hub"
-                }
-              },
-              {
-                "id": "c0e74c806290b6da",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10 Personal/14 Workout/14 Workout.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "14 Workout"
-                }
-              }
-            ]
-          },
-          {
-            "id": "aed4587927b174bb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bcb2c5231acf380b",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 Education/Education Hub.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Education Hub"
-                }
-              },
-              {
-                "id": "df16a7004185696e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/2 My Notes.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2 My Notes"
-                }
-              },
-              {
-                "id": "d3f27fab02d9a8a5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/4 Dive In.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "4 Dive In"
-                }
-              },
-              {
-                "id": "d31cee3a093e8256",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 Education/24 Semester 2/24.01 Java OOP/24.01 Java OOP.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "24.01 Java OOP"
-                }
-              },
-              {
-                "id": "cd07ffaf42d9cf2f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20 Education/Education Hub copy.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Education Hub copy"
-                }
-              }
-            ],
-            "currentTab": 3
-          },
-          {
             "id": "4f9c960ddcac55a9",
             "type": "tabs",
             "children": [
               {
-                "id": "c90a855254949a31",
+                "id": "346a546f1ab6fbb1",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -151,14 +29,14 @@
                 }
               },
               {
-                "id": "30864dfdae279623",
+                "id": "cc0a8be70b498b03",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "40 Research/42 Data & Settings/04 Obsidian.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false,
                     "backlinks": false
                   },
@@ -168,47 +46,129 @@
                 }
               },
               {
-                "id": "429e1d34e89d6d38",
+                "id": "96cf37928201cb77",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "40 Research/46 AI/_AIConsole.md",
+                    "file": "40 Research/43 Playground/Tasks Playground.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tasks Playground"
+                }
+              },
+              {
+                "id": "39b409dc8cc20dba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10 Personal/11 Documents/11 Documents.md",
                     "mode": "preview",
                     "source": false,
                     "backlinks": false
                   },
-                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "_AIConsole"
+                  "title": "11 Documents"
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
-            "id": "d311d61097e6f0e3",
-            "type": "tabs",
+            "id": "00747e5a829fd590",
+            "type": "split",
             "children": [
               {
-                "id": "70b872ad1d1555e6",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "30 Work/Work Hub.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": false
+                "id": "d311d61097e6f0e3",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "110e671eb95d5be8",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "30 Work/Work Hub.md",
+                        "mode": "preview",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "Work Hub"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "b63883978a94d1c1",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "94c24c9ef561eb9e",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "10 Personal/Personal Hub.md",
+                        "mode": "preview",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "Personal Hub"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "0061cbd0bc8599cd",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "3bc30d8ad67d9a7d",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "20 Education/Education Hub.md",
+                        "mode": "preview",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "Education Hub"
+                    }
                   },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Work Hub"
-                }
+                  {
+                    "id": "3212814af30f7a55",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "20 Education/24 Semester 2/DevTools/3 Quests/3 project - Joomla Site Creation.md",
+                        "mode": "preview",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "3 project - Joomla Site Creation"
+                    }
+                  }
+                ],
+                "currentTab": 1
               }
-            ]
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -253,7 +213,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mcl-",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -268,7 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 288.5
   },
   "right": {
     "id": "01c80885edef377f",
@@ -341,167 +301,17 @@
             }
           },
           {
-            "id": "3a3918a5b65b4bb8",
+            "id": "ab3ba4a42e1729d6",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "code-execute-manage-executors",
               "state": {},
               "icon": "lucide-file",
               "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "1166243db9fe5482",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c9ebe06ce0b14c43",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "aaf77061b4068734",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "60e82d7f71d70a37",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "a25fed299f8921a9",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "71793a014410d00e",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "27108c5459d36a43",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "33dfaddb5fe6218f",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b5d7255a2fd0efb2",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "223a829eb4c52e64",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "661d3ea522044e0f",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "dc88ac90789ed2fd",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d571791afbce9ec5",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "69b8b468ca7617fb",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "011e7b8e9fe93c86",
-            "type": "leaf",
-            "state": {
-              "type": "pw.todo-list",
-              "state": {},
-              "icon": "check-small",
-              "title": "Todo"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "b41efa34f62597d2",
@@ -514,10 +324,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20 Education/Education Hub.md"
+                "file": "20 Education/24 Semester 2/24.03 Calculus 2/2 My Notes/0 Intro/מבוא - אינטגרל קווי ומשטחי.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Education Hub"
+              "title": "File properties for מבוא - אינטגרל קווי ומשטחי"
             }
           },
           {
@@ -532,16 +342,6 @@
               },
               "icon": "lucide-archive",
               "title": "All properties"
-            }
-          },
-          {
-            "id": "d470cddf1c34f88c",
-            "type": "leaf",
-            "state": {
-              "type": "trash-explorer",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
             }
           }
         ]
@@ -558,67 +358,60 @@
       "iconic:Open rulebook": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "proletarian-wizard:Open planning": false,
-      "templater-obsidian:Templater": false,
-      "card-board:CardBoard": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "d31cee3a093e8256",
+  "active": "39b409dc8cc20dba",
   "lastOpenFiles": [
-    "Vault Assets/Simple CLM/simpleclm-mediumoblique-webfont.ttf",
-    "Vault Assets/Simple CLM/simpleclm-medium-webfont.ttf",
-    "Vault Assets/Simple CLM/simpleclm-boldoblique-webfont.ttf",
-    "Vault Assets/Simple CLM/simpleclm-bold-webfont.ttf",
-    "Vault Assets/Simple CLM/LICENSE",
-    "Vault Assets/Simple CLM/GNU-GPL",
-    "Vault Assets/Marlos/Marlos.otf",
-    "Vault Assets/SF Hebrew/SF-Hebrew.ttf",
-    "Vault Assets/SF Hebrew/SF-Hebrew.otf",
-    "Vault Assets/Merriweather/Merriweather-VariableFont_opsz,wdth,wght.ttf",
-    "Vault Assets/Merriweather/Merriweather-Italic-VariableFont_opsz,wdth,wght.ttf",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/11.0 Files.md",
-    "20 Education/Education Hub.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/24.01 Java OOP.md",
-    "20 Education/24 Semester 2/24.03 Calculus 2/24.03 Calculus 2.md",
-    "20 Education/Education Hub copy.md",
-    "10 Personal/Personal Hub.md",
-    "10 Personal/14 Workout/14 Workout.md",
-    "40 Research/44 Playground/01 HUB Playground.md",
-    "40 Research/44 Playground/44 Playground.md",
-    "10 Personal/13 Entertainment/13 Entertainment.md",
     "40 Research/42 Data & Settings/04 Obsidian.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/2 My Notes.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/10.1 Java Interfaces.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/Untitled.md",
-    "20 Education/24 Semester 2/24.03 Calculus 2/2 My Notes/2 My Notes.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/4 Dive In/4 Dive In.md",
-    "20 Education/24 Semester 2/24.02 Comp Architecture/24.02 Comp Architecture.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/1 Raw Material/1 Raw Material.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/3 Quests/3 Quests.md",
-    "2 Notes.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/5 Assets/5 Assets.md",
-    "Untitled.md",
-    "20 Education/24 Semester 2/24.01 Java OOP/6 Past Exams/6 Past Exams.md",
-    "Templates/FolderNoteEducation.md",
+    "20 Education/24 Semester 2/DevTools/3 Quests/3 project - Joomla Site Creation.md",
+    "40 Research/43 Playground/Tasks Playground.md",
+    "20 Education/24 Semester 2/DevTools/2 My Notes/5.0 Docker, SemVer.md",
+    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/10.0 Files.md",
+    "20 Education/24 Semester 2/24.03 Calculus 2/2 My Notes/3 Integrals/11.0 אינטגרל משולש.md",
+    "20 Education/24 Semester 2/24.01 Java OOP/24.01 Java OOP.md",
+    "20 Education/Education Hub.md",
+    "40 Research/43 Playground/43 Playground.md",
+    "40 Research/43 Playground/Kanban01.md",
+    "40 Research/43 Playground/Untitled 1.md",
+    "40 Research/43 Playground/Untitled.md",
+    "40 Research/43 Playground/Untitled Kanban.md",
+    "40 Research/Research Hub.md",
+    "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/9.0 נקודה צפה (Floating Point).md",
     "20 Education/24 Semester 2/24.02 Comp Architecture/2 My Notes/2 My Notes.md",
-    "Attachments/Pasted image 20250604094151.png",
-    "20 Education/21 Administration/_attachments/Pasted image 20250603101748.png",
-    "20 Education/21 Administration/21.01 מלגה/14 שעות התנדבות פברואר 25.jpg",
-    "20 Education/21 Administration/21.01 מלגה/13 שעות התנדבות ינואר 25.JPG",
-    "20 Education/21 Administration/21.01 מלגה/12 שעות התנדבות דצמבר 24.JPG",
-    "20 Education/21 Administration/21.01 מלגה/11 שעות התנדבות נובמבר 24.JPG",
-    "20 Education/21 Administration/21.01 מלגה/‎⁨01 צילום תז + ספח⁩.png",
-    "20 Education/21 Administration/Pasted image 20250603101748.png",
-    "20 Education/21 Administration/‎⁨01 צילום תז + ספח⁩.png",
-    "20 Education/21 Administration/11 שעות התנדבות נובמבר 24.JPG",
+    "20 Education/24 Semester 2/24.03 Calculus 2/3 Quests/3 Quests.md",
+    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/2 My Notes.md",
+    "20 Education/24 Semester 2/24.01 Java OOP/2 My Notes/1.0 Object-Oriented Programming.md",
+    "20 Education/24 Semester 2/24.03 Calculus 2/2 My Notes/2 My Notes.md",
+    "40 Research/_attachments/SS 08062025 at 22.07.51.png",
+    "20 Education/24 Semester 2/DevTools/3 Quests/3 Quests.md",
+    "20 Education/24 Semester 2/DevTools/DevTools.md",
+    "20 Education/24 Semester 2/DevTools/2 My Notes/2 My Notes.md",
+    "20 Education/22 Projects/22 Projects.md",
+    "20 Education/24 Semester 2/DevTools/5 Assets/5 Assets.md",
+    "20 Education/24 Semester 2/DevTools/4 Dive In/4 Dive In.md",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Sors 2/Mods, Patches & Additional Files/GBA Vc Stuff/Sors 2 Icon.png",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Sors 2/Mods, Patches & Additional Files/GBA Vc Stuff/Sors 2 Footer.png",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Sors 2/Mods, Patches & Additional Files/GBA Vc Stuff/Sors 2 Banner.jpg",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Saiph 2/Mods, Patches & Additional Files/3DS Stuff/Saiph2_3DS Icon.png",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Saiph 2/Mods, Patches & Additional Files/3DS Stuff/Saiph2_3DS Title Footer.png",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Saiph 2/Mods, Patches & Additional Files/3DS Stuff/Saiph2_3DS Banner.bmp",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Saiph 2/Mods, Patches & Additional Files/3DS Stuff/Saiph2_3DS Icon.bin",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Saiph 2/Mods, Patches & Additional Files/3DS Stuff/3DS VC Mod v1_4_0.ips",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Sors 2/Mods, Patches & Additional Files/GBA Vc Stuff",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Saiph 2/Guides & Documentation/TM Locations v1_4_0.txt",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Sors 2/Mods, Patches & Additional Files/GBA VC Mod Tech Demo.ips",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Sors 2/Guides & Documentation/TM Locations.txt",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Saiph 2/Guides & Documentation/Regression Shard Locations v1_4_0.txt",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Sors 2/Guides & Documentation/Pokemon Availibility.png",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Sors 2/Guides & Documentation/Patching Guide.txt",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Saiph 2/Guides & Documentation/Wild Pokémon Guide v1_4_0.xlsx",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Saiph 2/Guides & Documentation/Postgame Guide.docx",
+    "10 Personal/13 Entertainment/13.01 GBA/Custom Hacks/[Custom] Pokémon Saiph 2/Guides & Documentation/Pokémon Availability v1_4_0.png",
+    "10 Personal/13 Entertainment/13.01 GBA/Database/Save States/d5b1e77975fcda831e0e9a7b527906bf3f40ecd0/CC862468-C716-40AF-BDC7-A1A6377DF0E8.png",
     "Untitled.canvas"
   ]
 }

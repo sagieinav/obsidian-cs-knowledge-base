@@ -3,7 +3,7 @@
   "ctrlKey": true,
   "altKey": false,
   "hideFolderNote": true,
-  "templatePath": "Templates/FolderNoteResearch.md",
+  "templatePath": "Templates/FolderNoteEducation.md",
   "autoCreate": false,
   "enableCollapsing": true,
   "excludeFolders": [],
@@ -48,7 +48,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "exclude_folders",
+  "settingsTab": "general",
   "supportedFileTypes": [
     "md",
     "canvas"

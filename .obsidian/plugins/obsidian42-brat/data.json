@@ -1,9 +1,14 @@
 {
   "pluginList": [
+    "mnaoumov/obsidian-advanced-exclude",
     "echo-saurav/slash-snippets-plugin",
     "aidan-gibson/obsidian-opener"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "mnaoumov/obsidian-advanced-exclude",
+      "version": ""
+    },
     {
       "repo": "echo-saurav/slash-snippets-plugin",
       "version": "latest"

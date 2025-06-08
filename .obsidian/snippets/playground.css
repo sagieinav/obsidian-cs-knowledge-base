@@ -1,0 +1,60 @@
+/* === List bullets/numbers color === */
+
+/*body.theme-dark .markdown-rendered ul li::marker,
+body.theme-dark .markdown-rendered ol li::marker {
+    color: #999281 !important;
+}
+
+body.theme-light .markdown-rendered ul li::marker,
+body.theme-light .markdown-rendered ol li::marker {
+    color: #868071 !important;
+}*/
+
+
+
+
+/* Custom styles for Highlightr highlighted text color and weight*/
+
+
+/* === DEFINE THE DESIRED TEXT COLOR */
+body {
+    --highlightr-text-color: var(--color-accent); /* Use the light theme variable */
+}
+
+
+.highlightr-lowlight span.cm-highlight,
+.highlightr-lowlight .markdown-preview-view mark,
+.highlightr-floating span.cm-highlight,
+.highlightr-floating .markdown-preview-view mark,
+.highlightr-rounded span.cm-highlight,
+.highlightr-rounded .markdown-preview-view mark,
+.highlightr-realistic span.cm-highlight,
+.highlightr-realistic .markdown-preview-view mark,
+.cm-s-obsidian span.cm-highlight, /* General editor highlight selector */
+.markdown-preview-view mark, /* General preview mark selector */
+/* Added specificity for mark within callouts */
+.callout mark,
+.callout-content mark,
+.cm-embed-block mark,
+.cm-embed-block .callout-content mark
+{
+    text-shadow: 3px 3px 1px rgba(0, 0, 0, 0.7) !important;
+}
+
+@media print {
+    .highlightr-lowlight span.cm-highlight,
+    .highlightr-lowlight .markdown-preview-view mark,
+    .highlightr-floating span.cm-highlight,
+    .highlightr-floating .markdown-preview-view mark,
+    .cm-s-obsidian span.cm-highlight, /* General editor highlight selector */
+    .markdown-preview-view mark, /* General preview mark selector */
+    /* Added specificity for mark within callouts */
+    .callout mark,
+    .callout-content mark,
+    .cm-embed-block mark,
+    .cm-embed-block .callout mark,
+    .cm-embed-block .callout-content mark
+{
+
+}
+}

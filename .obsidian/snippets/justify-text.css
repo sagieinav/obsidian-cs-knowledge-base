@@ -1,0 +1,5 @@
+/* _hyphenation and justification      */
+.cm-s-obsidian, .markdown-preview-view {
+  	text-align: justify; /* Align text to both left and right margins */
+/*    hyphens: auto;       /* Automatically hyphenate words if needed to help justification */
+}

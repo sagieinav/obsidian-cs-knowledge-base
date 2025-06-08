@@ -5,6 +5,7 @@ cssclasses:
 direction: ltr
 banner: "[[EducationBanner01.png]]"
 banner_y: 0.798
+banner_header: Quests
 ---
 
 %% Begin Waypoint %%
@@ -19,5 +20,6 @@ banner_y: 0.798
 - [[9.1 אינטגרל כפול - החלפת משתנים (מסמך 08).pdf]]
 - [[9.2 אינטגרל כפול - יישומים (מסמך 09).pdf]]
 - [[10.0 אינטגרל משולש (מסמך 10).pdf]]
+- [[11.0 אינטגרל קווי (מסמך 11).pdf]]
 
 %% End Waypoint %%
