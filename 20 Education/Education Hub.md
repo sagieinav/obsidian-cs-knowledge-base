@@ -55,13 +55,13 @@ banner_header: Education
 >
 >
 > > [!devtools] **[[DevTools]]**
-> > 7. [[20 Education/24 Semester 2/DevTools/2 My Notes/2 My Notes|My Notes]]
+> > 7. [[20 Education/24 Semester 2/24.05 DevTools/2 My Notes/2 My Notes|My Notes]]
 > >
-> > 8. [[20 Education/24 Semester 2/DevTools/3 Quests/3 Quests|Quests]]
+> > 8. [[20 Education/24 Semester 2/24.05 DevTools/3 Quests/3 Quests|Quests]]
 > >
-> > 9. [[20 Education/24 Semester 2/DevTools/4 Dive In/4 Dive In|Dive In]]
+> > 9. [[20 Education/24 Semester 2/24.05 DevTools/4 Dive In/4 Dive In|Dive In]]
 > >
-> > 10. [[20 Education/24 Semester 2/DevTools/5 Assets/5 Assets|Assets]]
+> > 10. [[20 Education/24 Semester 2/24.05 DevTools/5 Assets/5 Assets|Assets]]
 > >
 > >
 >

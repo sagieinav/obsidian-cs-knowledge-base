@@ -1,5 +1,5 @@
 {
-  "cssTheme": "",
+  "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "Cards Shadow",
     "custom-animated-links",
@@ -46,7 +46,6 @@
     "justify-text",
     "katex-font-size",
     "left-sidebar",
-    "links-styling",
     "max-width",
     "pdf-page-breaks",
     "playground",
@@ -60,7 +59,8 @@
     "tasks-popup",
     "extended-colorschemes",
     "MCL Multi Column-v3-good",
-    "MCL Multi Column"
+    "MCL Multi Column",
+    "links-styling"
   ],
   "theme": "obsidian",
   "baseFontSize": 17,

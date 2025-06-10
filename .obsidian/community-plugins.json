@@ -12,7 +12,6 @@
   "mathlinks",
   "table-editor-obsidian",
   "obsidian-advanced-uri",
-  "obsidian-auto-link-title",
   "automatic-table-of-contents",
   "obsidian42-brat",
   "callout-integrator",
@@ -23,7 +22,6 @@
   "folder-notes",
   "highlightr-plugin",
   "homepage",
-  "convert-katex-to-mathjax",
   "obsidian-list-callouts",
   "note-toolbar",
   "number-headings-obsidian",
@@ -36,5 +34,6 @@
   "templater-obsidian",
   "slash-snippets",
   "math-in-callout",
-  "inline-math"
+  "inline-math",
+  "convert-katex-to-mathjax"
 ]
